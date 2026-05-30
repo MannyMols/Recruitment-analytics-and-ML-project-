@@ -1,0 +1,5 @@
+Model,ROC-AUC,Accuracy
+Logistic Regression,0.592,0.68
+Random Forest,0.5403,0.73
+LR Balanced,0.6008,0.57
+RF Balanced,0.5655,0.74

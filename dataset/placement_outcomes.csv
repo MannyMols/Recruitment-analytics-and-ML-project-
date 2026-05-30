@@ -1,0 +1,371 @@
+placement_id,candidate_id,placement_status,time_to_hire_days,offered_salary_gbp,offer_accepted,client_satisfaction_score,rehire_likelihood,placement_fee_gbp,estimated_fee_value_gbp,interview_rounds,hiring_manager,recruiter_assigned,client_company,client_industry,role_title,contract_type,placement_region,start_date,end_date,probation_outcome,performance_rating,invoice_status,replacement_required
+92719110,6572141,completed,42,80500,pending,10,yes,10,8050,3,Claire Robinson,James Wilson,Foyle Secure Networks,Energy,UX Designer,permanent,Wales,2024-02-05,2024-05-17,not applicable,10,paid,no
+44576778,6488339,on probation,31,40500,yes,6,maybe,15,6075,2,Sanjay Rao,Amira Khan,MetroGov Digital,Energy,IoT Security Engineer,contract,Scotland,2024-10-04,,not applicable,,not invoiced,no
+87844874,3910874,active,25,33500,yes,7,maybe,13,4355,3,Patrick Murphy,Sean O'Donnell,Aster Cloud Systems,Financial Services,Cybersecurity Analyst,contract,Northern Ireland,2023-05-02,,not applicable,5,paid,no
+80044045,3389551,terminated,42,62500,yes,3,no,14,8750,3,Robert Lewis,Megan Campbell,Nimbus Cyber Defence,Energy,Finance Analyst,fixed-term,Scotland,2025-08-16,2026-04-10,not applicable,2,paid,yes
+13183002,8688429,active,36,26000,yes,7,maybe,12,3120,2,Robert Lewis,James Wilson,GreenGrid Energy,Public Sector,Marketing Analyst,permanent,Remote,2024-12-28,,not applicable,7,paid,no
+16963613,1920871,extended contract,37,35500,yes,10,yes,17,6035,2,Patrick Murphy,Thomas Wright,Orion Telecom,Healthcare,Data Engineer,permanent,Northern Ireland,2023-03-03,2024-09-29,failed,10,partially paid,no
+50208806,7393366,active,32,46000,yes,8,maybe,18,8280,1,Emma Collins,Amira Khan,Pioneer Manufacturing,Manufacturing,UX Designer,contract,Scotland,2023-12-21,,not applicable,9,paid,no
+25708597,5113186,active,19,44000,yes,5,no,20,8800,3,Claire Robinson,Naomi Patel,Foyle Secure Networks,Telecommunications,AI Research Engineer,permanent,Republic of Ireland,2024-08-22,,not applicable,5,paid,no
+75108412,9124138,terminated,48,102000,yes,3,no,16,16320,3,Claire Robinson,Priya Nair,Vertex Retail Solutions,Cybersecurity,Machine Learning Engineer,temp-to-perm,England,2024-03-08,2024-07-20,passed,3,paid,yes
+42281028,8087691,on probation,32,60500,yes,5,no,19,11495,4,Robert Lewis,Priya Nair,Silverline Payments,Telecommunications,IoT Security Engineer,permanent,Scotland,2025-06-07,,extended,,pending,no
+13647940,2565104,terminated,20,44000,yes,6,maybe,15,6600,2,Sanjay Rao,Sean O'Donnell,Aster Cloud Systems,Financial Services,Software Engineer,fixed-term,Wales,2025-12-05,2026-05-14,failed,4,paid,no
+28264521,4397277,active,48,37500,yes,10,maybe,18,6750,1,Emma Collins,Grace Mitchell,Summit Learning Tech,Retail,Business Analyst,permanent,England,2025-08-03,,not applicable,10,paid,no
+92313691,4065022,active,17,44000,yes,10,yes,20,8800,2,Hannah Foster,Sean O'Donnell,Summit Learning Tech,Logistics,AI Research Engineer,permanent,Republic of Ireland,2023-12-07,,not applicable,10,paid,no
+76499046,9894295,on probation,28,100000,yes,8,yes,20,20000,1,Oliver Green,Grace Mitchell,Nimbus Cyber Defence,Telecommunications,AI Research Engineer,contract,Republic of Ireland,2024-02-10,,passed,,partially paid,no
+58681447,7095266,terminated,28,98500,yes,4,maybe,19,18715,3,Laura Bennett,James Wilson,MetroGov Digital,Education,AI Research Engineer,permanent,Republic of Ireland,2024-07-02,2025-06-22,passed,4,paid,yes
+63602793,5592762,active,33,59500,yes,6,maybe,10,5950,1,Sanjay Rao,Daniel Hughes,BrightPath Software,Retail,Frontend Developer,permanent,Scotland,2024-01-08,,not applicable,4,pending,no
+17268859,9250634,terminated,27,41000,yes,6,yes,10,4100,3,Sanjay Rao,Thomas Wright,Pioneer Manufacturing,Retail,IoT Security Engineer,contract,Wales,2026-03-09,2027-05-21,not applicable,4,not invoiced,no
+76583048,2256403,active,48,56500,yes,7,yes,11,6215,4,Michael Turner,Daniel Hughes,Nimbus Cyber Defence,Public Sector,Machine Learning Engineer,contract,Remote,2023-09-19,,not applicable,6,paid,no
+70856849,5172922,extended contract,35,29500,yes,7,maybe,17,5015,2,Hannah Foster,Thomas Wright,NorthBridge Analytics,Retail,Full Stack Developer,contract,Scotland,2025-08-26,2027-03-22,passed,7,paid,no
+39575708,5877442,active,36,27500,yes,7,maybe,12,3300,4,Robert Lewis,Naomi Patel,Redstone AI,Financial Services,Marketing Analyst,permanent,Republic of Ireland,2023-05-30,,not applicable,5,paid,no
+59842730,8485152,active,41,36000,yes,7,maybe,19,6840,2,Hannah Foster,Daniel Hughes,BrightPath Software,Retail,IoT Security Engineer,fixed-term,Remote,2025-05-23,,not applicable,6,paid,no
+13871277,7922180,completed,50,83000,yes,8,yes,18,14940,4,Emma Collins,Thomas Wright,GreenGrid Energy,Technology,Cloud Engineer,permanent,Remote,2023-03-17,2023-12-12,passed,9,pending,no
+41867441,7689251,active,60,51500,yes,10,yes,15,7725,4,Michael Turner,Thomas Wright,Summit Learning Tech,Consulting,Database Administrator,permanent,Scotland,2023-09-26,,not applicable,8,paid,no
+75151539,7310831,active,20,44500,pending,6,maybe,20,8900,3,Eoin Kelly,Megan Campbell,Cobalt Consulting,Education,Database Administrator,fixed-term,Republic of Ireland,2024-12-28,,not applicable,4,pending,no
+59379892,9952874,extended contract,37,37500,yes,7,maybe,20,7500,2,Marta Nowak,Daniel Hughes,Aster Cloud Systems,Education,Business Analyst,permanent,Northern Ireland,2024-06-11,2025-07-23,extended,8,pending,no
+37114045,6368036,terminated,44,35500,yes,6,maybe,17,6035,3,Michael Turner,Sean O'Donnell,Aster Cloud Systems,Financial Services,Data Engineer,permanent,Wales,2025-10-01,2027-01-01,passed,6,paid,no
+51001541,6354776,on probation,40,93000,yes,8,yes,12,11160,2,Oliver Green,Daniel Hughes,Redstone AI,Energy,Sales Engineer,contract,Republic of Ireland,2024-06-05,,not applicable,,pending,no
+53186760,8973936,on probation,42,49000,yes,7,maybe,10,4900,3,Patrick Murphy,Sofia Garcia,GreenGrid Energy,Public Sector,Data Engineer,contract,Remote,2024-10-12,,passed,,pending,no
+51275980,7386921,active,39,61500,yes,7,no,19,11685,2,Eoin Kelly,Amira Khan,Vertex Retail Solutions,Education,Solutions Architect,permanent,Wales,2025-11-11,,not applicable,7,paid,no
+88654031,5268726,on probation,19,73500,yes,6,no,20,14700,2,Nadia Hussain,Adam Clarke,Pioneer Manufacturing,Telecommunications,Product Manager,permanent,Remote,2024-03-30,,failed,,paid,no
+50071766,5483212,extended contract,15,30000,yes,8,yes,17,5100,1,Sanjay Rao,Daniel Hughes,Cedar Finance Group,Telecommunications,Cloud Engineer,permanent,Republic of Ireland,2025-11-04,2027-02-06,not applicable,8,partially paid,no
+81389789,2031518,terminated,42,29000,no,2,no,15,4350,2,Robert Lewis,Megan Campbell,Summit Learning Tech,Public Sector,UX Designer,contract,England,2025-02-02,2026-04-28,passed,2,pending,yes
+48343261,4189932,on probation,15,44000,yes,1,no,11,4840,3,Marta Nowak,Adam Clarke,NorthBridge Analytics,Logistics,Project Manager,permanent,Remote,2025-12-30,,passed,,paid,no
+92604642,1099526,terminated,40,43000,yes,5,maybe,16,6880,3,Nadia Hussain,Daniel Hughes,Orion Telecom,Technology,Marketing Analyst,permanent,Remote,2024-02-16,2025-08-08,failed,3,paid,yes
+88678630,7280550,active,34,52500,yes,9,yes,10,5250,4,Marta Nowak,Sofia Garcia,Silverline Payments,Public Sector,UX Designer,permanent,Wales,2024-04-17,,not applicable,8,paid,no
+97530087,9338514,terminated,5,43000,yes,4,no,10,4300,3,Eoin Kelly,Holly Evans,Silverline Payments,Public Sector,Data Analyst,permanent,Remote,2024-08-05,2024-10-29,extended,4,pending,yes
+63879403,9841898,completed,64,34500,yes,10,yes,15,5175,4,Laura Bennett,Daniel Hughes,Orion Telecom,Telecommunications,Sales Engineer,fixed-term,Northern Ireland,2024-10-08,2025-05-18,extended,8,pending,no
+57211121,3184771,completed,25,54500,yes,7,yes,11,5995,3,Robert Lewis,Naomi Patel,Harbourline Logistics,Manufacturing,Project Manager,fixed-term,England,2024-10-21,2024-12-14,passed,7,partially paid,no
+25241847,1635921,completed,42,52000,yes,9,yes,20,10400,4,Hannah Foster,Thomas Wright,BlueHarbour Health,Public Sector,Business Analyst,permanent,Wales,2025-01-28,2025-07-30,not applicable,9,partially paid,no
+21186807,2808480,extended contract,55,58000,yes,10,yes,11,6380,4,Michael Turner,Thomas Wright,Cedar Finance Group,Logistics,Full Stack Developer,contract,Republic of Ireland,2023-05-31,2024-07-30,not applicable,9,paid,no
+24742151,9346470,completed,48,59000,yes,7,maybe,17,10030,3,Marta Nowak,Sofia Garcia,MetroGov Digital,Education,Solutions Architect,permanent,England,2023-03-17,2024-02-25,passed,5,paid,no
+45797648,4269851,active,45,48000,yes,6,maybe,17,8160,4,Oliver Green,Sofia Garcia,Cedar Finance Group,Financial Services,Business Analyst,permanent,Northern Ireland,2024-08-05,,not applicable,5,not invoiced,no
+32698640,5972267,active,34,43000,yes,9,yes,14,6020,3,Oliver Green,Sofia Garcia,Aster Cloud Systems,Manufacturing,Project Manager,permanent,Wales,2025-11-07,,not applicable,7,paid,no
+14448916,2692793,active,46,32000,yes,5,no,19,6080,2,Patrick Murphy,Sean O'Donnell,Nimbus Cyber Defence,Public Sector,QA Engineer,permanent,England,2023-03-31,,not applicable,6,pending,no
+62531860,6787929,active,22,56000,yes,9,yes,10,5600,5,Eoin Kelly,Priya Nair,BrightPath Software,Education,HR Coordinator,permanent,Northern Ireland,2024-11-09,,not applicable,9,paid,no
+87531807,6178639,active,30,43000,yes,8,yes,13,5590,3,Michael Turner,Naomi Patel,Lagan Data Labs,Cybersecurity,Project Manager,fixed-term,Northern Ireland,2024-11-16,,not applicable,8,pending,no
+90997039,1779039,terminated,31,67500,yes,5,no,20,13500,5,Patrick Murphy,Grace Mitchell,GreenGrid Energy,Financial Services,Machine Learning Engineer,permanent,Remote,2025-11-23,2026-03-20,failed,4,not invoiced,yes
+92649781,1124631,active,39,40000,yes,7,yes,17,6800,2,Claire Robinson,Amira Khan,Nimbus Cyber Defence,Cybersecurity,Cloud Engineer,fixed-term,Wales,2025-09-24,,not applicable,8,paid,no
+40134967,6948110,on probation,51,61000,yes,6,yes,18,10980,2,Patrick Murphy,Thomas Wright,Cedar Finance Group,Education,SOC Analyst,permanent,Remote,2025-05-19,,passed,,paid,no
+10084683,8997154,on probation,26,83000,yes,6,maybe,16,13280,4,Michael Turner,Naomi Patel,Cobalt Consulting,Energy,Backend Developer,contract,Remote,2024-01-31,,passed,,paid,no
+27955538,7612182,completed,36,53000,yes,9,yes,20,10600,1,Hannah Foster,Naomi Patel,MetroGov Digital,Healthcare,SOC Analyst,contract,Northern Ireland,2023-06-23,2023-11-06,extended,7,paid,no
+26876243,5781458,active,19,52500,yes,7,maybe,18,9450,2,Claire Robinson,Amira Khan,MetroGov Digital,Education,Network Engineer,contract,Northern Ireland,2025-03-13,,not applicable,7,paid,no
+16197973,5896858,extended contract,27,51500,yes,9,maybe,13,6695,1,Claire Robinson,Megan Campbell,Orion Telecom,Cybersecurity,Product Manager,contract,Wales,2025-04-22,2026-05-18,not applicable,10,pending,no
+67060057,4998324,terminated,25,41000,yes,3,no,15,6150,4,Laura Bennett,Sofia Garcia,NorthBridge Analytics,Energy,Data Engineer,contract,Remote,2026-03-30,2027-06-18,extended,4,paid,yes
+50581850,1589757,active,36,35500,yes,5,no,11,3905,4,Patrick Murphy,Megan Campbell,MetroGov Digital,Technology,IoT Security Engineer,permanent,Northern Ireland,2025-01-21,,not applicable,6,not invoiced,no
+30275942,7996999,completed,25,62500,yes,9,yes,15,9375,2,Robert Lewis,James Wilson,Nimbus Cyber Defence,Cybersecurity,Sales Engineer,permanent,Remote,2024-03-12,2025-05-20,failed,7,paid,no
+95789416,6737991,terminated,35,78000,yes,6,maybe,20,15600,4,Robert Lewis,Sofia Garcia,Silverline Payments,Financial Services,Frontend Developer,permanent,Northern Ireland,2023-07-06,2024-08-22,not applicable,6,paid,no
+69163382,5723556,on probation,50,29500,yes,7,maybe,11,3245,4,Emma Collins,Naomi Patel,GreenGrid Energy,Retail,Frontend Developer,permanent,England,2023-05-05,,not applicable,,pending,no
+54958461,8431785,extended contract,38,49000,yes,8,yes,16,7840,2,Patrick Murphy,Thomas Wright,Lagan Data Labs,Telecommunications,Network Engineer,fixed-term,England,2025-05-24,2026-05-24,failed,9,paid,no
+60709245,8122989,completed,38,37500,yes,7,yes,13,4875,2,Eoin Kelly,Sofia Garcia,MetroGov Digital,Financial Services,Full Stack Developer,fixed-term,Wales,2024-04-11,2025-08-24,passed,8,paid,no
+76419467,6580142,extended contract,23,52500,yes,8,yes,19,9975,3,Sanjay Rao,Sean O'Donnell,Redstone AI,Technology,QA Engineer,permanent,Republic of Ireland,2023-12-27,2024-06-29,failed,6,paid,no
+24709524,6786594,extended contract,36,64000,yes,7,no,14,8960,2,Sanjay Rao,Holly Evans,Harbourline Logistics,Education,IoT Security Engineer,contract,Northern Ireland,2025-11-27,2027-08-07,failed,5,paid,no
+70027673,6312885,active,49,42000,yes,8,yes,13,5460,2,Nadia Hussain,Daniel Hughes,Lagan Data Labs,Telecommunications,Finance Analyst,permanent,Republic of Ireland,2024-08-03,,not applicable,6,paid,no
+40315294,8444027,terminated,11,36000,pending,3,maybe,17,6120,2,Nadia Hussain,Amira Khan,NorthBridge Analytics,Manufacturing,HR Coordinator,contract,Republic of Ireland,2025-12-30,2026-03-30,failed,3,pending,yes
+45681062,2848330,terminated,65,95000,yes,6,maybe,18,17100,4,Nadia Hussain,Adam Clarke,Lagan Data Labs,Telecommunications,Machine Learning Engineer,fixed-term,England,2024-09-23,2025-07-26,failed,5,paid,no
+12378538,2364292,on probation,19,47500,yes,4,no,11,5225,4,Robert Lewis,Daniel Hughes,BrightPath Software,Healthcare,QA Engineer,fixed-term,Republic of Ireland,2024-12-25,,failed,,paid,no
+56977851,3225479,on probation,51,64000,yes,7,maybe,13,8320,4,Patrick Murphy,Priya Nair,Harbourline Logistics,Retail,Business Analyst,permanent,Scotland,2025-06-07,,not applicable,,paid,no
+44708286,4246700,terminated,31,51000,no,3,no,17,8670,2,Eoin Kelly,Daniel Hughes,Cedar Finance Group,Energy,Solutions Architect,fixed-term,Remote,2025-08-01,2026-12-19,passed,1,pending,yes
+93000130,8552539,completed,45,66000,yes,7,yes,19,12540,4,Hannah Foster,Sofia Garcia,Pioneer Manufacturing,Healthcare,IoT Security Engineer,contract,Wales,2025-03-11,2025-10-02,not applicable,6,paid,no
+68231620,4952914,on probation,37,73500,no,2,maybe,17,12495,2,Michael Turner,Adam Clarke,QuantumWorks,Consulting,Cybersecurity Analyst,permanent,Remote,2024-06-16,,passed,,not invoiced,no
+49621448,4220083,terminated,9,58500,no,2,maybe,16,9360,5,Marta Nowak,Grace Mitchell,Redstone AI,Public Sector,Database Administrator,permanent,Republic of Ireland,2025-01-28,2025-05-18,passed,1,pending,yes
+97907145,1335036,terminated,9,63000,no,5,no,13,8190,2,Claire Robinson,Thomas Wright,BlueHarbour Health,Education,Solutions Architect,temp-to-perm,Republic of Ireland,2023-03-11,2024-05-04,not applicable,5,pending,yes
+88328650,1768212,terminated,41,54500,pending,2,no,19,10355,3,Hannah Foster,Daniel Hughes,BlueHarbour Health,Cybersecurity,Project Manager,fixed-term,Republic of Ireland,2023-12-29,2024-05-21,extended,3,pending,yes
+21301710,8962369,extended contract,50,35500,yes,7,yes,19,6745,4,Laura Bennett,Naomi Patel,Cedar Finance Group,Public Sector,SOC Analyst,temp-to-perm,Wales,2023-11-06,2025-09-25,not applicable,6,paid,no
+47094224,6394469,terminated,43,49000,pending,6,yes,14,6860,4,Michael Turner,Naomi Patel,Pioneer Manufacturing,Energy,Backend Developer,contract,England,2025-03-13,2025-11-19,not applicable,4,paid,no
+91400661,2849636,completed,43,40500,yes,8,yes,14,5670,2,Laura Bennett,Adam Clarke,Orion Telecom,Logistics,Marketing Analyst,permanent,Scotland,2025-07-28,2026-06-30,passed,9,paid,no
+50571737,6791334,completed,52,25500,yes,8,maybe,17,4335,1,Claire Robinson,James Wilson,Foyle Secure Networks,Logistics,Data Analyst,contract,Wales,2023-09-22,2023-12-28,extended,8,partially paid,no
+88461790,7033968,active,35,74500,yes,8,yes,18,13410,4,Patrick Murphy,Thomas Wright,Summit Learning Tech,Logistics,Cybersecurity Analyst,temp-to-perm,Scotland,2025-07-19,,not applicable,7,paid,no
+36524512,3805529,terminated,43,80500,no,4,no,11,8855,4,Robert Lewis,Holly Evans,GreenGrid Energy,Education,Data Engineer,fixed-term,Scotland,2025-11-29,2027-04-08,passed,5,paid,yes
+55902692,9210062,extended contract,27,81000,yes,10,yes,12,9720,3,Laura Bennett,Sean O'Donnell,Foyle Secure Networks,Logistics,IoT Security Engineer,permanent,Scotland,2024-04-07,2024-11-09,failed,10,paid,no
+19014117,2338300,terminated,34,59000,no,1,no,11,6490,3,Michael Turner,Amira Khan,Pioneer Manufacturing,Education,Project Manager,fixed-term,Scotland,2025-12-25,2027-02-19,not applicable,1,paid,yes
+30800365,8050494,completed,56,45500,yes,10,yes,13,5915,4,Marta Nowak,Grace Mitchell,Vertex Retail Solutions,Healthcare,QA Engineer,permanent,Republic of Ireland,2025-08-10,2026-06-25,not applicable,9,paid,no
+25336308,2186556,terminated,29,48000,pending,6,maybe,11,5280,3,Robert Lewis,Holly Evans,MetroGov Digital,Healthcare,Solutions Architect,contract,England,2025-04-28,2026-06-15,failed,7,partially paid,no
+45636092,6974589,terminated,22,33500,no,3,maybe,14,4690,3,Sanjay Rao,Sofia Garcia,Cobalt Consulting,Financial Services,SOC Analyst,contract,Northern Ireland,2025-07-07,2026-12-09,not applicable,1,paid,yes
+48175616,8474376,on probation,44,38000,yes,8,yes,10,3800,3,Patrick Murphy,James Wilson,Vertex Retail Solutions,Logistics,Project Manager,temp-to-perm,Remote,2024-01-20,,extended,,paid,no
+25842177,1097725,completed,45,60000,yes,5,no,11,6600,3,Robert Lewis,Adam Clarke,Summit Learning Tech,Consulting,Marketing Analyst,permanent,Scotland,2024-12-03,2025-04-29,not applicable,5,paid,no
+71801348,8095652,on probation,5,28000,yes,7,maybe,11,3080,2,Claire Robinson,Daniel Hughes,BrightPath Software,Cybersecurity,SOC Analyst,fixed-term,Wales,2024-10-31,,failed,,paid,no
+32211463,5311461,completed,10,84000,yes,8,maybe,10,8400,5,Marta Nowak,Amira Khan,Silverline Payments,Energy,Sales Engineer,permanent,Remote,2023-06-21,2023-08-07,not applicable,6,not invoiced,no
+33282572,5304423,on probation,49,30000,yes,5,no,17,5100,4,Eoin Kelly,James Wilson,Pioneer Manufacturing,Consulting,Database Administrator,permanent,Scotland,2025-03-27,,failed,,partially paid,no
+75893268,2331301,terminated,31,84500,yes,5,maybe,20,16900,3,Robert Lewis,Naomi Patel,BrightPath Software,Telecommunications,Solutions Architect,permanent,Republic of Ireland,2023-11-04,2025-01-02,passed,4,paid,yes
+79458837,5428398,terminated,40,45000,no,4,no,15,6750,3,Nadia Hussain,Daniel Hughes,Cobalt Consulting,Retail,Backend Developer,permanent,Republic of Ireland,2025-04-12,2025-07-04,extended,2,paid,yes
+19427889,8819311,on probation,41,38500,yes,6,yes,16,6160,2,Oliver Green,Megan Campbell,Summit Learning Tech,Technology,DevOps Engineer,permanent,Wales,2025-09-16,,failed,,paid,no
+73194034,7380328,active,41,35500,yes,8,yes,18,6390,3,Claire Robinson,Adam Clarke,OakTree Platforms,Healthcare,HR Coordinator,permanent,Remote,2024-03-31,,not applicable,9,paid,no
+18440754,1449859,on probation,59,86500,yes,5,maybe,20,17300,1,Sanjay Rao,Holly Evans,Nimbus Cyber Defence,Financial Services,Cloud Engineer,fixed-term,Wales,2025-02-12,,passed,,pending,no
+40979006,6553066,completed,28,48000,pending,9,yes,11,5280,3,Nadia Hussain,Holly Evans,Silverline Payments,Technology,Data Engineer,permanent,England,2025-11-08,2026-10-28,not applicable,7,pending,no
+97438274,2452305,terminated,66,49000,yes,6,maybe,13,6370,4,Patrick Murphy,Megan Campbell,BrightPath Software,Financial Services,UX Designer,permanent,Scotland,2023-10-06,2024-11-27,not applicable,4,paid,no
+83589705,1347412,extended contract,44,31000,pending,9,yes,12,3720,3,Robert Lewis,Grace Mitchell,Aster Cloud Systems,Cybersecurity,Full Stack Developer,permanent,England,2023-10-12,2024-12-29,failed,10,paid,no
+17605196,7189738,completed,34,27000,yes,10,yes,17,4590,3,Oliver Green,Megan Campbell,QuantumWorks,Telecommunications,Data Analyst,temp-to-perm,England,2024-02-12,2024-05-23,not applicable,10,not invoiced,no
+51425871,6379488,completed,27,26500,yes,9,maybe,14,3710,4,Patrick Murphy,Daniel Hughes,Orion Telecom,Telecommunications,Project Manager,permanent,Remote,2026-02-17,2026-10-24,passed,9,partially paid,no
+54807120,9597352,extended contract,10,24000,yes,7,maybe,17,4080,4,Laura Bennett,Holly Evans,OakTree Platforms,Telecommunications,Finance Analyst,permanent,Wales,2023-08-31,2025-04-19,passed,6,not invoiced,no
+65919569,9377927,completed,37,17000,yes,8,yes,12,2040,4,Patrick Murphy,Holly Evans,OakTree Platforms,Telecommunications,Technical Support Engineer,fixed-term,Northern Ireland,2024-04-06,2025-06-12,passed,8,paid,no
+46301776,7339557,extended contract,22,60000,yes,10,yes,10,6000,3,Marta Nowak,Priya Nair,Orion Telecom,Logistics,HR Coordinator,temp-to-perm,Remote,2023-10-14,2025-01-25,extended,8,paid,no
+95304275,7281617,completed,27,33000,yes,9,yes,11,3630,2,Laura Bennett,Thomas Wright,Cobalt Consulting,Healthcare,Data Analyst,fixed-term,Wales,2023-10-26,2025-01-09,passed,9,pending,no
+75706967,1282714,completed,47,31500,yes,10,yes,16,5040,1,Michael Turner,Priya Nair,Foyle Secure Networks,Public Sector,Finance Analyst,fixed-term,Wales,2024-05-25,2025-09-25,failed,9,paid,no
+21408347,6497966,active,32,50000,yes,8,maybe,19,9500,4,Sanjay Rao,Priya Nair,Lagan Data Labs,Cybersecurity,Sales Engineer,permanent,Wales,2024-12-11,,not applicable,9,paid,no
+29741667,5874170,active,25,41500,yes,6,maybe,11,4565,3,Robert Lewis,Megan Campbell,Summit Learning Tech,Education,Database Administrator,permanent,England,2025-06-26,,not applicable,4,paid,no
+20613733,9230747,completed,52,43000,yes,7,yes,15,6450,2,Michael Turner,Holly Evans,MetroGov Digital,Education,QA Engineer,fixed-term,Scotland,2024-01-26,2024-06-03,failed,5,paid,no
+39647855,5832216,on probation,19,45500,no,3,maybe,15,6825,3,Patrick Murphy,Naomi Patel,Harbourline Logistics,Energy,Product Manager,contract,England,2024-09-15,,passed,,paid,no
+81674865,6234064,active,18,59500,yes,8,yes,17,10115,2,Nadia Hussain,Amira Khan,Foyle Secure Networks,Cybersecurity,DevOps Engineer,fixed-term,Wales,2025-05-11,,not applicable,8,paid,no
+46602871,9872324,on probation,30,23500,yes,6,yes,11,2585,3,Oliver Green,James Wilson,Pioneer Manufacturing,Telecommunications,Full Stack Developer,fixed-term,Wales,2026-02-02,,extended,,partially paid,no
+79843959,3234155,completed,70,59000,yes,8,yes,16,9440,3,Robert Lewis,Megan Campbell,Nimbus Cyber Defence,Public Sector,Frontend Developer,permanent,Northern Ireland,2023-09-18,2024-10-15,failed,8,paid,no
+20300409,5043352,on probation,43,35500,yes,5,no,14,4970,4,Robert Lewis,Priya Nair,Silverline Payments,Cybersecurity,AI Research Engineer,fixed-term,Northern Ireland,2023-03-06,,failed,,paid,no
+19755651,8610441,active,21,45000,pending,8,yes,19,8550,2,Claire Robinson,Sean O'Donnell,Orion Telecom,Consulting,DevOps Engineer,permanent,Republic of Ireland,2023-03-12,,not applicable,8,paid,no
+43444868,6165739,terminated,60,46000,yes,5,maybe,19,8740,2,Sanjay Rao,Sean O'Donnell,Aster Cloud Systems,Public Sector,Data Engineer,permanent,Scotland,2024-05-16,2025-06-12,extended,3,not invoiced,yes
+97000072,1377277,active,45,25500,pending,8,yes,19,4845,4,Emma Collins,Sean O'Donnell,Aster Cloud Systems,Financial Services,HR Coordinator,fixed-term,Republic of Ireland,2023-08-24,,not applicable,7,paid,no
+39727757,6940102,on probation,26,98000,yes,6,yes,17,16660,2,Eoin Kelly,Megan Campbell,Nimbus Cyber Defence,Education,Product Manager,permanent,England,2023-07-21,,not applicable,,paid,no
+87767699,5771344,active,41,63000,yes,5,no,17,10710,2,Marta Nowak,Priya Nair,Harbourline Logistics,Retail,Sales Engineer,contract,Scotland,2023-11-07,,not applicable,4,paid,no
+49570455,6449274,on probation,56,59000,yes,8,yes,11,6490,4,Nadia Hussain,Naomi Patel,Cobalt Consulting,Consulting,Finance Analyst,permanent,Remote,2025-10-31,,not applicable,,paid,no
+82168491,4869504,extended contract,34,67000,yes,9,maybe,16,10720,2,Claire Robinson,Naomi Patel,Cedar Finance Group,Retail,Data Analyst,permanent,England,2023-09-16,2024-10-07,not applicable,9,paid,no
+48073387,6340410,active,44,59000,yes,8,yes,16,9440,2,Oliver Green,Naomi Patel,Vertex Retail Solutions,Telecommunications,Data Analyst,fixed-term,Republic of Ireland,2025-06-12,,not applicable,8,paid,no
+19550895,9470011,completed,65,62000,yes,8,yes,19,11780,3,Michael Turner,Naomi Patel,Vertex Retail Solutions,Telecommunications,Finance Analyst,contract,England,2025-07-30,2026-12-24,extended,7,paid,no
+24748722,2627384,terminated,27,39500,yes,4,no,13,5135,2,Claire Robinson,Daniel Hughes,Cobalt Consulting,Education,AI Research Engineer,permanent,Remote,2023-07-09,2024-08-31,not applicable,2,paid,yes
+98867892,6409994,completed,24,27000,yes,9,maybe,18,4860,4,Patrick Murphy,Naomi Patel,Silverline Payments,Energy,HR Coordinator,permanent,Scotland,2026-02-12,2026-10-16,not applicable,10,paid,no
+15104700,5611157,extended contract,30,27000,yes,9,yes,17,4590,2,Oliver Green,Megan Campbell,OakTree Platforms,Cybersecurity,Technical Support Engineer,permanent,Wales,2025-07-19,2026-10-29,failed,10,not invoiced,no
+57307843,8123760,extended contract,22,63000,yes,9,yes,20,12600,1,Eoin Kelly,Megan Campbell,QuantumWorks,Consulting,Sales Engineer,permanent,Republic of Ireland,2024-11-23,2026-01-07,extended,7,not invoiced,no
+17377991,4540075,active,40,83500,yes,8,yes,15,12525,3,Oliver Green,Adam Clarke,Nimbus Cyber Defence,Logistics,Backend Developer,fixed-term,Remote,2023-02-06,,not applicable,7,paid,no
+14009035,6185110,terminated,44,73000,no,4,no,18,13140,5,Michael Turner,Thomas Wright,QuantumWorks,Technology,Full Stack Developer,permanent,Scotland,2026-02-27,2027-04-29,passed,4,pending,yes
+52939471,3240432,on probation,39,34000,yes,5,no,15,5100,2,Oliver Green,James Wilson,BrightPath Software,Cybersecurity,Backend Developer,fixed-term,Scotland,2026-03-24,,not applicable,,paid,no
+65700559,1318915,terminated,27,92500,yes,3,no,16,14800,3,Emma Collins,Megan Campbell,Summit Learning Tech,Consulting,Software Engineer,permanent,Northern Ireland,2024-05-31,2025-03-26,passed,2,paid,yes
+73030355,1598570,completed,23,36000,yes,9,yes,13,4680,3,Claire Robinson,Sofia Garcia,BlueHarbour Health,Cybersecurity,Backend Developer,permanent,Republic of Ireland,2024-01-28,2024-04-01,extended,10,paid,no
+91114221,8500585,on probation,55,15500,no,1,no,12,1860,3,Eoin Kelly,Sean O'Donnell,Aster Cloud Systems,Retail,Technical Support Engineer,fixed-term,Republic of Ireland,2024-12-30,,not applicable,,paid,no
+50930424,8604711,on probation,26,32500,yes,6,maybe,10,3250,5,Nadia Hussain,Priya Nair,Vertex Retail Solutions,Retail,Project Manager,fixed-term,Remote,2026-02-21,,failed,,paid,no
+32535290,6604076,terminated,25,64500,yes,2,no,19,12255,4,Oliver Green,Holly Evans,GreenGrid Energy,Telecommunications,Frontend Developer,fixed-term,England,2023-10-02,2024-11-13,not applicable,3,paid,yes
+39025406,3893821,completed,42,48000,yes,8,maybe,20,9600,2,Claire Robinson,Amira Khan,Aster Cloud Systems,Financial Services,Product Manager,permanent,Northern Ireland,2023-03-09,2023-06-07,passed,6,paid,no
+57344767,6102738,completed,48,73000,yes,7,maybe,16,11680,4,Nadia Hussain,Priya Nair,Summit Learning Tech,Technology,Data Analyst,fixed-term,Northern Ireland,2024-12-12,2025-05-14,failed,7,paid,no
+88677119,7369168,terminated,25,44500,no,3,no,10,4450,3,Sanjay Rao,Amira Khan,Vertex Retail Solutions,Cybersecurity,DevOps Engineer,permanent,Republic of Ireland,2024-02-16,2024-05-11,extended,2,pending,yes
+38234885,6690087,active,29,39000,yes,8,maybe,16,6240,2,Michael Turner,Priya Nair,Orion Telecom,Telecommunications,Project Manager,permanent,Remote,2025-07-02,,not applicable,8,paid,no
+52556551,6598021,active,41,21500,yes,8,maybe,10,2150,3,Eoin Kelly,Grace Mitchell,QuantumWorks,Consulting,Data Analyst,permanent,Republic of Ireland,2024-06-25,,not applicable,7,pending,no
+36834059,6763146,completed,19,62500,yes,10,yes,17,10625,2,Sanjay Rao,Grace Mitchell,Orion Telecom,Healthcare,IoT Security Engineer,permanent,Scotland,2023-09-21,2024-07-01,failed,10,pending,no
+59411212,7896336,completed,53,29000,yes,7,yes,17,4930,2,Michael Turner,Daniel Hughes,Vertex Retail Solutions,Energy,Technical Support Engineer,permanent,England,2023-02-23,2024-08-10,not applicable,5,paid,no
+15000351,7064984,active,19,28500,pending,10,yes,10,2850,3,Michael Turner,Megan Campbell,Vertex Retail Solutions,Education,HR Coordinator,permanent,Republic of Ireland,2023-07-17,,not applicable,8,not invoiced,no
+16958240,4633440,completed,59,34500,yes,8,yes,13,4485,4,Nadia Hussain,Holly Evans,Cedar Finance Group,Education,QA Engineer,permanent,Remote,2024-09-10,2025-02-03,extended,8,paid,no
+74560287,9923433,terminated,51,72000,yes,6,maybe,17,12240,5,Patrick Murphy,Adam Clarke,Nimbus Cyber Defence,Retail,Technical Support Engineer,fixed-term,Scotland,2025-08-09,2026-01-31,extended,4,pending,no
+69575458,9129222,on probation,32,50000,yes,5,maybe,20,10000,1,Marta Nowak,Amira Khan,Cobalt Consulting,Cybersecurity,DevOps Engineer,permanent,England,2024-12-24,,not applicable,,paid,no
+65461038,4624051,terminated,5,69000,no,5,maybe,18,12420,4,Patrick Murphy,Daniel Hughes,Pioneer Manufacturing,Public Sector,Machine Learning Engineer,contract,Scotland,2025-11-19,2027-02-27,passed,5,paid,yes
+78918447,4157714,on probation,63,40000,yes,6,no,14,5600,3,Eoin Kelly,Grace Mitchell,Pioneer Manufacturing,Technology,Data Engineer,permanent,Republic of Ireland,2023-08-10,,passed,,pending,no
+78951218,4967678,terminated,70,34000,no,1,maybe,12,4080,4,Emma Collins,Naomi Patel,OakTree Platforms,Financial Services,Cybersecurity Analyst,contract,Northern Ireland,2023-02-20,2024-05-26,passed,2,pending,yes
+94317364,9238844,extended contract,67,68500,yes,7,yes,16,10960,3,Nadia Hussain,Thomas Wright,Cobalt Consulting,Education,Finance Analyst,fixed-term,Republic of Ireland,2026-02-27,2026-09-02,passed,7,not invoiced,no
+55120693,2310009,active,30,50000,yes,8,yes,10,5000,2,Claire Robinson,Naomi Patel,Redstone AI,Technology,Network Engineer,permanent,England,2024-03-29,,not applicable,9,pending,no
+36660023,5999813,completed,56,34500,yes,9,yes,18,6210,2,Nadia Hussain,Amira Khan,Pioneer Manufacturing,Education,UX Designer,contract,Wales,2024-10-24,2025-11-28,failed,10,pending,no
+36483899,5380782,active,29,20000,yes,8,yes,20,4000,3,Eoin Kelly,Thomas Wright,BlueHarbour Health,Manufacturing,Finance Analyst,permanent,Republic of Ireland,2023-03-16,,not applicable,6,paid,no
+12069694,5658806,completed,31,68500,yes,10,yes,19,13015,3,Eoin Kelly,Priya Nair,Orion Telecom,Technology,Marketing Analyst,permanent,Scotland,2023-12-29,2025-02-07,extended,8,partially paid,no
+39775042,5334879,terminated,37,32500,no,5,maybe,16,5200,5,Michael Turner,Amira Khan,NorthBridge Analytics,Healthcare,AI Research Engineer,permanent,England,2023-06-06,2024-02-18,extended,3,paid,yes
+13267781,8387425,on probation,12,32500,no,3,no,20,6500,4,Emma Collins,James Wilson,OakTree Platforms,Public Sector,Business Analyst,contract,Northern Ireland,2023-08-04,,not applicable,,paid,no
+10695503,6229382,completed,30,41000,yes,7,maybe,14,5740,4,Oliver Green,Priya Nair,Foyle Secure Networks,Public Sector,Data Analyst,fixed-term,Wales,2023-03-08,2024-02-21,extended,5,paid,no
+96760656,9275053,on probation,49,55500,no,3,maybe,14,7770,3,Hannah Foster,Amira Khan,Cobalt Consulting,Healthcare,AI Research Engineer,fixed-term,Scotland,2025-09-29,,passed,,paid,no
+96256858,9744059,terminated,30,30000,no,5,no,19,5700,3,Eoin Kelly,Sean O'Donnell,Foyle Secure Networks,Healthcare,Cloud Engineer,contract,Wales,2023-11-24,2024-11-20,extended,3,paid,yes
+61643613,3118972,completed,33,49000,yes,9,yes,16,7840,4,Michael Turner,Amira Khan,BlueHarbour Health,Cybersecurity,DevOps Engineer,contract,Scotland,2024-07-27,2025-09-23,not applicable,9,paid,no
+93281117,6529371,on probation,38,51000,yes,5,no,10,5100,4,Emma Collins,Megan Campbell,Lagan Data Labs,Healthcare,DevOps Engineer,permanent,Northern Ireland,2025-07-11,,failed,,not invoiced,no
+19452769,9352724,completed,38,31000,yes,9,maybe,16,4960,5,Robert Lewis,Daniel Hughes,Lagan Data Labs,Manufacturing,Network Engineer,permanent,Remote,2025-08-23,2026-06-20,failed,9,pending,no
+88245096,9422167,terminated,44,46500,no,5,maybe,18,8370,1,Claire Robinson,Sean O'Donnell,OakTree Platforms,Cybersecurity,Product Manager,permanent,Northern Ireland,2025-12-21,2027-04-27,passed,4,paid,yes
+53920616,7098004,terminated,22,38000,no,1,no,15,5700,3,Laura Bennett,Thomas Wright,Vertex Retail Solutions,Financial Services,SOC Analyst,permanent,England,2024-06-07,2025-07-26,failed,1,paid,yes
+35857259,3791429,on probation,5,36000,yes,6,yes,18,6480,3,Marta Nowak,Amira Khan,MetroGov Digital,Telecommunications,SOC Analyst,contract,England,2024-06-01,,extended,,paid,no
+61256557,9298197,active,38,67500,yes,8,yes,20,13500,3,Robert Lewis,Daniel Hughes,NorthBridge Analytics,Technology,AI Research Engineer,fixed-term,Northern Ireland,2025-10-31,,not applicable,7,not invoiced,no
+38701934,4754709,completed,24,66000,yes,9,yes,12,7920,4,Emma Collins,Daniel Hughes,Cedar Finance Group,Manufacturing,AI Research Engineer,permanent,Northern Ireland,2025-05-26,2026-08-01,passed,9,paid,no
+77671279,1495353,terminated,31,31500,no,2,no,18,5670,4,Laura Bennett,Adam Clarke,Harbourline Logistics,Logistics,Product Manager,permanent,Republic of Ireland,2024-09-04,2026-02-20,failed,3,paid,yes
+77439855,1528185,completed,28,40500,yes,9,maybe,13,5265,3,Sanjay Rao,James Wilson,Summit Learning Tech,Public Sector,SOC Analyst,permanent,England,2025-04-21,2026-02-27,failed,7,paid,no
+47367022,9874920,active,24,75500,yes,9,yes,10,7550,4,Sanjay Rao,Holly Evans,Pioneer Manufacturing,Logistics,UX Designer,permanent,Republic of Ireland,2024-07-18,,not applicable,8,pending,no
+26983282,4998141,completed,34,31500,yes,7,maybe,15,4725,1,Michael Turner,Naomi Patel,Foyle Secure Networks,Financial Services,Data Analyst,fixed-term,Scotland,2023-12-02,2024-06-24,not applicable,8,paid,no
+20575098,3718023,extended contract,46,25500,yes,10,yes,16,4080,5,Marta Nowak,Priya Nair,Vertex Retail Solutions,Public Sector,Business Analyst,contract,England,2025-07-10,2026-01-22,not applicable,9,paid,no
+15301502,1243540,extended contract,26,40000,yes,10,yes,12,4800,3,Robert Lewis,Sofia Garcia,Harbourline Logistics,Consulting,AI Research Engineer,fixed-term,Republic of Ireland,2023-07-11,2025-06-11,not applicable,8,paid,no
+25361291,1498360,active,13,50500,yes,9,yes,13,6565,4,Nadia Hussain,Thomas Wright,BrightPath Software,Cybersecurity,Product Manager,permanent,Republic of Ireland,2025-07-22,,not applicable,9,paid,no
+75002764,9203047,on probation,32,70500,yes,6,yes,11,7755,3,Claire Robinson,Adam Clarke,BrightPath Software,Manufacturing,IoT Security Engineer,permanent,Republic of Ireland,2024-08-10,,extended,,paid,no
+91978635,3202951,completed,47,49000,yes,10,maybe,18,8820,3,Emma Collins,Grace Mitchell,Silverline Payments,Telecommunications,Cybersecurity Analyst,permanent,Remote,2024-07-21,2024-11-04,extended,9,pending,no
+95755161,6222711,active,31,25500,yes,8,yes,18,4590,2,Nadia Hussain,James Wilson,Silverline Payments,Technology,Software Engineer,contract,Republic of Ireland,2024-03-14,,not applicable,9,paid,no
+85447578,9875662,extended contract,24,65000,yes,10,yes,12,7800,2,Laura Bennett,Sean O'Donnell,Pioneer Manufacturing,Manufacturing,Machine Learning Engineer,contract,England,2025-02-04,2025-11-30,failed,9,pending,no
+82316189,5161739,terminated,40,70500,no,2,maybe,16,11280,4,Hannah Foster,Daniel Hughes,Harbourline Logistics,Education,Business Analyst,permanent,Scotland,2025-11-02,2027-03-20,failed,2,pending,yes
+25195426,4979717,completed,56,25500,yes,7,maybe,12,3060,3,Claire Robinson,Grace Mitchell,QuantumWorks,Technology,Business Analyst,fixed-term,England,2026-01-02,2026-07-11,not applicable,8,pending,no
+50332594,5034530,on probation,30,46500,yes,6,maybe,10,4650,4,Robert Lewis,Priya Nair,GreenGrid Energy,Energy,Project Manager,permanent,Wales,2023-03-30,,failed,,pending,no
+76028852,7407847,on probation,50,66500,yes,1,maybe,17,11305,3,Emma Collins,Megan Campbell,MetroGov Digital,Telecommunications,AI Research Engineer,contract,Republic of Ireland,2025-02-04,,failed,,partially paid,no
+43918264,1557215,on probation,50,28000,yes,8,yes,14,3920,4,Emma Collins,James Wilson,Summit Learning Tech,Manufacturing,HR Coordinator,permanent,Wales,2025-11-05,,extended,,paid,no
+77161405,8854799,terminated,26,52000,yes,6,maybe,17,8840,3,Sanjay Rao,James Wilson,BlueHarbour Health,Manufacturing,Frontend Developer,permanent,Republic of Ireland,2024-10-08,2025-02-02,not applicable,6,paid,no
+96113602,4669929,on probation,11,32500,yes,7,yes,11,3575,5,Marta Nowak,Sean O'Donnell,Pioneer Manufacturing,Energy,Technical Support Engineer,temp-to-perm,England,2025-12-07,,passed,,paid,no
+58987459,4018329,terminated,35,44500,yes,4,no,11,4895,3,Marta Nowak,Thomas Wright,Nimbus Cyber Defence,Consulting,Product Manager,permanent,England,2025-05-23,2025-12-12,failed,3,paid,yes
+77650908,9321936,active,47,58500,yes,7,maybe,19,11115,2,Laura Bennett,James Wilson,Foyle Secure Networks,Cybersecurity,Data Analyst,permanent,England,2023-02-26,,not applicable,8,not invoiced,no
+79463389,1821148,extended contract,29,41000,yes,8,yes,15,6150,3,Nadia Hussain,Sean O'Donnell,GreenGrid Energy,Logistics,Marketing Analyst,temp-to-perm,Scotland,2024-02-15,2025-07-28,failed,9,paid,no
+87981022,1499254,completed,56,35000,yes,9,yes,11,3850,5,Emma Collins,Sean O'Donnell,QuantumWorks,Financial Services,Finance Analyst,fixed-term,Wales,2026-02-04,2027-02-03,failed,10,pending,no
+41034720,2589151,completed,39,47000,yes,9,maybe,10,4700,3,Michael Turner,Adam Clarke,Silverline Payments,Manufacturing,IoT Security Engineer,permanent,Northern Ireland,2023-06-01,2024-05-05,extended,7,pending,no
+64691169,7321424,extended contract,19,38500,yes,8,yes,12,4620,3,Nadia Hussain,Priya Nair,Aster Cloud Systems,Retail,Software Engineer,fixed-term,Remote,2025-05-23,2027-02-19,failed,7,pending,no
+46605280,4029750,terminated,9,50000,yes,2,maybe,17,8500,2,Oliver Green,Sofia Garcia,Pioneer Manufacturing,Technology,Product Manager,fixed-term,Remote,2023-03-12,2024-07-04,failed,3,pending,yes
+76903404,5306326,terminated,28,62500,yes,2,no,12,7500,2,Marta Nowak,Daniel Hughes,Redstone AI,Cybersecurity,Sales Engineer,permanent,Remote,2025-08-28,2026-12-24,failed,2,paid,yes
+99138574,7578023,completed,32,44000,yes,9,yes,17,7480,3,Marta Nowak,Grace Mitchell,Silverline Payments,Telecommunications,Full Stack Developer,contract,England,2024-08-29,2025-07-08,not applicable,8,paid,no
+64068623,6062012,terminated,14,55000,yes,3,no,17,9350,3,Laura Bennett,James Wilson,Silverline Payments,Retail,Product Manager,permanent,Remote,2025-01-28,2026-04-17,extended,4,paid,yes
+49755180,2571738,on probation,36,45000,yes,5,maybe,11,4950,3,Marta Nowak,Adam Clarke,Vertex Retail Solutions,Energy,Machine Learning Engineer,fixed-term,Wales,2025-04-25,,passed,,paid,no
+34518061,6318797,active,27,94500,yes,8,yes,18,17010,4,Robert Lewis,Daniel Hughes,Harbourline Logistics,Healthcare,Backend Developer,permanent,Republic of Ireland,2025-08-25,,not applicable,7,paid,no
+47172671,1851254,completed,45,45000,yes,9,yes,14,6300,4,Michael Turner,Grace Mitchell,Orion Telecom,Financial Services,Business Analyst,permanent,Republic of Ireland,2024-09-27,2025-02-11,not applicable,7,paid,no
+45499460,3438219,active,30,34000,yes,7,maybe,12,4080,4,Robert Lewis,James Wilson,BrightPath Software,Healthcare,Full Stack Developer,permanent,Republic of Ireland,2024-11-29,,not applicable,7,paid,no
+36230237,5671227,on probation,20,79500,yes,4,no,12,9540,2,Eoin Kelly,Amira Khan,NorthBridge Analytics,Retail,Sales Engineer,permanent,England,2023-07-05,,not applicable,,paid,no
+29721696,7777457,active,50,36000,yes,8,yes,18,6480,5,Nadia Hussain,James Wilson,NorthBridge Analytics,Healthcare,UX Designer,contract,Republic of Ireland,2025-10-15,,not applicable,8,paid,no
+59008097,3355779,extended contract,38,48000,pending,7,maybe,12,5760,3,Robert Lewis,Priya Nair,Vertex Retail Solutions,Financial Services,AI Research Engineer,temp-to-perm,Remote,2023-03-31,2024-11-23,failed,7,paid,no
+94753891,4494587,active,34,23500,yes,8,yes,19,4465,3,Eoin Kelly,Amira Khan,NorthBridge Analytics,Technology,Cybersecurity Analyst,permanent,England,2023-07-27,,not applicable,7,partially paid,no
+91386980,1976524,completed,30,47500,yes,8,yes,10,4750,4,Marta Nowak,James Wilson,NorthBridge Analytics,Education,Project Manager,contract,Wales,2025-04-08,2026-03-05,passed,7,paid,no
+22221925,6161179,completed,19,48000,yes,7,maybe,12,5760,4,Laura Bennett,Thomas Wright,Foyle Secure Networks,Healthcare,Product Manager,fixed-term,Northern Ireland,2026-01-30,2026-07-21,failed,6,not invoiced,no
+15258732,6453934,terminated,24,40000,no,2,maybe,18,7200,3,Robert Lewis,Thomas Wright,Cedar Finance Group,Retail,Technical Support Engineer,permanent,Remote,2023-10-29,2024-11-19,failed,2,partially paid,yes
+19754103,6932130,on probation,14,21000,yes,8,yes,17,3570,2,Nadia Hussain,Adam Clarke,QuantumWorks,Logistics,Data Engineer,permanent,Scotland,2023-05-26,,extended,,paid,no
+62446711,7573416,on probation,49,96000,yes,3,no,13,12480,3,Hannah Foster,Grace Mitchell,BrightPath Software,Energy,Machine Learning Engineer,permanent,England,2025-03-26,,extended,,pending,no
+76692601,2804183,completed,48,88500,yes,10,yes,13,11505,2,Sanjay Rao,Adam Clarke,Nimbus Cyber Defence,Education,Product Manager,fixed-term,Republic of Ireland,2024-02-05,2024-06-22,not applicable,8,paid,no
+90045561,9001231,on probation,52,61000,yes,4,maybe,15,9150,3,Patrick Murphy,Thomas Wright,Orion Telecom,Financial Services,Cybersecurity Analyst,permanent,Wales,2024-09-04,,failed,,paid,no
+80321664,4818067,on probation,31,82500,yes,7,maybe,11,9075,2,Nadia Hussain,James Wilson,MetroGov Digital,Education,Solutions Architect,permanent,Northern Ireland,2023-02-22,,failed,,paid,no
+18365575,6065159,active,41,94500,yes,9,yes,19,17955,4,Eoin Kelly,Thomas Wright,Aster Cloud Systems,Education,Sales Engineer,permanent,Northern Ireland,2023-08-07,,not applicable,8,paid,no
+77665430,4163487,terminated,30,48000,no,5,maybe,18,8640,4,Michael Turner,Sofia Garcia,Silverline Payments,Manufacturing,Data Engineer,fixed-term,Northern Ireland,2024-02-07,2025-04-04,passed,6,not invoiced,yes
+26932375,1108167,active,41,60500,yes,10,yes,18,10890,3,Eoin Kelly,Sean O'Donnell,Harbourline Logistics,Cybersecurity,Data Engineer,permanent,Republic of Ireland,2025-11-03,,not applicable,10,paid,no
+59909271,2616946,completed,32,52000,yes,9,yes,15,7800,4,Nadia Hussain,Grace Mitchell,GreenGrid Energy,Education,Solutions Architect,permanent,Northern Ireland,2024-04-12,2024-09-09,passed,8,not invoiced,no
+99241112,9405471,active,19,101500,yes,7,maybe,19,19285,3,Laura Bennett,Megan Campbell,Silverline Payments,Technology,Machine Learning Engineer,temp-to-perm,England,2023-12-09,,not applicable,7,paid,no
+72709280,9415260,on probation,33,54000,yes,3,no,19,10260,3,Oliver Green,Sofia Garcia,Aster Cloud Systems,Financial Services,Software Engineer,permanent,Remote,2025-11-08,,failed,,paid,no
+87456929,5984241,on probation,24,62500,yes,5,no,18,11250,1,Oliver Green,Adam Clarke,Silverline Payments,Cybersecurity,Backend Developer,permanent,England,2025-02-05,,failed,,pending,no
+55571617,8475844,active,12,46000,yes,7,maybe,16,7360,3,Sanjay Rao,Sean O'Donnell,MetroGov Digital,Cybersecurity,Finance Analyst,permanent,Republic of Ireland,2024-04-01,,not applicable,5,not invoiced,no
+49943726,2075529,active,49,40000,yes,8,maybe,17,6800,2,Hannah Foster,Grace Mitchell,Redstone AI,Logistics,HR Coordinator,permanent,Northern Ireland,2023-04-29,,not applicable,8,paid,no
+71797935,4729813,terminated,31,33000,no,2,no,10,3300,4,Hannah Foster,Holly Evans,Silverline Payments,Logistics,QA Engineer,fixed-term,England,2025-12-25,2027-01-16,not applicable,3,paid,yes
+96394421,7924626,terminated,7,44500,no,5,no,20,8900,2,Laura Bennett,Priya Nair,BrightPath Software,Consulting,Frontend Developer,permanent,Wales,2025-02-16,2025-05-18,failed,3,paid,yes
+22617275,9030074,on probation,42,59500,yes,6,maybe,16,9520,2,Nadia Hussain,Daniel Hughes,MetroGov Digital,Cybersecurity,Frontend Developer,fixed-term,Northern Ireland,2024-05-07,,passed,,paid,no
+60044481,8766282,active,40,61500,yes,9,yes,17,10455,3,Claire Robinson,Holly Evans,Orion Telecom,Consulting,Cloud Engineer,permanent,Remote,2025-06-25,,not applicable,8,paid,no
+96699586,8379476,active,24,36500,yes,5,no,12,4380,5,Emma Collins,Sean O'Donnell,Cobalt Consulting,Logistics,UX Designer,contract,Remote,2023-11-08,,not applicable,5,paid,no
+24163525,3550836,terminated,30,44500,no,2,no,19,8455,4,Oliver Green,Grace Mitchell,Pioneer Manufacturing,Consulting,Business Analyst,temp-to-perm,England,2023-05-04,2024-09-17,passed,3,paid,yes
+52628687,4485702,on probation,35,62500,no,5,maybe,10,6250,3,Nadia Hussain,Priya Nair,QuantumWorks,Technology,Frontend Developer,fixed-term,Scotland,2024-09-28,,failed,,paid,no
+29250773,6460281,active,23,44500,yes,7,yes,11,4895,5,Patrick Murphy,Daniel Hughes,NorthBridge Analytics,Energy,UX Designer,fixed-term,Remote,2023-11-05,,not applicable,5,pending,no
+78050521,2991150,terminated,31,27000,no,4,maybe,18,4860,3,Michael Turner,Amira Khan,Harbourline Logistics,Manufacturing,Database Administrator,permanent,England,2025-05-25,2026-01-26,not applicable,2,partially paid,yes
+70042851,6091659,extended contract,41,74000,pending,9,yes,18,13320,2,Hannah Foster,Amira Khan,OakTree Platforms,Consulting,IoT Security Engineer,permanent,Scotland,2024-02-28,2025-09-26,passed,8,paid,no
+92148963,4534819,on probation,37,32500,no,1,no,20,6500,3,Sanjay Rao,Grace Mitchell,Harbourline Logistics,Telecommunications,Solutions Architect,fixed-term,Republic of Ireland,2025-06-24,,failed,,paid,no
+74415333,1947933,on probation,6,36000,yes,6,yes,15,5400,2,Eoin Kelly,Sean O'Donnell,OakTree Platforms,Cybersecurity,Product Manager,permanent,Wales,2023-03-29,,extended,,paid,no
+99968246,5391899,active,38,39000,yes,8,yes,12,4680,1,Laura Bennett,Sofia Garcia,Cobalt Consulting,Financial Services,Data Analyst,permanent,Remote,2026-01-29,,not applicable,9,pending,no
+34807036,4582300,terminated,21,41000,yes,2,no,13,5330,2,Michael Turner,Adam Clarke,MetroGov Digital,Financial Services,HR Coordinator,permanent,Republic of Ireland,2024-02-23,2025-07-02,passed,3,paid,yes
+12803325,5144340,terminated,46,63500,yes,6,maybe,19,12065,3,Emma Collins,Priya Nair,Cedar Finance Group,Telecommunications,Project Manager,contract,Republic of Ireland,2024-09-13,2025-10-03,extended,7,pending,no
+53509386,7699201,on probation,39,49500,yes,8,yes,12,5940,5,Emma Collins,Megan Campbell,OakTree Platforms,Public Sector,Cloud Engineer,permanent,Wales,2024-08-23,,not applicable,,pending,no
+37127443,6357619,on probation,53,52500,no,1,maybe,16,8400,4,Laura Bennett,Priya Nair,BlueHarbour Health,Manufacturing,Software Engineer,permanent,Northern Ireland,2024-12-28,,not applicable,,pending,no
+38448419,7563182,extended contract,30,41000,yes,9,yes,15,6150,3,Hannah Foster,Daniel Hughes,NorthBridge Analytics,Cybersecurity,Project Manager,fixed-term,Northern Ireland,2025-10-13,2027-08-31,extended,10,paid,no
+89402664,6406998,completed,48,27000,yes,6,maybe,15,4050,1,Robert Lewis,Sean O'Donnell,Redstone AI,Public Sector,Finance Analyst,permanent,Scotland,2024-08-26,2025-08-17,not applicable,6,pending,no
+79451435,4371541,extended contract,38,45000,yes,10,yes,12,5400,3,Robert Lewis,Daniel Hughes,GreenGrid Energy,Consulting,QA Engineer,fixed-term,Remote,2024-01-09,2025-11-17,extended,8,pending,no
+79310140,8589811,active,23,70000,yes,8,yes,10,7000,2,Nadia Hussain,Sofia Garcia,GreenGrid Energy,Technology,Finance Analyst,temp-to-perm,England,2024-11-30,,not applicable,9,paid,no
+27958590,7284900,terminated,23,27500,no,1,no,13,3575,3,Hannah Foster,Adam Clarke,Aster Cloud Systems,Logistics,Data Analyst,contract,Scotland,2024-11-06,2025-12-27,passed,1,pending,yes
+52944203,1337348,terminated,30,41000,no,1,no,12,4920,2,Emma Collins,James Wilson,Aster Cloud Systems,Technology,Frontend Developer,fixed-term,Northern Ireland,2025-09-30,2027-02-09,not applicable,2,pending,yes
+68982096,6466516,active,60,77500,pending,5,maybe,14,10850,2,Sanjay Rao,Priya Nair,Pioneer Manufacturing,Education,Frontend Developer,permanent,Remote,2023-10-23,,not applicable,5,paid,no
+42599760,7574092,extended contract,6,48000,yes,8,yes,12,5760,4,Sanjay Rao,Grace Mitchell,NorthBridge Analytics,Energy,DevOps Engineer,permanent,Remote,2025-05-02,2027-01-22,not applicable,7,paid,no
+92132697,5638874,terminated,61,19000,no,1,no,13,2470,2,Sanjay Rao,Thomas Wright,Harbourline Logistics,Healthcare,QA Engineer,permanent,Wales,2025-02-05,2025-11-19,failed,1,paid,yes
+12631389,7170684,terminated,13,60500,no,1,no,16,9680,3,Laura Bennett,Priya Nair,OakTree Platforms,Technology,Business Analyst,temp-to-perm,Remote,2024-03-08,2024-06-22,extended,2,paid,yes
+28241248,2278598,terminated,34,60000,no,4,no,13,7800,2,Oliver Green,Megan Campbell,Pioneer Manufacturing,Retail,Sales Engineer,permanent,Republic of Ireland,2025-01-09,2025-08-28,not applicable,5,paid,yes
+73108832,8942029,completed,26,67000,yes,8,yes,20,13400,3,Emma Collins,Sean O'Donnell,Summit Learning Tech,Education,IoT Security Engineer,permanent,Wales,2023-02-25,2023-05-12,failed,8,pending,no
+87719268,5674290,terminated,21,42500,no,2,no,11,4675,3,Robert Lewis,Daniel Hughes,BrightPath Software,Energy,Product Manager,permanent,Republic of Ireland,2026-01-16,2026-04-17,failed,1,paid,yes
+26922341,3928257,on probation,57,42500,yes,7,maybe,15,6375,2,Oliver Green,Grace Mitchell,Pioneer Manufacturing,Telecommunications,Technical Support Engineer,contract,Scotland,2024-04-23,,failed,,pending,no
+77596006,7420423,terminated,26,53500,yes,1,no,17,9095,1,Laura Bennett,Thomas Wright,NorthBridge Analytics,Healthcare,Cybersecurity Analyst,contract,Wales,2025-04-14,2026-02-26,extended,2,paid,yes
+87364968,5987586,completed,26,70000,yes,8,yes,13,9100,2,Eoin Kelly,Thomas Wright,GreenGrid Energy,Cybersecurity,Cloud Engineer,permanent,Republic of Ireland,2025-08-04,2026-02-13,passed,7,pending,no
+89036137,9766720,completed,46,24000,yes,10,yes,19,4560,3,Robert Lewis,Daniel Hughes,Cobalt Consulting,Telecommunications,Frontend Developer,permanent,Remote,2023-12-19,2025-05-20,extended,9,paid,no
+45163881,3746884,on probation,37,97500,yes,8,yes,16,15600,2,Eoin Kelly,James Wilson,NorthBridge Analytics,Retail,Full Stack Developer,fixed-term,Republic of Ireland,2024-07-14,,extended,,paid,no
+24845677,3192114,terminated,31,25000,no,2,no,13,3250,3,Hannah Foster,Naomi Patel,Harbourline Logistics,Logistics,Technical Support Engineer,fixed-term,England,2023-12-11,2024-03-14,failed,1,pending,yes
+12078447,5070357,completed,50,30000,yes,10,yes,15,4500,2,Michael Turner,Amira Khan,Cedar Finance Group,Energy,Project Manager,contract,Northern Ireland,2025-11-24,2026-11-30,not applicable,9,pending,no
+50204017,2357601,completed,32,30000,yes,7,yes,12,3600,2,Hannah Foster,Thomas Wright,Orion Telecom,Cybersecurity,IoT Security Engineer,contract,Wales,2025-07-11,2025-10-24,extended,6,paid,no
+28411249,9675005,terminated,49,41500,no,3,no,20,8300,4,Nadia Hussain,Amira Khan,QuantumWorks,Technology,IoT Security Engineer,contract,England,2024-12-16,2025-02-14,passed,2,paid,yes
+77770104,8125408,active,26,42000,yes,7,maybe,18,7560,4,Hannah Foster,James Wilson,Foyle Secure Networks,Manufacturing,Machine Learning Engineer,fixed-term,Republic of Ireland,2024-02-24,,not applicable,6,pending,no
+53355903,7434300,terminated,5,26500,yes,5,no,17,4505,3,Sanjay Rao,Sofia Garcia,BlueHarbour Health,Public Sector,Business Analyst,fixed-term,Remote,2025-11-15,2026-12-20,failed,4,partially paid,yes
+37092740,1360061,active,23,25500,yes,8,yes,15,3825,5,Hannah Foster,Priya Nair,Nimbus Cyber Defence,Public Sector,Cybersecurity Analyst,contract,Scotland,2024-03-24,,not applicable,6,pending,no
+54949265,5921211,terminated,23,54500,yes,6,maybe,12,6540,3,Sanjay Rao,Daniel Hughes,Foyle Secure Networks,Cybersecurity,IoT Security Engineer,permanent,England,2023-10-30,2025-03-30,not applicable,4,paid,no
+49395091,1396967,on probation,38,87000,no,5,no,13,11310,3,Michael Turner,Priya Nair,MetroGov Digital,Telecommunications,DevOps Engineer,fixed-term,England,2025-01-27,,failed,,paid,no
+35083676,6649425,active,36,69500,yes,7,maybe,16,11120,3,Claire Robinson,Amira Khan,BrightPath Software,Retail,DevOps Engineer,permanent,Northern Ireland,2024-07-30,,not applicable,5,pending,no
+52981160,9639421,completed,31,85000,yes,9,yes,13,11050,3,Hannah Foster,Amira Khan,Pioneer Manufacturing,Cybersecurity,Solutions Architect,permanent,Wales,2024-02-02,2024-08-23,not applicable,8,paid,no
+16068014,7842083,on probation,29,47500,no,5,maybe,14,6650,3,Robert Lewis,Amira Khan,Cedar Finance Group,Telecommunications,Full Stack Developer,permanent,Wales,2023-02-09,,not applicable,,partially paid,no
+23483825,7734295,terminated,13,58000,no,3,no,17,9860,3,Oliver Green,Daniel Hughes,Foyle Secure Networks,Public Sector,Solutions Architect,permanent,Wales,2023-08-01,2024-10-23,passed,2,paid,yes
+55023025,1498953,on probation,38,48500,yes,5,maybe,14,6790,2,Claire Robinson,Sean O'Donnell,Summit Learning Tech,Manufacturing,Product Manager,permanent,Republic of Ireland,2025-07-27,,passed,,paid,no
+54136246,1940388,active,15,46500,yes,10,yes,19,8835,4,Emma Collins,Megan Campbell,QuantumWorks,Logistics,Marketing Analyst,contract,Northern Ireland,2023-07-16,,not applicable,8,paid,no
+11027902,7344986,active,34,66000,yes,9,yes,20,13200,3,Eoin Kelly,Amira Khan,Orion Telecom,Consulting,Project Manager,contract,England,2025-09-25,,not applicable,9,not invoiced,no
+65457612,3891218,active,25,66000,pending,7,yes,14,9240,3,Hannah Foster,Amira Khan,Harbourline Logistics,Cybersecurity,Machine Learning Engineer,contract,Wales,2023-05-31,,not applicable,6,paid,no
+70211026,3526852,on probation,38,43500,yes,5,maybe,19,8265,3,Sanjay Rao,Priya Nair,NorthBridge Analytics,Cybersecurity,Machine Learning Engineer,permanent,Remote,2023-08-10,,passed,,pending,no
+71343571,7124164,on probation,51,42000,yes,8,yes,12,5040,3,Hannah Foster,Adam Clarke,Vertex Retail Solutions,Education,Full Stack Developer,permanent,Scotland,2024-04-07,,failed,,pending,no
+51914196,2207187,active,27,22500,yes,7,maybe,15,3375,2,Robert Lewis,Grace Mitchell,Nimbus Cyber Defence,Telecommunications,Frontend Developer,contract,England,2023-04-09,,not applicable,5,pending,no
+94653915,4284958,extended contract,31,31000,pending,8,yes,18,5580,3,Hannah Foster,Megan Campbell,OakTree Platforms,Energy,Finance Analyst,permanent,England,2025-04-13,2025-10-20,passed,7,paid,no
+46400996,1889269,on probation,9,80000,pending,6,yes,17,13600,2,Michael Turner,Sean O'Donnell,Pioneer Manufacturing,Manufacturing,IoT Security Engineer,permanent,Scotland,2024-11-03,,not applicable,,paid,no
+57759213,2286689,active,22,32500,yes,8,yes,17,5525,3,Robert Lewis,Megan Campbell,MetroGov Digital,Telecommunications,Sales Engineer,fixed-term,Northern Ireland,2024-03-13,,not applicable,9,not invoiced,no
+60419567,2497707,active,41,47500,pending,7,yes,14,6650,3,Laura Bennett,Megan Campbell,Lagan Data Labs,Telecommunications,QA Engineer,temp-to-perm,England,2025-08-24,,not applicable,6,paid,no
+22453758,8704303,completed,21,28500,pending,9,yes,17,4845,3,Marta Nowak,Amira Khan,Cobalt Consulting,Healthcare,Network Engineer,permanent,Wales,2023-12-13,2024-11-13,not applicable,10,pending,no
+93044223,6898055,on probation,38,72500,yes,8,yes,11,7975,4,Eoin Kelly,Sofia Garcia,Orion Telecom,Retail,AI Research Engineer,fixed-term,Remote,2026-03-13,,failed,,not invoiced,no
+58322439,1436501,on probation,26,52500,yes,6,maybe,19,9975,4,Emma Collins,James Wilson,Aster Cloud Systems,Telecommunications,Finance Analyst,contract,Remote,2024-03-20,,passed,,paid,no
+46120466,5377758,completed,34,50500,yes,10,yes,19,9595,2,Patrick Murphy,Amira Khan,Pioneer Manufacturing,Telecommunications,Data Engineer,contract,Scotland,2023-11-27,2024-05-07,passed,8,paid,no
+16150059,4365273,completed,22,25500,yes,7,maybe,18,4590,4,Robert Lewis,Adam Clarke,Nimbus Cyber Defence,Consulting,Finance Analyst,permanent,Republic of Ireland,2026-01-24,2027-05-30,failed,7,pending,no
+95016496,9432234,on probation,50,20500,pending,8,yes,19,3895,2,Nadia Hussain,Sean O'Donnell,Summit Learning Tech,Technology,QA Engineer,permanent,Northern Ireland,2024-01-19,,passed,,paid,no
+12359217,5121144,active,35,30000,yes,5,no,20,6000,3,Oliver Green,Holly Evans,Lagan Data Labs,Energy,QA Engineer,permanent,Republic of Ireland,2026-03-05,,not applicable,5,pending,no
+33373748,3701461,terminated,57,27500,no,4,maybe,18,4950,3,Oliver Green,Thomas Wright,Silverline Payments,Financial Services,Marketing Analyst,permanent,Remote,2024-12-14,2026-04-05,failed,2,pending,yes
+64497208,1787118,terminated,56,32500,yes,1,maybe,20,6500,4,Laura Bennett,Thomas Wright,BrightPath Software,Healthcare,Data Analyst,permanent,Republic of Ireland,2025-01-06,2026-06-01,failed,2,not invoiced,yes
+68378169,9119191,active,30,68000,yes,6,maybe,15,10200,3,Sanjay Rao,James Wilson,OakTree Platforms,Healthcare,IoT Security Engineer,temp-to-perm,Northern Ireland,2024-12-16,,not applicable,4,paid,no
+75744827,9409103,terminated,43,42000,yes,1,no,18,7560,1,Laura Bennett,Adam Clarke,Vertex Retail Solutions,Retail,Finance Analyst,contract,Scotland,2025-01-31,2025-12-05,failed,1,paid,yes
+61093436,1345939,active,36,24500,yes,9,yes,13,3185,3,Nadia Hussain,James Wilson,BlueHarbour Health,Technology,HR Coordinator,permanent,Remote,2026-02-17,,not applicable,7,paid,no
+46564927,7417673,on probation,15,70500,yes,6,maybe,16,11280,4,Hannah Foster,Grace Mitchell,Cedar Finance Group,Energy,Product Manager,permanent,Wales,2023-10-15,,failed,,pending,no
+45596223,1484520,active,46,95000,pending,7,maybe,15,14250,3,Emma Collins,James Wilson,Vertex Retail Solutions,Technology,Machine Learning Engineer,fixed-term,Scotland,2023-10-16,,not applicable,6,paid,no
+41041477,1501764,active,35,72000,pending,8,yes,16,11520,2,Nadia Hussain,Grace Mitchell,Silverline Payments,Healthcare,Marketing Analyst,permanent,Remote,2023-04-17,,not applicable,7,not invoiced,no
+89151048,2572539,active,52,95000,yes,7,yes,19,18050,2,Hannah Foster,Naomi Patel,Vertex Retail Solutions,Technology,AI Research Engineer,contract,Northern Ireland,2024-05-07,,not applicable,7,paid,no
+90650189,7612712,completed,54,32000,yes,9,yes,11,3520,2,Michael Turner,Thomas Wright,NorthBridge Analytics,Cybersecurity,SOC Analyst,permanent,Wales,2023-03-12,2024-08-17,passed,10,paid,no
+41848398,5737095,completed,37,19500,yes,7,maybe,14,2730,2,Emma Collins,Daniel Hughes,QuantumWorks,Consulting,Network Engineer,permanent,Remote,2024-08-26,2026-01-03,failed,7,not invoiced,no
+34467408,5081827,active,23,31500,yes,6,maybe,16,5040,4,Robert Lewis,Grace Mitchell,GreenGrid Energy,Cybersecurity,Cybersecurity Analyst,contract,Wales,2024-02-05,,not applicable,6,paid,no
+43468377,4123516,active,24,43000,yes,8,yes,11,4730,4,Eoin Kelly,Amira Khan,Cobalt Consulting,Technology,Software Engineer,contract,Scotland,2024-01-07,,not applicable,9,not invoiced,no
+23293530,5789663,extended contract,51,28500,yes,10,yes,10,2850,5,Eoin Kelly,Sofia Garcia,Pioneer Manufacturing,Public Sector,Project Manager,contract,Scotland,2024-01-02,2025-07-01,passed,10,paid,no
+88940121,6357628,terminated,49,39500,yes,4,no,10,3950,1,Emma Collins,Naomi Patel,GreenGrid Energy,Cybersecurity,Backend Developer,permanent,England,2024-04-21,2024-11-30,not applicable,5,paid,yes
+54423135,2961128,completed,41,72000,yes,9,yes,11,7920,4,Claire Robinson,Holly Evans,BrightPath Software,Energy,Marketing Analyst,contract,England,2025-08-17,2026-08-26,failed,10,paid,no
+46886506,8858426,completed,40,38000,yes,10,yes,13,4940,3,Hannah Foster,Megan Campbell,Redstone AI,Manufacturing,Marketing Analyst,contract,Republic of Ireland,2023-10-24,2024-06-02,not applicable,8,not invoiced,no
+22566508,2389179,completed,55,50000,yes,8,yes,20,10000,3,Hannah Foster,Grace Mitchell,Cobalt Consulting,Healthcare,Full Stack Developer,permanent,Wales,2025-02-22,2026-01-28,passed,7,paid,no
+70403696,5618978,on probation,12,45000,yes,6,yes,19,8550,5,Patrick Murphy,Amira Khan,Cedar Finance Group,Technology,SOC Analyst,fixed-term,Wales,2025-06-21,,extended,,not invoiced,no
+37488254,1878147,terminated,41,69000,no,4,no,14,9660,2,Patrick Murphy,Priya Nair,Cobalt Consulting,Cybersecurity,Business Analyst,permanent,Wales,2023-08-04,2024-12-26,failed,3,paid,yes
+39452302,6395497,completed,22,29000,yes,7,no,19,5510,2,Robert Lewis,James Wilson,MetroGov Digital,Cybersecurity,Technical Support Engineer,contract,Northern Ireland,2025-07-13,2026-01-30,passed,5,paid,no
+60552852,8109164,completed,29,72000,yes,10,yes,10,7200,1,Hannah Foster,Naomi Patel,Vertex Retail Solutions,Healthcare,Product Manager,permanent,Remote,2023-02-20,2023-12-17,failed,10,paid,no
+95381145,2267473,completed,37,62500,yes,8,maybe,12,7500,5,Robert Lewis,James Wilson,Orion Telecom,Retail,Full Stack Developer,contract,Republic of Ireland,2023-07-09,2024-04-01,extended,8,partially paid,no
+80055961,3802414,completed,48,29000,yes,8,yes,10,2900,4,Eoin Kelly,Thomas Wright,GreenGrid Energy,Manufacturing,Cloud Engineer,permanent,Remote,2026-03-31,2026-11-21,extended,8,paid,no
+27463321,8531847,active,40,38000,yes,9,yes,20,7600,2,Patrick Murphy,Megan Campbell,Silverline Payments,Energy,Cybersecurity Analyst,permanent,Northern Ireland,2024-05-03,,not applicable,9,paid,no
+62248604,8698727,active,17,53000,yes,6,yes,12,6360,1,Emma Collins,Sean O'Donnell,MetroGov Digital,Telecommunications,Full Stack Developer,contract,Remote,2023-04-30,,not applicable,6,paid,no
+41694880,9377628,extended contract,35,25500,yes,10,yes,18,4590,3,Hannah Foster,Daniel Hughes,BlueHarbour Health,Manufacturing,SOC Analyst,permanent,England,2024-11-07,2025-08-29,failed,10,paid,no
+12179109,7418480,terminated,44,41500,yes,4,no,13,5395,4,Nadia Hussain,James Wilson,Redstone AI,Healthcare,IoT Security Engineer,permanent,England,2023-12-04,2025-03-20,extended,2,paid,yes
+91913898,6113173,terminated,63,31500,no,2,no,12,3780,2,Patrick Murphy,Thomas Wright,Summit Learning Tech,Cybersecurity,Technical Support Engineer,fixed-term,England,2025-10-08,2026-10-17,not applicable,1,paid,yes
+59889327,9259231,active,57,100000,yes,6,maybe,17,17000,2,Laura Bennett,Adam Clarke,MetroGov Digital,Consulting,Full Stack Developer,contract,Scotland,2023-04-23,,not applicable,4,paid,no
+44123831,3273981,completed,47,30000,yes,8,yes,14,4200,2,Hannah Foster,James Wilson,Redstone AI,Logistics,Technical Support Engineer,permanent,Scotland,2024-04-22,2025-08-05,not applicable,6,paid,no
+22853306,6586464,active,39,85000,yes,9,yes,17,14450,2,Robert Lewis,James Wilson,Foyle Secure Networks,Logistics,Full Stack Developer,permanent,Scotland,2026-03-23,,not applicable,8,paid,no
+51308219,6838773,on probation,13,38000,yes,6,maybe,20,7600,1,Michael Turner,Megan Campbell,Orion Telecom,Public Sector,Data Analyst,permanent,Northern Ireland,2023-11-17,,failed,,not invoiced,no
+78786243,4850122,active,27,20500,yes,7,yes,11,2255,2,Oliver Green,Holly Evans,BlueHarbour Health,Cybersecurity,Technical Support Engineer,permanent,Republic of Ireland,2024-02-02,,not applicable,8,paid,no
+40097480,9475980,completed,48,64000,yes,9,yes,12,7680,4,Nadia Hussain,Amira Khan,Cedar Finance Group,Education,QA Engineer,permanent,Remote,2024-11-16,2025-04-10,extended,10,pending,no
+35778255,3504928,completed,33,28500,yes,8,yes,14,3990,4,Marta Nowak,Thomas Wright,Silverline Payments,Consulting,Finance Analyst,permanent,Northern Ireland,2023-02-03,2023-12-11,not applicable,8,pending,no
+24358615,2209582,completed,22,46500,yes,10,yes,17,7905,4,Sanjay Rao,Megan Campbell,GreenGrid Energy,Technology,Data Engineer,permanent,Wales,2023-05-20,2024-08-12,not applicable,8,paid,no
+17784545,4811903,active,28,25000,yes,8,maybe,18,4500,3,Hannah Foster,Priya Nair,Aster Cloud Systems,Logistics,Business Analyst,fixed-term,England,2025-02-03,,not applicable,8,partially paid,no
+71145186,4546046,completed,48,34000,pending,9,yes,16,5440,4,Laura Bennett,Amira Khan,OakTree Platforms,Manufacturing,Cybersecurity Analyst,permanent,Republic of Ireland,2023-06-12,2024-05-03,not applicable,9,pending,no
+25243369,8826471,completed,59,30000,yes,9,maybe,17,5100,2,Laura Bennett,Adam Clarke,GreenGrid Energy,Energy,Business Analyst,permanent,Northern Ireland,2024-10-20,2025-10-05,passed,9,partially paid,no
+68728558,5629316,terminated,37,59500,no,5,no,17,10115,4,Robert Lewis,Thomas Wright,Silverline Payments,Healthcare,Cloud Engineer,permanent,Republic of Ireland,2023-08-20,2024-08-25,passed,4,paid,yes
+91979510,7083382,active,36,26500,yes,8,yes,14,3710,2,Hannah Foster,Megan Campbell,GreenGrid Energy,Logistics,Full Stack Developer,fixed-term,Northern Ireland,2025-07-01,,not applicable,7,pending,no
+74682108,3095984,completed,23,42000,yes,8,yes,20,8400,3,Emma Collins,Grace Mitchell,MetroGov Digital,Logistics,UX Designer,contract,Republic of Ireland,2023-10-11,2024-01-29,not applicable,6,partially paid,no
+65113860,1073623,completed,23,23500,pending,8,maybe,19,4465,3,Robert Lewis,Megan Campbell,GreenGrid Energy,Financial Services,Network Engineer,permanent,Scotland,2023-04-30,2023-08-19,failed,9,pending,no
+56231685,6323167,active,40,20000,yes,9,yes,12,2400,3,Sanjay Rao,Thomas Wright,MetroGov Digital,Retail,Technical Support Engineer,permanent,Remote,2025-10-25,,not applicable,9,paid,no
+78546694,3243391,active,39,34000,yes,7,yes,14,4760,3,Emma Collins,Priya Nair,Aster Cloud Systems,Cybersecurity,UX Designer,permanent,Remote,2024-05-20,,not applicable,8,partially paid,no
+87320329,3177326,on probation,22,53000,yes,8,yes,17,9010,3,Claire Robinson,Daniel Hughes,Aster Cloud Systems,Consulting,Cybersecurity Analyst,fixed-term,England,2023-11-19,,extended,,paid,no
+87373581,4866543,active,22,44000,yes,9,yes,13,5720,2,Marta Nowak,Grace Mitchell,Redstone AI,Logistics,Full Stack Developer,permanent,England,2024-05-09,,not applicable,10,paid,no
+13602583,8509220,completed,44,34000,yes,6,yes,12,4080,2,Robert Lewis,Grace Mitchell,QuantumWorks,Telecommunications,Machine Learning Engineer,permanent,England,2024-02-13,2025-04-17,not applicable,5,paid,no
+75931420,9968796,on probation,19,68000,yes,8,yes,17,11560,3,Laura Bennett,Amira Khan,Summit Learning Tech,Education,Finance Analyst,fixed-term,England,2023-11-19,,not applicable,,partially paid,no
+47918891,4808943,active,58,54000,pending,9,yes,19,10260,1,Sanjay Rao,Naomi Patel,Foyle Secure Networks,Healthcare,Cybersecurity Analyst,fixed-term,Wales,2025-09-08,,not applicable,7,paid,no
+38076206,6955341,completed,33,37000,yes,9,yes,14,5180,3,Laura Bennett,Holly Evans,MetroGov Digital,Healthcare,Finance Analyst,fixed-term,Wales,2025-09-05,2026-09-16,not applicable,7,paid,no
+58234678,2115839,active,38,59000,yes,10,yes,14,8260,3,Eoin Kelly,Megan Campbell,BlueHarbour Health,Healthcare,Cybersecurity Analyst,fixed-term,Republic of Ireland,2023-03-25,,not applicable,9,paid,no
+94873401,7717225,active,8,20000,yes,10,maybe,12,2400,3,Oliver Green,Sean O'Donnell,Foyle Secure Networks,Energy,Frontend Developer,permanent,Wales,2024-06-18,,not applicable,8,paid,no
+55299898,5083586,extended contract,38,39000,yes,8,yes,16,6240,2,Hannah Foster,Sofia Garcia,BrightPath Software,Energy,Cybersecurity Analyst,permanent,Scotland,2024-03-26,2025-04-13,extended,7,paid,no
+15087420,6587700,on probation,49,48000,yes,8,yes,16,7680,4,Robert Lewis,Priya Nair,Harbourline Logistics,Education,Project Manager,contract,Scotland,2024-12-20,,not applicable,,paid,no
+11401024,8573197,completed,18,81500,yes,7,no,12,9780,2,Patrick Murphy,Holly Evans,Foyle Secure Networks,Cybersecurity,Network Engineer,fixed-term,Remote,2025-09-30,2026-02-28,passed,6,paid,no
+84432717,9462307,active,42,35500,yes,9,maybe,16,5680,3,Hannah Foster,Megan Campbell,BlueHarbour Health,Manufacturing,Technical Support Engineer,temp-to-perm,Republic of Ireland,2025-08-08,,not applicable,8,pending,no
+97894225,5257212,terminated,36,56000,yes,6,maybe,11,6160,3,Claire Robinson,Priya Nair,Nimbus Cyber Defence,Healthcare,Software Engineer,fixed-term,Remote,2025-09-21,2026-08-23,failed,7,paid,no
+24901460,5146112,active,17,45500,yes,9,yes,14,6370,2,Laura Bennett,Megan Campbell,GreenGrid Energy,Retail,Data Analyst,fixed-term,Wales,2023-12-06,,not applicable,10,paid,no
+70688600,5641288,completed,31,24000,pending,5,maybe,19,4560,1,Nadia Hussain,Daniel Hughes,Nimbus Cyber Defence,Financial Services,SOC Analyst,permanent,Wales,2024-10-09,2026-01-03,failed,3,paid,no
+63723355,7980184,terminated,45,37500,no,4,no,10,3750,4,Oliver Green,Priya Nair,Redstone AI,Telecommunications,AI Research Engineer,permanent,Northern Ireland,2023-08-20,2024-07-09,extended,2,pending,yes
+98588514,9464614,on probation,9,18500,yes,6,maybe,19,3515,2,Laura Bennett,Amira Khan,Harbourline Logistics,Healthcare,Technical Support Engineer,contract,Northern Ireland,2025-01-18,,not applicable,,pending,no
+81114988,5572885,on probation,25,43500,no,5,maybe,10,4350,3,Laura Bennett,Grace Mitchell,Silverline Payments,Telecommunications,DevOps Engineer,permanent,Remote,2025-11-19,,failed,,pending,no
+19754861,8849034,completed,25,52000,yes,7,maybe,16,8320,2,Eoin Kelly,Priya Nair,Redstone AI,Technology,Network Engineer,permanent,Wales,2024-12-21,2025-10-03,passed,6,paid,no
+49133423,5281770,active,54,84000,yes,10,maybe,13,10920,2,Robert Lewis,Naomi Patel,GreenGrid Energy,Consulting,QA Engineer,contract,Republic of Ireland,2024-04-30,,not applicable,9,pending,no
+19158909,9553464,on probation,35,52000,yes,6,no,17,8840,2,Nadia Hussain,Sean O'Donnell,Lagan Data Labs,Education,HR Coordinator,fixed-term,Wales,2025-07-25,,not applicable,,paid,no
+50513791,3122324,on probation,36,49500,pending,4,no,17,8415,1,Hannah Foster,James Wilson,Foyle Secure Networks,Logistics,Business Analyst,permanent,England,2025-12-05,,passed,,paid,no
+52510593,3446936,extended contract,68,36000,yes,7,maybe,10,3600,4,Laura Bennett,Adam Clarke,Summit Learning Tech,Financial Services,Full Stack Developer,permanent,Scotland,2023-11-24,2025-09-02,passed,7,paid,no
+54867844,9544835,on probation,20,38000,no,4,maybe,10,3800,2,Marta Nowak,Sofia Garcia,QuantumWorks,Consulting,Machine Learning Engineer,fixed-term,Scotland,2023-09-08,,extended,,pending,no
+50950021,8415940,extended contract,29,38500,yes,7,yes,18,6930,3,Claire Robinson,Naomi Patel,Redstone AI,Energy,Backend Developer,fixed-term,Northern Ireland,2025-06-08,2026-04-30,not applicable,7,paid,no
+47808389,4401693,active,57,32000,yes,6,yes,16,5120,4,Marta Nowak,James Wilson,Foyle Secure Networks,Telecommunications,Network Engineer,contract,Republic of Ireland,2024-06-11,,not applicable,7,pending,no
+79980428,3041173,completed,35,43000,yes,7,yes,18,7740,4,Michael Turner,Grace Mitchell,Redstone AI,Energy,AI Research Engineer,permanent,Remote,2024-02-08,2024-10-22,extended,7,pending,no
+68767630,5555692,on probation,37,26500,yes,7,maybe,13,3445,2,Marta Nowak,Holly Evans,Foyle Secure Networks,Logistics,DevOps Engineer,permanent,Northern Ireland,2024-04-09,,passed,,paid,no
+99288994,6462908,active,12,61000,yes,4,maybe,20,12200,4,Laura Bennett,James Wilson,Harbourline Logistics,Cybersecurity,Frontend Developer,permanent,Republic of Ireland,2025-08-02,,not applicable,4,partially paid,no
+20928419,3139826,terminated,24,67500,no,1,no,15,10125,4,Oliver Green,Sofia Garcia,Vertex Retail Solutions,Cybersecurity,Solutions Architect,fixed-term,Remote,2026-03-24,2027-02-16,failed,2,paid,yes
+33888162,7167460,extended contract,25,62000,pending,8,yes,13,8060,2,Laura Bennett,James Wilson,Vertex Retail Solutions,Education,Solutions Architect,contract,England,2024-05-13,2025-01-06,extended,9,paid,no
+17317814,7396623,completed,41,35000,yes,10,maybe,11,3850,5,Nadia Hussain,James Wilson,Foyle Secure Networks,Consulting,Full Stack Developer,permanent,Wales,2025-10-13,2026-11-29,extended,9,paid,no
+57882558,6003910,terminated,46,24000,no,3,no,14,3360,3,Eoin Kelly,Naomi Patel,Nimbus Cyber Defence,Cybersecurity,SOC Analyst,fixed-term,England,2025-09-09,2026-01-24,extended,2,pending,yes
+15681485,7751013,active,19,56000,yes,5,no,16,8960,2,Nadia Hussain,Grace Mitchell,Harbourline Logistics,Healthcare,Cloud Engineer,contract,Remote,2024-01-26,,not applicable,6,paid,no
+22454229,9107760,terminated,47,25500,no,1,no,13,3315,1,Robert Lewis,Thomas Wright,Harbourline Logistics,Consulting,UX Designer,permanent,Republic of Ireland,2024-11-21,2026-04-21,extended,2,paid,yes
+29911006,8183189,active,52,52500,pending,8,yes,16,8400,4,Robert Lewis,Amira Khan,Foyle Secure Networks,Logistics,Software Engineer,permanent,Northern Ireland,2026-03-01,,not applicable,7,pending,no
+35987423,3949657,on probation,33,52500,pending,6,maybe,12,6300,3,Robert Lewis,Sofia Garcia,Cedar Finance Group,Public Sector,QA Engineer,contract,Republic of Ireland,2024-02-23,,not applicable,,pending,no
+10704876,7628210,completed,59,106500,yes,10,yes,17,18105,3,Emma Collins,Sofia Garcia,Aster Cloud Systems,Healthcare,AI Research Engineer,permanent,Scotland,2025-10-20,2026-11-02,extended,9,not invoiced,no
+40945647,1873915,active,48,69000,yes,7,maybe,11,7590,2,Sanjay Rao,Adam Clarke,OakTree Platforms,Manufacturing,Marketing Analyst,permanent,Scotland,2023-06-29,,not applicable,7,paid,no
+93009915,3812825,on probation,19,48000,pending,6,yes,18,8640,2,Claire Robinson,Sofia Garcia,Cobalt Consulting,Healthcare,UX Designer,contract,England,2024-11-16,,not applicable,,paid,no

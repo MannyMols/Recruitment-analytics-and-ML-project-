@@ -1,0 +1,501 @@
+candidate_id,first_name,last_name,nationality,job_function,seniority_level,years_of_experience,expected_salary_gbp,assessment_score,key_skills,english_proficiency,remote_preference,registration_date,location,education_level,availability_notice_days,visa_status,source_channel,profile_status
+1318915,Leo,Walker,Turkish,Software Engineer,senior,22,93000,78,Python; Agile; Git; Unit Testing,56,yes,2024-11-27,Birmingham,Bachelor's,0,EU settled status,LinkedIn,placed
+1337348,Reuben,O'Connor,Turkish,Frontend Developer,mid,4,48500,60,HTML; Accessibility; React,89,no,2024-01-05,Derry,Diploma,7,Student visa,Recruiter Outreach,inactive
+7917583,Fatima,Nakamura,Moroccan,Full Stack Developer,junior,4,45000,88,Node.js; REST APIs; Docker; TypeScript,93,yes,2024-07-06,Dublin,Bachelor's,0,British or Irish citizen,University Partner,under review
+3891218,Theo,Zhang,Dutch,Machine Learning Engineer,mid,4,65000,84,Model Evaluation; Feature Engineering; Scikit-learn; MLOps,87,yes,2024-08-08,Newcastle,Bachelor's,45,British or Irish citizen,Referral,under review
+5550102,Eleanor,Singh,Nepalese,Technical Support Engineer,junior,4,30500,61,Customer Support; Troubleshooting; Linux,81,no,2024-06-17,Dublin,Master's,45,Student visa,Company Website,active
+4821017,Amelia,Taylor,South African,Technical Support Engineer,intern,0,21500,59,Customer Support; Troubleshooting; Networking,97,yes,2025-03-12,Glasgow,Master's,0,Requires sponsorship,LinkedIn,active
+1417243,Nora,Khan,Chinese,Data Analyst,mid,7,45000,75,SQL; Power BI; Tableau,65,yes,2025-03-22,Birmingham,Professional Certification,90,Skilled Worker visa,Job Board,placed
+3010594,Maya,Lewis,Dutch,SOC Analyst,junior,1,28500,67,Alert Triage; Splunk; Incident Response,78,no,2023-08-18,Bristol,Bachelor's,45,Student visa,LinkedIn,active
+6944809,Omar,Kumar,Filipino,HR Coordinator,entry level,2,20500,67,Onboarding; Employee Records; Recruitment; HRIS; Compliance,93,yes,2025-06-22,Remote UK,Master's,90,Graduate visa,LinkedIn,active
+6533163,Sofia,Thompson,Pakistani,Machine Learning Engineer,mid,5,61000,90,MLOps; Scikit-learn; Feature Engineering; TensorFlow,75,yes,2023-01-21,Manchester,Professional Certification,7,Graduate visa,Career Fair,active
+9263157,Bilal,Taylor,South Korean,Network Engineer,intern,0,21500,75,Switching; Firewalls; VPN,97,yes,2024-02-07,Birmingham,Master's,60,EU settled status,Job Board,active
+9470011,Imani,Foster,South Korean,Finance Analyst,senior,15,65000,84,Excel; Variance Analysis; SQL,64,yes,2025-08-24,Belfast,Master's,14,EU settled status,Career Fair,inactive
+7434300,William,Doherty,Ukrainian,Business Analyst,entry level,0,26500,71,Requirements Gathering; UAT; SQL; Process Mapping,68,yes,2024-07-20,Manchester,Master's,0,Student visa,Company Website,active
+5703741,Ruby,McDonald,Indonesian,Product Manager,mid,7,67500,72,Stakeholder Management; Analytics; Roadmapping; User Research; Agile,97,yes,2025-10-30,Manchester,Master's,30,EU settled status,University Partner,active
+6737991,Arjun,Ali,Turkish,Frontend Developer,senior,18,77000,73,HTML; React; JavaScript,77,no,2025-05-17,Derry,PhD,30,No sponsorship required,LinkedIn,active
+5771344,Priya,McCarthy,Ghanaian,Sales Engineer,mid,7,64000,74,Discovery; Technical Demos; CRM; Solution Design,90,yes,2023-11-21,Bristol,Bachelor's,14,Student visa,LinkedIn,active
+7393366,Aaron,Santos,Indonesian,UX Designer,junior,3,41500,72,Wireframing; Figma; Accessibility; User Research; Prototyping,87,no,2024-04-17,Dublin,Bachelor's,30,Requires sponsorship,Job Board,active
+4274267,Leo,Green,Brazilian,Network Engineer,junior,2,31000,60,Cisco; Switching; Network Monitoring; VPN; Routing,95,no,2026-01-17,Remote EU,Professional Certification,14,EU settled status,Job Board,inactive
+8552539,Grace,Doherty,Dutch,IoT Security Engineer,mid,6,63000,80,Network Security; Threat Modelling; Python; Firmware Analysis,55,yes,2024-07-16,Cork,Professional Certification,0,Requires sponsorship,LinkedIn,active
+6586464,Zara,O'Brien,Mexican,Full Stack Developer,senior,12,80500,84,Node.js; SQL; REST APIs,57,no,2025-01-09,Glasgow,Master's,14,No sponsorship required,Job Board,active
+5304423,Amelia,Zhang,Pakistani,Database Administrator,entry level,2,31000,51,Performance Tuning; Data Security; Backup Recovery,90,yes,2024-10-23,Dublin,Bachelor's,60,Graduate visa,Company Website,inactive
+3741802,Amara,Singh,South African,Finance Analyst,junior,3,36000,59,Budgeting; Variance Analysis; Excel; Forecasting,84,no,2023-06-26,Derry,Master's,45,Graduate visa,Recruiter Outreach,placed
+6572141,Grace,Kumar,Argentinian,UX Designer,senior,18,76000,97,Prototyping; Wireframing; Figma; Accessibility; User Research,75,no,2024-06-26,Cork,Master's,60,EU settled status,Company Website,active
+3389551,Ibrahim,Hughes,Ghanaian,Finance Analyst,senior,15,66000,66,Budgeting; SQL; Excel; Variance Analysis; Forecasting,83,yes,2025-07-26,Derry,Bachelor's,7,Student visa,Referral,active
+1499254,Joseph,Garcia,Vietnamese,Finance Analyst,junior,2,33000,71,SQL; Variance Analysis; Excel; Forecasting,81,no,2024-01-14,Dublin,Master's,90,EU settled status,Career Fair,under review
+8839289,Aaron,Turner,Moroccan,Finance Analyst,junior,2,30000,87,Forecasting; SQL; Variance Analysis; Excel,60,no,2024-11-25,Belfast,Diploma,0,Skilled Worker visa,Career Fair,active
+6449274,Aaliyah,Kumar,Kenyan,Finance Analyst,senior,8,59000,86,Budgeting; Excel; SQL; Variance Analysis,92,no,2025-05-23,Manchester,Bachelor's,45,Requires sponsorship,Career Fair,active
+8444027,Layla,O'Connor,Bangladeshi,HR Coordinator,mid,7,38500,75,HRIS; Compliance; Onboarding; Recruitment,90,yes,2026-01-13,Newcastle,Master's,0,Student visa,Company Website,under review
+5200000,Eleanor,Lopez-Garcia,Kenyan,QA Engineer,mid,5,43000,74,Manual Testing; Test Automation; Jira; Regression Testing,96,yes,2024-01-19,Cork,Professional Certification,60,No sponsorship required,LinkedIn,under review
+1878147,Camila,Taylor,Dutch,Business Analyst,senior,21,73500,94,Requirements Gathering; Process Mapping; Stakeholder Management; UAT; SQL,77,yes,2024-02-19,Liverpool,Master's,90,No sponsorship required,Job Board,inactive
+3184771,Elena,Kowalski,Dutch,Project Manager,mid,6,56500,61,Agile; Budget Tracking; Risk Management,95,no,2025-06-22,Edinburgh,Professional Certification,90,No sponsorship required,Career Fair,active
+9377927,Grace,Johnson,Turkish,Technical Support Engineer,intern,1,18000,48,Troubleshooting; Linux; Customer Support,88,no,2024-06-11,Dublin,Master's,30,Skilled Worker visa,Job Board,inactive
+8087691,Khadija,Singh,South Korean,IoT Security Engineer,mid,5,60000,78,Firmware Analysis; Network Security; Embedded Systems,76,yes,2023-08-24,Leeds,Bachelor's,30,Skilled Worker visa,Referral,active
+6185110,Ethan,McDonald,Irish,Full Stack Developer,senior,11,84000,81,REST APIs; Docker; Node.js; TypeScript; React,96,no,2023-12-18,Cardiff,Bachelor's,7,Requires sponsorship,LinkedIn,placed
+3446936,Zara,Wright,Filipino,Full Stack Developer,entry level,0,36000,81,REST APIs; Node.js; SQL; Docker; TypeScript,84,yes,2023-05-04,Glasgow,Professional Certification,0,Skilled Worker visa,Job Board,active
+4018329,Emily,Kumar,Colombian,Product Manager,entry level,0,42500,59,Agile; Roadmapping; Analytics,76,yes,2024-11-20,Edinburgh,Diploma,60,Skilled Worker visa,LinkedIn,inactive
+7284900,Liam,Murphy,Turkish,Data Analyst,entry level,1,28000,51,SQL; Qlik Sense; Power BI,74,yes,2024-05-06,Dublin,Bachelor's,14,Skilled Worker visa,Job Board,placed
+6791334,Nora,Wright,Moroccan,Data Analyst,intern,1,23000,71,Data Cleaning; Python; Excel; Power BI; Qlik Sense,77,no,2024-05-08,Liverpool,Diploma,14,British or Irish citizen,Referral,under review
+1061031,Ruby,Brown,Vietnamese,QA Engineer,senior,10,65000,72,Selenium; Test Automation; Regression Testing; Manual Testing,95,no,2024-01-31,Cardiff,Bachelor's,30,Graduate visa,Career Fair,active
+8431785,Imani,Robinson,Australian,Network Engineer,mid,7,46000,89,Cisco; Routing; Network Monitoring; Switching,98,yes,2025-07-28,Cardiff,PhD,7,Graduate visa,Recruiter Outreach,active
+5658806,Harriet,Martin,American,Marketing Analyst,senior,13,68000,99,Looker Studio; GA4; SQL; A/B Testing; Campaign Analysis,100,no,2025-09-03,Cardiff,Master's,0,Skilled Worker visa,Career Fair,active
+7520442,Zara,O'Brien,Nigerian,Marketing Analyst,mid,4,37500,65,Campaign Analysis; A/B Testing; Looker Studio,97,no,2024-08-10,Cork,Bachelor's,14,Requires sponsorship,Referral,active
+1360061,Theo,McCarthy,Pakistani,Cybersecurity Analyst,intern,1,24000,74,Incident Response; Vulnerability Assessment; SIEM,67,yes,2024-07-23,Belfast,Master's,90,Student visa,University Partner,active
+3928257,Jasmine,Murphy,British,Technical Support Engineer,mid,5,42500,75,Networking; Customer Support; Linux; Windows,90,no,2024-05-19,Bristol,Bachelor's,90,Graduate visa,Referral,placed
+3526852,Rachel,Brown,British,Machine Learning Engineer,entry level,1,39500,63,TensorFlow; Feature Engineering; Python; Model Evaluation,97,no,2025-06-15,Glasgow,Bachelor's,14,British or Irish citizen,University Partner,active
+1108167,Callum,Evans,Nepalese,Data Engineer,mid,5,56500,86,SQL; ETL; BigQuery; Data Warehousing; Airflow,90,no,2024-09-05,Manchester,Bachelor's,30,No sponsorship required,Job Board,placed
+6953163,Layla,Lewis,Filipino,QA Engineer,mid,7,50000,78,Test Automation; Regression Testing; Selenium,80,yes,2025-08-06,Remote EU,Diploma,90,Student visa,Referral,active
+1976524,Amir,Lewis,Turkish,Project Manager,junior,3,47000,74,Budget Tracking; Risk Management; Stakeholder Management,86,no,2025-08-17,Derry,PhD,7,Student visa,Company Website,active
+9210062,Adam,Turner,Turkish,IoT Security Engineer,senior,10,82500,78,Python; Network Security; Threat Modelling,61,yes,2023-11-19,Manchester,Master's,45,Skilled Worker visa,LinkedIn,active
+9875662,Emily,Chen,Irish,Machine Learning Engineer,mid,6,65500,85,MLOps; Model Evaluation; Python; Scikit-learn,89,yes,2024-07-30,Remote EU,PhD,90,British or Irish citizen,Company Website,active
+3588309,Isabella,Martin,Colombian,Data Analyst,mid,4,36500,63,Power BI; Excel; Tableau; SQL,62,no,2024-07-14,Dublin,Diploma,45,Graduate visa,Career Fair,active
+4397277,Mia,Ahmed,Brazilian,Business Analyst,junior,3,33500,58,SQL; Process Mapping; UAT; Stakeholder Management,58,no,2023-10-21,Cork,Bachelor's,90,British or Irish citizen,Career Fair,under review
+9259231,Kieran,Turner,Bangladeshi,Full Stack Developer,senior,20,91500,78,React; TypeScript; Docker; REST APIs; SQL,97,no,2024-06-16,Glasgow,Bachelor's,7,EU settled status,LinkedIn,active
+1396967,Thomas,Zhang,Polish,DevOps Engineer,senior,21,101500,82,Terraform; Kubernetes; CI/CD,68,no,2024-08-22,Newcastle,Diploma,45,Skilled Worker visa,Company Website,active
+7407847,Joseph,Smith,Indonesian,AI Research Engineer,mid,5,62000,65,Experiment Tracking; NLP; Research Methods; Python,84,no,2024-09-20,Glasgow,Master's,0,Skilled Worker visa,Company Website,placed
+4808943,Grace,Ahmed,Polish,Cybersecurity Analyst,mid,5,52500,76,Threat Detection; Incident Response; SIEM; Security Monitoring; Vulnerability Assessment,78,yes,2023-04-26,Leeds,Bachelor's,30,Requires sponsorship,LinkedIn,active
+3139826,Freya,Davies,Pakistani,Solutions Architect,mid,8,79000,85,Integration; Cloud Platforms; Security; Architecture Design; Stakeholder Management,87,yes,2023-09-26,Cork,Professional Certification,30,EU settled status,Company Website,active
+9150714,Theo,Sharma,Indonesian,Cloud Engineer,mid,8,62500,92,Terraform; Linux; AWS; Azure; Cloud Security,66,no,2025-03-08,Dublin,Master's,90,EU settled status,University Partner,active
+2572539,David,Santos,American,AI Research Engineer,senior,12,90500,73,NLP; Python; Research Methods; Experiment Tracking,97,no,2023-11-07,Edinburgh,Bachelor's,60,Requires sponsorship,Referral,active
+9675005,Alex,Williams,Canadian,IoT Security Engineer,junior,2,44500,88,Firmware Analysis; Threat Modelling; Embedded Systems; Python,97,yes,2025-09-19,Cork,Professional Certification,45,EU settled status,Career Fair,placed
+2115839,Victoria,O'Brien,Sri Lankan,Cybersecurity Analyst,mid,7,57500,74,Incident Response; Vulnerability Assessment; SIEM; Security Monitoring; Threat Detection,60,no,2025-04-04,Birmingham,Bachelor's,60,Student visa,Recruiter Outreach,active
+4489480,Zara,Baker,Kenyan,SOC Analyst,junior,1,29000,68,Alert Triage; Log Analysis; MITRE ATTACK; Incident Response,84,yes,2025-12-13,Dublin,Diploma,7,British or Irish citizen,Job Board,placed
+8573197,Gabriel,Smith,Nepalese,Network Engineer,senior,19,80000,68,VPN; Network Monitoring; Firewalls,55,no,2024-12-14,Cardiff,Bachelor's,45,British or Irish citizen,LinkedIn,inactive
+9001231,Amara,O'Brien,Ghanaian,Cybersecurity Analyst,mid,8,54500,85,Incident Response; Security Monitoring; Vulnerability Assessment; Threat Detection; SIEM,87,yes,2023-01-18,Cardiff,Bachelor's,30,Student visa,Job Board,active
+9699602,Yasmin,Rodriguez,Dutch,Cloud Engineer,junior,4,48500,76,AWS; Cloud Security; Linux; Azure; GCP,87,no,2025-02-14,Liverpool,Bachelor's,14,Graduate visa,University Partner,active
+6488339,Lily,Roberts,Bangladeshi,IoT Security Engineer,junior,4,43000,59,Network Security; Firmware Analysis; Python; Embedded Systems,70,yes,2025-06-12,Belfast,Master's,60,British or Irish citizen,Company Website,placed
+4157714,Rachel,Williams,Vietnamese,Data Engineer,junior,2,38500,76,SQL; ETL; Spark,56,no,2025-10-11,Bristol,Bachelor's,45,Graduate visa,Recruiter Outreach,active
+5572885,Reuben,Khan,Indonesian,DevOps Engineer,junior,1,51000,71,Docker; Terraform; Linux; Kubernetes; Monitoring,66,yes,2025-03-27,Newcastle,Bachelor's,30,Student visa,Company Website,active
+9298197,Bilal,Al-Hassan,British,AI Research Engineer,mid,4,64500,62,NLP; Experiment Tracking; Python; Deep Learning; Research Methods,88,no,2025-09-19,Liverpool,PhD,45,British or Irish citizen,Career Fair,placed
+1124631,Sara,Kowalski,Polish,Cloud Engineer,entry level,0,40500,66,Cloud Security; Terraform; AWS; Linux,91,no,2024-05-30,Derry,Bachelor's,45,British or Irish citizen,University Partner,inactive
+1947933,Adam,Taylor,Ukrainian,Product Manager,entry level,0,36500,58,Stakeholder Management; Roadmapping; User Research,56,yes,2024-01-15,Belfast,Bachelor's,90,Requires sponsorship,University Partner,active
+8485152,Daniel,Anderson,Italian,IoT Security Engineer,entry level,0,36500,52,Firmware Analysis; Threat Modelling; Python; Network Security,92,no,2024-12-21,Bristol,Professional Certification,60,Skilled Worker visa,Career Fair,placed
+8997154,Ben,Thompson,American,Backend Developer,senior,12,83000,100,APIs; SQL; Python,86,yes,2024-08-28,Derry,Master's,14,British or Irish citizen,Company Website,placed
+7842083,Sofia,Sharma,Brazilian,Full Stack Developer,junior,3,48000,57,Docker; SQL; REST APIs,82,no,2024-10-27,Dublin,Bachelor's,90,No sponsorship required,Recruiter Outreach,placed
+7612712,Ruby,Peterson,American,SOC Analyst,junior,4,32000,85,Splunk; MITRE ATTACK; Incident Response; Alert Triage; Log Analysis,86,yes,2023-07-20,Derry,Bachelor's,0,Graduate visa,Recruiter Outreach,active
+7563560,Leo,Evans,Moroccan,Machine Learning Engineer,entry level,0,38500,58,Scikit-learn; MLOps; Model Evaluation; Feature Engineering,77,no,2025-09-22,Glasgow,Bachelor's,45,No sponsorship required,Job Board,active
+9124138,Aisha,Ahmed,Dutch,Machine Learning Engineer,senior,15,95500,68,Scikit-learn; MLOps; TensorFlow,90,no,2023-08-17,Bristol,Master's,14,Graduate visa,Recruiter Outreach,under review
+5972267,Noah,Baker,Nigerian,Project Manager,entry level,0,38500,53,Agile; Budget Tracking; Risk Management; Stakeholder Management; Planning,91,yes,2025-01-19,Manchester,Master's,30,No sponsorship required,Recruiter Outreach,active
+8704303,Finn,Brown,Australian,Network Engineer,entry level,2,31000,77,Firewalls; Switching; VPN; Cisco,82,yes,2023-12-07,Liverpool,Professional Certification,30,Skilled Worker visa,Career Fair,placed
+9107760,Nora,Roberts,Indian,UX Designer,entry level,1,28500,59,Figma; Accessibility; Wireframing; Prototyping; User Research,78,yes,2025-04-06,Glasgow,Diploma,30,Student visa,Company Website,inactive
+1495353,Omar,Popescu,Malaysian,Product Manager,entry level,0,36000,56,User Research; Roadmapping; Agile; Stakeholder Management,76,yes,2024-05-09,Belfast,Master's,60,EU settled status,Company Website,active
+5671227,Amara,Roberts,Bangladeshi,Sales Engineer,senior,9,84000,87,Solution Design; CRM; Technical Demos,76,no,2024-06-20,London,Master's,30,Skilled Worker visa,LinkedIn,under review
+9238844,Abigail,Popescu,Indian,Finance Analyst,senior,20,69000,77,Budgeting; Variance Analysis; SQL,96,no,2025-07-26,Edinburgh,Master's,7,EU settled status,Career Fair,under review
+8962369,Nora,Brown,Sri Lankan,SOC Analyst,junior,2,35000,86,Alert Triage; Incident Response; MITRE ATTACK; Log Analysis,73,yes,2023-07-01,Belfast,Bachelor's,60,EU settled status,LinkedIn,active
+6955341,Hassan,Foster,Indonesian,Finance Analyst,junior,4,38000,89,Forecasting; Budgeting; Excel; SQL,62,no,2023-08-16,London,Professional Certification,60,British or Irish citizen,University Partner,active
+2267473,Fatima,Clarke,German,Full Stack Developer,mid,4,59500,66,TypeScript; Node.js; SQL; REST APIs,68,no,2025-10-09,Belfast,Bachelor's,30,EU settled status,Referral,inactive
+4872531,Sofia,Zhang,Japanese,Network Engineer,junior,1,38500,62,VPN; Routing; Switching; Firewalls; Network Monitoring,85,yes,2023-04-30,London,Bachelor's,90,Skilled Worker visa,Company Website,active
+3805529,Victoria,Smith-Jones,Canadian,Data Engineer,senior,22,87000,98,Data Warehousing; Airflow; ETL,82,no,2025-08-30,Leeds,Master's,45,Graduate visa,Company Website,active
+6529371,Layla,Patel,Ukrainian,DevOps Engineer,junior,3,50500,81,Terraform; Linux; Docker,85,yes,2023-01-14,Cardiff,Master's,30,British or Irish citizen,Career Fair,active
+2357601,Noah,Walker,Australian,IoT Security Engineer,intern,0,31500,76,Threat Modelling; Firmware Analysis; Network Security; Python; Embedded Systems,82,no,2024-07-09,Cardiff,Master's,30,British or Irish citizen,Recruiter Outreach,active
+8915298,Daniel,Brown,British,QA Engineer,mid,7,49500,69,Selenium; Regression Testing; Manual Testing; Jira; Test Automation,90,yes,2024-08-01,Liverpool,Bachelor's,14,Skilled Worker visa,Job Board,placed
+7717225,Hassan,Garcia,Irish,Frontend Developer,intern,0,21000,79,Accessibility; HTML; CSS,90,no,2025-07-21,Leeds,Master's,90,Graduate visa,University Partner,placed
+3234155,David,Santos,Indian,Frontend Developer,mid,5,54000,90,TypeScript; JavaScript; HTML; Accessibility; CSS,69,yes,2023-08-13,Newcastle,Master's,45,Skilled Worker visa,Referral,active
+1528185,Joseph,Al-Hassan,Colombian,SOC Analyst,junior,4,36500,72,Incident Response; Splunk; Log Analysis,87,yes,2024-03-21,Dublin,Master's,14,Student visa,Job Board,active
+6898055,Dara,Hughes,American,AI Research Engineer,mid,6,70000,69,Python; Deep Learning; NLP,85,no,2024-01-31,Remote EU,Master's,90,Graduate visa,Career Fair,active
+1345939,Toby,Smith,Sri Lankan,HR Coordinator,entry level,1,24000,50,Recruitment; Compliance; Employee Records; Onboarding; HRIS,96,yes,2023-12-18,Derry,Master's,30,Skilled Worker visa,Job Board,active
+1243540,Holly,O'Brien,Italian,AI Research Engineer,entry level,1,39000,53,NLP; Research Methods; Python; Experiment Tracking; Deep Learning,68,yes,2025-02-14,Dublin,Diploma,0,Skilled Worker visa,Career Fair,active
+9894295,Eli,Brown,Kenyan,AI Research Engineer,senior,12,92000,81,Python; Research Methods; NLP,94,yes,2024-09-02,Birmingham,Diploma,60,Skilled Worker visa,Referral,active
+9230747,Kieran,Henderson,Indian,QA Engineer,mid,4,42500,76,Test Automation; Selenium; Regression Testing; Jira; Manual Testing,70,no,2023-08-15,Derry,Professional Certification,90,No sponsorship required,Company Website,under review
+7578023,Anika,Van-Der-Merwe,Canadian,Full Stack Developer,junior,3,42000,86,Docker; TypeScript; React,90,yes,2025-02-05,Bristol,Master's,60,No sponsorship required,Career Fair,inactive
+9597352,Rachel,Henderson,Sri Lankan,Finance Analyst,intern,0,23000,64,SQL; Forecasting; Variance Analysis,85,no,2023-10-21,Remote EU,Bachelor's,14,No sponsorship required,Recruiter Outreach,inactive
+6594988,Joseph,Ali,Kenyan,Software Engineer,junior,4,46000,88,Git; Unit Testing; REST APIs; Python; Agile,93,no,2025-03-26,Dublin,Diploma,14,Student visa,University Partner,active
+9030074,Sienna,Green,Pakistani,Frontend Developer,mid,6,53500,60,HTML; CSS; React,64,no,2023-01-04,London,Professional Certification,7,British or Irish citizen,Referral,active
+5921211,Ava,Zhang,German,IoT Security Engineer,mid,4,56500,85,Network Security; Python; Threat Modelling,62,no,2025-09-20,Edinburgh,Bachelor's,0,Student visa,Referral,placed
+5083586,Alex,Ahmed,Nigerian,Cybersecurity Analyst,junior,3,36500,74,Threat Detection; Vulnerability Assessment; SIEM; Incident Response; Security Monitoring,93,yes,2024-10-02,Belfast,Bachelor's,60,Skilled Worker visa,Job Board,active
+4850122,Noah,Johnson,Chinese,Technical Support Engineer,entry level,0,20500,77,Networking; Windows; Linux,79,no,2023-03-29,Derry,Master's,45,Graduate visa,University Partner,under review
+8942029,Daniel,Santos,Chinese,IoT Security Engineer,mid,8,64500,82,Firmware Analysis; Embedded Systems; Python,88,yes,2025-05-18,Remote UK,Diploma,7,Student visa,Recruiter Outreach,active
+7369168,Mia,De-Souza,Ghanaian,DevOps Engineer,junior,2,45500,59,Docker; Kubernetes; Terraform,94,no,2025-03-28,Belfast,Bachelor's,60,EU settled status,Recruiter Outreach,active
+2136534,Sofia,Foster,Sri Lankan,Business Analyst,junior,2,33500,68,Requirements Gathering; UAT; SQL; Stakeholder Management,79,yes,2025-05-23,Glasgow,High School,30,Skilled Worker visa,LinkedIn,active
+2804183,Elena,Williams,Turkish,Product Manager,senior,8,90500,73,Stakeholder Management; Roadmapping; Agile; User Research,57,yes,2025-07-06,Liverpool,Master's,0,British or Irish citizen,University Partner,active
+2642391,Omar,Wilson,Bangladeshi,Network Engineer,senior,17,75500,90,Network Monitoring; Routing; Switching,60,yes,2025-02-28,Derry,High School,90,EU settled status,Job Board,active
+1073623,Joseph,O'Brien,Kenyan,Network Engineer,entry level,1,25000,68,VPN; Routing; Network Monitoring; Firewalls; Switching,91,no,2025-06-27,Birmingham,Bachelor's,60,Graduate visa,Career Fair,placed
+7973339,Khadija,Van-Der-Merwe,Polish,Cybersecurity Analyst,junior,3,38000,90,SIEM; Vulnerability Assessment; Threat Detection; Incident Response; Security Monitoring,68,yes,2024-09-06,Liverpool,High School,45,Skilled Worker visa,Career Fair,active
+1821148,Noah,Al-Hassan,Vietnamese,Marketing Analyst,mid,5,41000,72,SQL; Looker Studio; GA4; Campaign Analysis,82,yes,2023-10-01,Manchester,Diploma,90,Student visa,LinkedIn,active
+8321501,Arjun,Singh,Nepalese,IoT Security Engineer,mid,5,57000,93,Python; Threat Modelling; Embedded Systems; Firmware Analysis,55,no,2024-03-27,Remote UK,Professional Certification,45,Graduate visa,Referral,active
+2589151,Bilal,De-Souza,South African,IoT Security Engineer,entry level,2,42000,68,Threat Modelling; Network Security; Python; Embedded Systems; Firmware Analysis,100,yes,2024-03-23,Glasgow,Master's,14,Skilled Worker visa,Company Website,placed
+3846627,Reuben,Anderson,Nigerian,Cybersecurity Analyst,entry level,0,31500,52,Vulnerability Assessment; SIEM; Threat Detection,88,no,2023-09-12,Derry,Bachelor's,30,No sponsorship required,Recruiter Outreach,placed
+8384995,Camila,Robinson,Argentinian,Cybersecurity Analyst,entry level,0,31000,57,Vulnerability Assessment; Security Monitoring; Incident Response; SIEM; Threat Detection,75,no,2024-09-09,Edinburgh,Bachelor's,30,Student visa,Job Board,active
+8792549,Lucas,Santos,Egyptian,Product Manager,junior,3,52500,90,Agile; Roadmapping; Stakeholder Management; User Research; Analytics,63,yes,2023-06-17,Derry,Bachelor's,0,EU settled status,Recruiter Outreach,active
+4669929,Grace,Popescu,Colombian,Technical Support Engineer,junior,4,30000,59,Windows; Customer Support; Troubleshooting,70,no,2025-04-22,London,Professional Certification,0,Requires sponsorship,Job Board,placed
+5935595,Samuel,Williams,French,Marketing Analyst,entry level,2,27500,60,Looker Studio; SQL; Campaign Analysis; A/B Testing; GA4,92,no,2024-11-24,Glasgow,Master's,14,Requires sponsorship,Referral,active
+4866543,Amara,Walker,Kenyan,Full Stack Developer,junior,1,44500,88,React; Docker; SQL,98,no,2025-01-10,Cork,Bachelor's,60,Graduate visa,Referral,placed
+3240432,Noah,Zhang,South African,Backend Developer,entry level,2,35000,71,APIs; Python; SQL; Microservices; Node.js,85,yes,2025-07-11,Cork,Bachelor's,30,Graduate visa,Job Board,placed
+8589811,Layla,Roberts,Turkish,Finance Analyst,senior,13,65000,68,Forecasting; Budgeting; Variance Analysis; SQL,67,yes,2024-10-10,Bristol,Diploma,60,Student visa,Recruiter Outreach,inactive
+6838773,Gabriel,Davies,Indian,Data Analyst,mid,4,36000,90,SQL; Qlik Sense; Python; Power BI,96,yes,2023-10-13,Newcastle,Master's,7,Skilled Worker visa,Company Website,active
+2861558,Alex,Thompson,British,Project Manager,junior,1,39500,56,Stakeholder Management; Budget Tracking; Agile,91,yes,2025-02-09,Bristol,Bachelor's,30,British or Irish citizen,Recruiter Outreach,active
+5874170,Arjun,Green,Portuguese,Database Administrator,junior,1,38500,89,Backup Recovery; SQL Server; Performance Tuning,83,no,2025-02-16,Edinburgh,Bachelor's,7,British or Irish citizen,Company Website,active
+1589757,Ethan,Al-Hassan,Mexican,IoT Security Engineer,entry level,0,37000,84,Firmware Analysis; Python; Network Security; Threat Modelling; Embedded Systems,77,no,2024-12-17,Cork,Master's,45,Requires sponsorship,University Partner,active
+7922180,Naomi,Garcia,Dutch,Cloud Engineer,senior,11,85500,89,Terraform; Linux; Cloud Security,79,no,2025-07-20,Glasgow,Master's,30,Graduate visa,Company Website,active
+7420423,David,Thompson,Sri Lankan,Cybersecurity Analyst,mid,5,50000,84,SIEM; Security Monitoring; Incident Response; Threat Detection,81,yes,2023-06-02,Cardiff,Bachelor's,14,Skilled Worker visa,University Partner,active
+4401693,Liam,Foster,Chinese,Network Engineer,junior,2,33000,72,Switching; Cisco; Routing,62,yes,2024-07-02,Belfast,High School,7,EU settled status,Referral,under review
+4284958,Isabella,Kumar,Vietnamese,Finance Analyst,entry level,0,29000,53,Variance Analysis; Forecasting; SQL,96,no,2023-05-12,Dublin,Master's,90,Skilled Worker visa,Job Board,inactive
+1825311,Grace,Davies,Irish,Software Engineer,mid,7,57500,79,Git; Agile; Unit Testing,93,yes,2025-07-14,Newcastle,Bachelor's,14,EU settled status,Company Website,active
+3336736,James,Green,Pakistani,SOC Analyst,junior,1,34000,73,Incident Response; Log Analysis; MITRE ATTACK; Alert Triage,64,yes,2025-06-28,Leeds,Bachelor's,60,British or Irish citizen,Career Fair,active
+5034530,Benjamin,O'Connor,Argentinian,Project Manager,junior,4,43500,78,Agile; Stakeholder Management; Budget Tracking; Planning,68,yes,2024-11-13,Edinburgh,Master's,7,Graduate visa,Job Board,active
+4534819,David,Al-Hassan,Brazilian,Solutions Architect,intern,0,35500,55,Stakeholder Management; Integration; Architecture Design,86,yes,2024-05-17,Liverpool,Master's,0,No sponsorship required,Recruiter Outreach,placed
+9462307,Amir,Evans,Moroccan,Technical Support Engineer,mid,7,36500,82,Linux; Networking; Troubleshooting,87,yes,2023-10-20,Manchester,Master's,90,Requires sponsorship,Company Website,active
+3893821,Ibrahim,Popescu,Polish,Product Manager,junior,4,47500,67,Roadmapping; Analytics; Stakeholder Management; User Research,79,no,2023-01-27,Newcastle,Professional Certification,0,Graduate visa,Referral,active
+2802239,Rachel,O'Brien,Malaysian,SOC Analyst,junior,4,39500,69,Alert Triage; Log Analysis; MITRE ATTACK,94,yes,2023-07-02,Manchester,Bachelor's,90,British or Irish citizen,Referral,active
+1501764,Toby,Williams,Dutch,Marketing Analyst,senior,22,73000,95,GA4; SQL; Looker Studio,75,no,2025-07-18,Derry,Bachelor's,45,Student visa,LinkedIn,active
+3791429,Toby,McCarthy,American,SOC Analyst,junior,3,36000,80,Splunk; Incident Response; MITRE ATTACK,92,yes,2023-08-09,Bristol,Master's,60,British or Irish citizen,LinkedIn,placed
+4485702,Fatima,Young,Vietnamese,Frontend Developer,senior,16,72000,67,React; Accessibility; CSS; HTML,78,yes,2023-10-23,Liverpool,Master's,45,Requires sponsorship,University Partner,inactive
+9837124,Jade,Peterson,American,Frontend Developer,mid,8,57500,71,HTML; Accessibility; JavaScript; CSS,88,no,2025-01-17,Cardiff,Master's,7,Requires sponsorship,Recruiter Outreach,active
+7574092,Sofia,Hughes,Italian,DevOps Engineer,junior,2,43500,80,Linux; Monitoring; Docker,62,no,2024-06-14,Cardiff,Professional Certification,45,No sponsorship required,Recruiter Outreach,active
+9409103,Anika,Brown,Sri Lankan,Finance Analyst,junior,3,38500,77,Budgeting; Variance Analysis; SQL; Excel,96,yes,2023-03-05,Cardiff,Master's,30,No sponsorship required,Job Board,active
+9603668,Aisha,Al-Hassan,Spanish,Business Analyst,senior,13,72000,70,Stakeholder Management; SQL; UAT; Requirements Gathering; Process Mapping,76,yes,2023-06-28,Derry,High School,14,Student visa,Recruiter Outreach,placed
+9415260,Omar,Evans,Irish,Software Engineer,mid,4,55500,69,Unit Testing; Agile; Python; Git; Java,92,no,2023-01-10,Remote EU,Bachelor's,45,No sponsorship required,University Partner,active
+6394469,Mohammed,Ali,Polish,Backend Developer,mid,7,53500,77,Python; APIs; Docker; Node.js; Microservices,87,yes,2024-10-25,Remote EU,PhD,90,Student visa,Company Website,under review
+1235559,Adam,Williams,Pakistani,Finance Analyst,entry level,0,23500,83,Forecasting; SQL; Variance Analysis,59,yes,2023-01-28,Belfast,Bachelor's,7,British or Irish citizen,Recruiter Outreach,active
+1313385,Theo,Ahmed,Bangladeshi,Sales Engineer,senior,14,80500,78,Discovery; Solution Design; Stakeholder Management; Technical Demos,97,no,2024-02-25,Remote UK,Bachelor's,0,Graduate visa,Recruiter Outreach,active
+8122989,Fatima,Young,Nepalese,Full Stack Developer,entry level,0,33500,66,Docker; REST APIs; TypeScript,92,no,2024-10-25,Dublin,Bachelor's,30,Skilled Worker visa,LinkedIn,active
+8819311,Sophia,O'Connor,British,DevOps Engineer,entry level,0,38000,54,Kubernetes; Monitoring; Terraform,88,yes,2023-02-27,Newcastle,Bachelor's,14,No sponsorship required,Referral,placed
+7418480,Nora,Ali,Spanish,IoT Security Engineer,entry level,2,41500,51,Firmware Analysis; Threat Modelling; Python; Network Security,93,yes,2023-04-14,Manchester,Master's,45,No sponsorship required,Career Fair,placed
+1430129,Elena,O'Neill,Australian,Machine Learning Engineer,senior,11,89000,89,TensorFlow; Scikit-learn; MLOps; Python,99,yes,2025-03-17,Liverpool,Master's,45,Skilled Worker visa,Job Board,active
+6357619,Mia,Hughes,Mexican,Software Engineer,mid,6,56500,75,Python; REST APIs; Git,58,no,2023-12-03,Manchester,Professional Certification,7,Student visa,Company Website,active
+7989882,Emily,Patel,Japanese,Data Engineer,junior,4,44000,86,ETL; SQL; Spark,55,yes,2023-07-22,Newcastle,Bachelor's,7,EU settled status,Company Website,active
+7170684,Leo,McDonald,German,Business Analyst,senior,16,71000,98,UAT; Process Mapping; Stakeholder Management; Requirements Gathering,92,yes,2025-01-04,Belfast,Master's,90,Graduate visa,LinkedIn,active
+6357628,Sienna,Green,Italian,Backend Developer,junior,2,39000,58,Docker; Python; APIs,96,yes,2023-02-04,Dublin,Bachelor's,14,Skilled Worker visa,Recruiter Outreach,active
+5737095,Callum,Van-Der-Merwe,Indonesian,Network Engineer,intern,0,18500,70,Cisco; Network Monitoring; Switching; Routing; Firewalls,61,no,2025-08-22,Newcastle,Bachelor's,30,EU settled status,Referral,active
+8610441,Leo,Nakamura,Vietnamese,DevOps Engineer,entry level,2,42000,56,Kubernetes; Linux; Monitoring; CI/CD; Docker,97,yes,2025-10-16,Derry,High School,90,EU settled status,Company Website,active
+6763146,Zara,Sharma,Pakistani,IoT Security Engineer,mid,7,57000,94,Embedded Systems; Threat Modelling; Network Security; Firmware Analysis; Python,61,yes,2024-02-15,Glasgow,Master's,90,British or Irish citizen,LinkedIn,active
+4465292,Harriet,Jean-Baptiste,British,Software Engineer,senior,18,89500,76,Unit Testing; Agile; Python; Java,89,yes,2024-02-08,Remote UK,Master's,14,Skilled Worker visa,Referral,active
+9788046,Jacob,Anderson,Indian,Marketing Analyst,junior,4,32000,63,GA4; Looker Studio; Campaign Analysis; A/B Testing,81,no,2023-04-01,Remote UK,Master's,45,Student visa,Recruiter Outreach,active
+5896858,Mohammed,Foster,Australian,Product Manager,junior,2,47000,68,Stakeholder Management; Agile; User Research; Roadmapping; Analytics,85,no,2025-07-27,London,Professional Certification,7,Requires sponsorship,Recruiter Outreach,under review
+1282714,Finn,Clarke,Kenyan,Finance Analyst,entry level,2,31500,50,Variance Analysis; Forecasting; Budgeting,99,yes,2023-11-16,Remote UK,Bachelor's,7,Graduate visa,Career Fair,placed
+2808480,Omar,Walker,British,Full Stack Developer,mid,4,58000,64,Node.js; Docker; REST APIs; TypeScript; SQL,87,no,2024-12-30,Liverpool,PhD,45,No sponsorship required,Recruiter Outreach,placed
+2331301,Naomi,McDonald,Spanish,Solutions Architect,mid,4,76500,78,Stakeholder Management; Security; Integration; Cloud Platforms,71,yes,2023-08-18,Bristol,Master's,90,Graduate visa,University Partner,active
+6103718,Thomas,Davies,Chinese,Software Engineer,mid,4,56500,86,REST APIs; Unit Testing; Java; Python; Agile,78,no,2023-02-28,Derry,Bachelor's,0,Requires sponsorship,LinkedIn,placed
+3039916,Lucas,McCarthy,Australian,Data Analyst,senior,11,57500,73,Qlik Sense; SQL; Data Cleaning,84,yes,2025-01-09,Liverpool,Master's,45,EU settled status,LinkedIn,active
+5380782,Anika,Roberts,Bangladeshi,Finance Analyst,intern,1,19000,82,Budgeting; Excel; Forecasting; Variance Analysis,71,no,2025-01-06,Cardiff,Master's,45,Graduate visa,Company Website,placed
+6453934,Naomi,Wright,Canadian,Technical Support Engineer,mid,7,45000,89,Linux; Windows; Troubleshooting; Customer Support; Networking,83,no,2023-04-27,Birmingham,Diploma,45,EU settled status,Career Fair,active
+7522993,Kieran,Wright,Spanish,Frontend Developer,mid,5,51000,82,TypeScript; JavaScript; React; CSS,56,no,2024-08-02,Bristol,Professional Certification,14,Student visa,Job Board,active
+4537021,Amelia,Roberts,French,IoT Security Engineer,intern,0,24500,58,Embedded Systems; Firmware Analysis; Threat Modelling; Network Security,83,yes,2024-05-30,Glasgow,Diploma,45,EU settled status,Company Website,active
+8415940,Thomas,Brown,Indonesian,Backend Developer,junior,1,38500,73,APIs; Microservices; SQL; Docker,85,yes,2025-08-05,London,Bachelor's,60,Requires sponsorship,Job Board,active
+9751240,Bethany,Foster,Irish,SOC Analyst,junior,2,31000,56,Log Analysis; Splunk; Alert Triage,93,no,2024-02-24,Liverpool,Diploma,30,British or Irish citizen,Company Website,active
+5483212,Toby,Sharma,Ukrainian,Cloud Engineer,intern,1,30000,52,Cloud Security; Azure; AWS,85,yes,2025-08-19,Dublin,Professional Certification,60,Graduate visa,Company Website,active
+6318797,Ruby,Murphy,Indonesian,Backend Developer,senior,18,89000,93,Python; APIs; Docker; Node.js,75,yes,2024-04-11,London,Diploma,60,Graduate visa,Company Website,placed
+3701461,Sophia,Campbell,Nigerian,Marketing Analyst,junior,1,28500,75,GA4; Campaign Analysis; Looker Studio,82,no,2023-09-25,Birmingham,Master's,7,British or Irish citizen,Career Fair,active
+5638874,Ibrahim,Green,Polish,QA Engineer,intern,0,19000,68,Regression Testing; Test Automation; Selenium,55,no,2023-06-23,London,Bachelor's,90,Student visa,Recruiter Outreach,active
+8194782,Sophia,Patel,Indonesian,Full Stack Developer,senior,21,86500,81,REST APIs; React; Docker,75,no,2025-06-09,Remote UK,Bachelor's,14,Skilled Worker visa,Referral,active
+1557215,Alex,Campbell,Ghanaian,HR Coordinator,entry level,0,26500,83,HRIS; Recruitment; Onboarding; Compliance; Employee Records,99,yes,2023-11-15,Glasgow,Bachelor's,90,British or Irish citizen,Recruiter Outreach,active
+5477089,Jacob,Rodriguez,Filipino,HR Coordinator,mid,5,37500,60,Employee Records; Compliance; Recruitment,59,yes,2023-10-11,Remote UK,PhD,90,Student visa,University Partner,placed
+5081827,Eva,Anderson,Australian,Cybersecurity Analyst,entry level,0,29000,85,Vulnerability Assessment; SIEM; Threat Detection; Incident Response,90,no,2023-01-28,Edinburgh,Professional Certification,14,Requires sponsorship,Job Board,placed
+3201766,Emily,Jean-Baptiste,Nigerian,Sales Engineer,intern,0,23000,54,CRM; Stakeholder Management; Solution Design,85,no,2023-05-29,Manchester,Master's,30,No sponsorship required,LinkedIn,inactive
+1768184,Imani,Nguyen,Indian,DevOps Engineer,mid,8,70000,76,Monitoring; Kubernetes; Linux; Terraform,77,yes,2024-05-05,Cardiff,Bachelor's,14,Skilled Worker visa,University Partner,active
+7699201,Grace,Singh,Sri Lankan,Cloud Engineer,junior,2,47000,84,GCP; AWS; Azure; Terraform,66,no,2024-08-04,Glasgow,Bachelor's,0,Skilled Worker visa,LinkedIn,inactive
+8405769,Elena,Davies,Argentinian,Data Analyst,intern,1,18000,53,Excel; Power BI; SQL; Qlik Sense; Tableau,58,yes,2025-08-09,Edinburgh,Master's,60,EU settled status,Company Website,under review
+5161739,David,O'Brien,Kenyan,Business Analyst,senior,11,72000,99,Stakeholder Management; Process Mapping; SQL; Requirements Gathering,83,no,2023-06-15,Cork,Master's,45,Skilled Worker visa,University Partner,under review
+1768212,Thomas,Van-Der-Merwe,Italian,Project Manager,mid,7,58000,78,Budget Tracking; Risk Management; Stakeholder Management; Planning,55,no,2023-01-06,Cork,Bachelor's,90,Student visa,Job Board,placed
+6161179,Eva,Lewis,Sri Lankan,Product Manager,junior,1,44500,82,Stakeholder Management; Analytics; User Research,97,no,2025-09-28,Cork,Master's,60,Skilled Worker visa,Recruiter Outreach,active
+3504928,Camila,Johnson,Vietnamese,Finance Analyst,junior,3,30500,70,Forecasting; Excel; Variance Analysis; Budgeting; SQL,61,yes,2023-04-01,Liverpool,Diploma,14,British or Irish citizen,Referral,placed
+6368036,Kieran,Al-Hassan,Brazilian,Data Engineer,entry level,1,35500,71,Data Warehousing; Spark; SQL; Python; ETL,92,yes,2025-06-11,Remote EU,PhD,30,No sponsorship required,Referral,active
+9464614,Joseph,Patel,Malaysian,Technical Support Engineer,entry level,0,18500,58,Windows; Networking; Linux; Troubleshooting; Customer Support,72,yes,2025-09-24,Derry,Diploma,45,Skilled Worker visa,Recruiter Outreach,active
+8688429,Rachel,Foster,Malaysian,Marketing Analyst,intern,1,23500,74,Looker Studio; A/B Testing; SQL; Campaign Analysis; GA4,86,no,2024-12-22,Cork,PhD,30,Graduate visa,Career Fair,active
+8858426,Ben,Roberts,American,Marketing Analyst,mid,7,40000,81,Looker Studio; GA4; Campaign Analysis; SQL,95,no,2023-06-28,London,Master's,0,Skilled Worker visa,LinkedIn,inactive
+6964029,Eva,Santos,Italian,Software Engineer,mid,8,57500,90,Git; REST APIs; Python; Agile; Unit Testing,83,no,2025-01-24,Belfast,Diploma,90,EU settled status,University Partner,active
+8766282,Emily,Davies,Malaysian,Cloud Engineer,mid,5,57000,60,Linux; Terraform; GCP,85,yes,2025-04-18,Cardiff,Master's,45,EU settled status,Recruiter Outreach,active
+9290571,Liam,Singh,Irish,Technical Support Engineer,intern,1,18000,69,Troubleshooting; Networking; Windows; Customer Support; Linux,86,no,2023-09-20,Cork,Professional Certification,7,British or Irish citizen,University Partner,active
+2452305,Reuben,Peterson,Dutch,UX Designer,mid,7,50000,65,Prototyping; Wireframing; Figma,91,yes,2025-01-27,Birmingham,Master's,60,Skilled Worker visa,Job Board,active
+4952914,Eva,Robinson,Kenyan,Cybersecurity Analyst,senior,15,81000,88,Security Monitoring; Incident Response; Threat Detection; SIEM,94,no,2024-09-08,Bristol,Master's,0,Requires sponsorship,University Partner,active
+1436501,Layla,Singh,Ghanaian,Finance Analyst,mid,7,50500,77,SQL; Excel; Forecasting,84,no,2025-12-18,Cork,Master's,90,British or Irish citizen,Recruiter Outreach,inactive
+6406998,Alex,Doherty,French,Finance Analyst,entry level,2,27500,59,Budgeting; Excel; Variance Analysis; Forecasting; SQL,91,yes,2024-10-04,Remote EU,Bachelor's,30,Graduate visa,University Partner,active
+6787929,Adam,Hughes,American,HR Coordinator,senior,16,57500,68,Recruitment; HRIS; Onboarding; Compliance; Employee Records,96,yes,2024-08-07,Belfast,Master's,60,Student visa,Company Website,active
+7344986,Amelia,Lopez-Garcia,Australian,Project Manager,mid,7,60500,71,Risk Management; Planning; Budget Tracking,83,no,2024-12-04,Cork,Bachelor's,60,Skilled Worker visa,Career Fair,under review
+1741657,Kieran,Doherty,American,DevOps Engineer,junior,4,50500,59,Terraform; CI/CD; Docker; Linux,91,no,2023-07-01,Manchester,Bachelor's,7,Graduate visa,Referral,under review
+6400862,Arjun,Johnson,Turkish,IoT Security Engineer,intern,1,28000,82,Network Security; Python; Embedded Systems; Firmware Analysis; Threat Modelling,59,no,2023-11-21,Cardiff,Bachelor's,14,EU settled status,LinkedIn,under review
+4633440,Layla,Foster,Kenyan,QA Engineer,entry level,2,31000,54,Selenium; Test Automation; Manual Testing; Jira; Regression Testing,98,yes,2023-01-26,Belfast,Master's,30,Skilled Worker visa,Company Website,placed
+8387425,Dara,Jean-Baptiste,Dutch,Business Analyst,entry level,1,32500,83,SQL; Requirements Gathering; Process Mapping; Stakeholder Management; UAT,90,no,2024-09-18,Birmingham,High School,30,Graduate visa,Career Fair,active
+2849636,Hassan,Davies,Colombian,Marketing Analyst,mid,4,42500,90,Looker Studio; GA4; A/B Testing; SQL,91,yes,2024-04-19,Birmingham,Diploma,7,No sponsorship required,Referral,placed
+8698727,Lucas,Peterson,Spanish,Full Stack Developer,mid,5,54500,86,TypeScript; REST APIs; React,96,no,2024-10-17,Glasgow,Professional Certification,60,Skilled Worker visa,University Partner,inactive
+9923433,Ava,Evans,Egyptian,Technical Support Engineer,senior,22,68500,92,Networking; Customer Support; Linux; Troubleshooting,56,yes,2025-11-15,Cork,Bachelor's,0,Graduate visa,Referral,active
+3177326,David,McCarthy,Portuguese,Cybersecurity Analyst,mid,7,53500,86,Security Monitoring; Incident Response; SIEM,91,yes,2025-02-02,Manchester,Bachelor's,14,Skilled Worker visa,University Partner,under review
+6222711,Rachel,Smith-Jones,Nigerian,Software Engineer,intern,1,27000,65,REST APIs; Python; Java; Agile; Git,86,yes,2025-10-16,London,Bachelor's,0,Skilled Worker visa,University Partner,inactive
+6460281,Yasmin,Martin,Portuguese,UX Designer,mid,8,46500,81,Accessibility; Figma; User Research; Wireframing; Prototyping,96,yes,2023-05-03,Newcastle,Master's,30,Graduate visa,Company Website,active
+3801980,Sienna,Martin,British,Solutions Architect,junior,2,58500,81,Architecture Design; Security; Cloud Platforms; Stakeholder Management,93,no,2025-12-25,Derry,Bachelor's,60,Skilled Worker visa,Career Fair,active
+4123516,Omar,Ahmed,Colombian,Software Engineer,entry level,2,40000,78,Agile; Java; Python,71,no,2023-01-31,Cardiff,Professional Certification,14,Skilled Worker visa,Referral,active
+6357885,Kieran,Evans,Irish,Backend Developer,entry level,0,36500,83,Python; SQL; APIs,85,no,2025-12-10,Glasgow,Bachelor's,14,No sponsorship required,Career Fair,active
+2364292,Joseph,Evans,French,QA Engineer,mid,5,46000,85,Jira; Test Automation; Selenium; Regression Testing,96,yes,2023-12-10,Glasgow,Master's,90,British or Irish citizen,University Partner,inactive
+3718023,Grace,Garcia,Colombian,Business Analyst,intern,1,26000,69,Requirements Gathering; SQL; Stakeholder Management,79,yes,2024-08-05,Bristol,Bachelor's,90,No sponsorship required,Company Website,active
+2075529,Callum,Murphy,Nepalese,HR Coordinator,mid,7,38500,72,Employee Records; HRIS; Compliance; Recruitment; Onboarding,74,yes,2024-05-02,Glasgow,Master's,30,No sponsorship required,Company Website,placed
+6091659,Callum,Campbell,German,IoT Security Engineer,senior,8,79000,70,Python; Threat Modelling; Embedded Systems,95,yes,2025-11-26,Belfast,Bachelor's,60,EU settled status,Referral,active
+7924626,Samuel,Smith-Jones,Romanian,Frontend Developer,mid,7,53000,94,HTML; CSS; React; JavaScript; Accessibility,67,no,2024-10-28,Edinburgh,Professional Certification,90,Student visa,LinkedIn,active
+4582300,Ruby,Taylor,Colombian,HR Coordinator,mid,6,42500,82,Compliance; Onboarding; Employee Records,93,no,2023-10-29,Remote UK,Master's,60,Requires sponsorship,Referral,under review
+9771933,Samuel,Zhang,Argentinian,Business Analyst,entry level,1,34000,75,Stakeholder Management; Requirements Gathering; SQL; UAT; Process Mapping,75,no,2025-12-27,Newcastle,Master's,7,Student visa,LinkedIn,placed
+1940388,Holly,McDonald,South African,Marketing Analyst,mid,5,43000,93,Looker Studio; A/B Testing; Campaign Analysis; SQL,93,no,2024-12-31,Leeds,PhD,0,British or Irish citizen,University Partner,inactive
+1362868,Nora,Patel,South African,UX Designer,mid,4,44500,88,Accessibility; Figma; User Research; Prototyping,100,yes,2024-10-09,Remote EU,Master's,0,Requires sponsorship,Referral,under review
+6312885,Leo,Doherty,Indonesian,Finance Analyst,junior,4,39500,80,SQL; Budgeting; Excel; Forecasting,73,no,2023-05-21,Bristol,PhD,0,No sponsorship required,LinkedIn,placed
+8919991,Adam,Patel,Turkish,Network Engineer,junior,1,35000,88,Cisco; Network Monitoring; VPN; Routing,90,yes,2024-02-19,Glasgow,Diploma,90,No sponsorship required,Company Website,under review
+9872324,Camila,Walker,South African,Full Stack Developer,intern,0,23000,81,Docker; React; Node.js,83,yes,2025-02-28,Glasgow,Master's,0,Skilled Worker visa,Referral,active
+7281617,Maya,Davies,Vietnamese,Data Analyst,junior,4,30000,85,Qlik Sense; Excel; Tableau,83,yes,2024-10-04,Leeds,Diploma,45,Student visa,University Partner,placed
+6466516,Nora,Baker,Romanian,Frontend Developer,senior,13,73500,95,HTML; Accessibility; CSS,58,no,2023-09-19,Dublin,Professional Certification,7,Student visa,Job Board,under review
+4729813,Noah,Campbell,Nigerian,QA Engineer,junior,4,38000,79,Manual Testing; Test Automation; Jira; Regression Testing; Selenium,89,yes,2024-09-01,Belfast,Bachelor's,7,Graduate visa,Company Website,active
+4365273,Aaron,Doherty,Vietnamese,Finance Analyst,entry level,1,25500,58,SQL; Variance Analysis; Excel,61,no,2023-02-03,London,Bachelor's,14,Requires sponsorship,Job Board,placed
+6323167,Khadija,Kowalski,Brazilian,Technical Support Engineer,entry level,0,19000,85,Customer Support; Linux; Networking,59,no,2026-01-23,London,Bachelor's,0,Skilled Worker visa,Career Fair,active
+8125408,Aisha,Khan,Moroccan,Machine Learning Engineer,entry level,1,40500,72,TensorFlow; Python; MLOps; Model Evaluation,78,no,2025-05-10,Cork,Master's,14,Graduate visa,Company Website,active
+7095266,Arjun,Santos,Japanese,AI Research Engineer,senior,9,94500,84,Deep Learning; NLP; Python,82,no,2023-07-13,Remote EU,Bachelor's,60,Skilled Worker visa,LinkedIn,active
+5374948,Omar,Foster,French,Data Engineer,mid,5,50500,63,Data Warehousing; Python; Spark; Airflow; BigQuery,87,no,2023-12-18,Dublin,Bachelor's,60,British or Irish citizen,Career Fair,active
+5311461,Victoria,Thompson,American,Sales Engineer,senior,13,79500,66,Discovery; Technical Demos; CRM; Solution Design; Stakeholder Management,93,no,2024-06-20,Dublin,Master's,30,British or Irish citizen,LinkedIn,under review
+6974444,Isabella,Peterson,Turkish,Software Engineer,mid,5,60500,62,Python; Java; Agile; Unit Testing,88,yes,2024-09-06,Newcastle,Master's,14,British or Irish citizen,LinkedIn,active
+1039342,Mohammed,Singh,Irish,Cloud Engineer,mid,6,58500,61,Cloud Security; Azure; Terraform; AWS,86,yes,2023-08-12,Birmingham,Diploma,7,Graduate visa,Job Board,inactive
+2565104,Amara,Singh,Italian,Software Engineer,junior,1,40000,88,Python; Java; REST APIs; Git,74,yes,2024-08-23,Manchester,Bachelor's,14,No sponsorship required,University Partner,active
+7250932,Jacob,Brown,American,Solutions Architect,junior,2,63500,57,Architecture Design; Cloud Platforms; Security,100,yes,2025-05-11,Derry,Master's,7,Skilled Worker visa,Recruiter Outreach,active
+1889269,Thomas,Clarke,Canadian,IoT Security Engineer,senior,10,85000,70,Network Security; Firmware Analysis; Python; Threat Modelling; Embedded Systems,100,no,2025-02-12,London,Bachelor's,45,Requires sponsorship,Referral,active
+6460405,Bethany,Brown,French,AI Research Engineer,senior,15,95500,87,Experiment Tracking; Deep Learning; Python; Research Methods; NLP,62,no,2023-11-16,Cork,Professional Certification,7,Student visa,LinkedIn,placed
+9501689,Elena,Popescu,Mexican,SOC Analyst,entry level,0,26000,50,Splunk; MITRE ATTACK; Log Analysis; Incident Response,62,yes,2024-01-02,Glasgow,Bachelor's,0,Requires sponsorship,Recruiter Outreach,active
+4998141,Emily,Green,Japanese,Data Analyst,junior,2,29500,87,Tableau; Power BI; Data Cleaning; SQL,68,no,2025-01-06,Derry,Master's,90,EU settled status,University Partner,active
+1377277,Bethany,Brown,British,HR Coordinator,entry level,2,25500,84,Onboarding; Recruitment; Compliance; HRIS,83,yes,2024-10-24,Belfast,Professional Certification,30,Student visa,University Partner,active
+5100546,Maya,Murphy,Irish,Database Administrator,entry level,2,32500,83,PostgreSQL; Data Security; Performance Tuning; Backup Recovery; SQL Server,100,yes,2023-01-10,Leeds,Master's,60,EU settled status,Recruiter Outreach,under review
+4979717,Freya,Ahmed,Colombian,Business Analyst,entry level,1,25500,78,SQL; Stakeholder Management; Process Mapping; UAT,97,yes,2025-03-17,Birmingham,Master's,60,Student visa,Company Website,placed
+6065159,Omar,McCarthy,Kenyan,Sales Engineer,senior,16,91500,84,CRM; Stakeholder Management; Technical Demos,88,no,2024-07-18,Belfast,Bachelor's,60,EU settled status,Job Board,active
+7734295,Isabella,Kowalski,Brazilian,Solutions Architect,junior,2,58500,88,Security; Integration; Cloud Platforms,81,no,2024-12-13,Remote UK,Master's,45,Skilled Worker visa,Recruiter Outreach,placed
+9405471,Theo,Green,Ghanaian,Machine Learning Engineer,senior,22,102500,70,Python; Feature Engineering; TensorFlow; Model Evaluation,97,yes,2025-06-26,Cork,Bachelor's,30,Student visa,Referral,placed
+7689251,Jasmine,Wright,Ukrainian,Database Administrator,mid,4,54500,68,Backup Recovery; SQL Server; Performance Tuning; PostgreSQL; Data Security,62,no,2024-07-05,Dublin,Diploma,7,Requires sponsorship,University Partner,active
+8604711,Nora,Taylor,Spanish,Project Manager,entry level,2,34000,77,Planning; Stakeholder Management; Budget Tracking,69,no,2023-10-11,Glasgow,Bachelor's,90,Requires sponsorship,University Partner,active
+2991150,Jacob,Smith,Portuguese,Database Administrator,entry level,0,31000,84,SQL Server; Backup Recovery; Performance Tuning,75,no,2023-05-10,Birmingham,Professional Certification,90,Student visa,Career Fair,under review
+3922990,Nora,Roberts,Portuguese,Network Engineer,senior,14,66500,76,VPN; Switching; Firewalls,83,no,2024-11-10,Derry,Professional Certification,0,Requires sponsorship,Career Fair,active
+8963134,Holly,Smith-Jones,Egyptian,Backend Developer,senior,12,79000,69,Node.js; Python; SQL; APIs,80,yes,2024-01-25,Dublin,Bachelor's,0,Graduate visa,LinkedIn,inactive
+3746884,Kieran,O'Connor,Japanese,Full Stack Developer,senior,22,94500,86,React; Docker; SQL; TypeScript; Node.js,82,yes,2023-12-04,Remote EU,Bachelor's,14,Graduate visa,Career Fair,active
+5641288,Harriet,Wilson,Kenyan,SOC Analyst,entry level,0,24500,85,Incident Response; Alert Triage; MITRE ATTACK,84,no,2024-08-26,Liverpool,Bachelor's,30,Skilled Worker visa,Career Fair,active
+8379476,Rachel,Smith,Japanese,UX Designer,junior,1,33000,62,Prototyping; User Research; Wireframing,91,yes,2024-10-25,Remote EU,Bachelor's,90,EU settled status,University Partner,active
+4371541,Leo,Smith,Argentinian,QA Engineer,mid,6,40500,91,Manual Testing; Jira; Selenium; Test Automation; Regression Testing,86,yes,2023-06-30,Manchester,Master's,0,EU settled status,University Partner,active
+3949657,Theo,Al-Hassan,French,QA Engineer,mid,7,50000,92,Manual Testing; Test Automation; Selenium; Jira,86,no,2023-02-02,Edinburgh,Master's,14,Skilled Worker visa,Company Website,active
+2286689,Arjun,Nguyen,Dutch,Sales Engineer,entry level,2,34000,77,CRM; Discovery; Technical Demos; Solution Design; Stakeholder Management,58,no,2026-01-20,Edinburgh,Master's,0,EU settled status,Job Board,placed
+9086052,Liam,Clarke,Indian,AI Research Engineer,senior,20,99500,74,Research Methods; Python; Deep Learning; Experiment Tracking; NLP,93,yes,2023-02-02,Newcastle,Master's,30,Student visa,LinkedIn,under review
+1598570,Freya,Garcia,British,Backend Developer,entry level,1,35000,86,Docker; Node.js; Python; Microservices,98,yes,2023-12-31,London,PhD,7,EU settled status,Company Website,active
+8109164,Harriet,Van-Der-Merwe,Brazilian,Product Manager,mid,6,67500,63,Stakeholder Management; Roadmapping; Analytics,93,yes,2025-06-09,Glasgow,Diploma,14,Student visa,LinkedIn,active
+7033968,Daniel,Santos,Ukrainian,Cybersecurity Analyst,senior,15,75500,85,Incident Response; Vulnerability Assessment; SIEM; Security Monitoring; Threat Detection,91,no,2023-01-21,London,Bachelor's,14,British or Irish citizen,LinkedIn,active
+5575797,Finn,De-Souza,Chinese,AI Research Engineer,mid,5,67500,72,Research Methods; NLP; Deep Learning; Experiment Tracking; Python,79,no,2024-11-08,London,Bachelor's,14,Requires sponsorship,Recruiter Outreach,under review
+5121144,Aisha,Wright,Nepalese,QA Engineer,entry level,2,27000,86,Selenium; Test Automation; Manual Testing; Regression Testing; Jira,79,yes,2024-11-25,Remote UK,Diploma,30,No sponsorship required,Company Website,active
+6974589,Aisha,O'Neill,South African,SOC Analyst,junior,1,36000,76,MITRE ATTACK; Log Analysis; Splunk; Incident Response,83,no,2025-02-08,Remote UK,Professional Certification,7,Graduate visa,University Partner,active
+4811903,Yasmin,Turner,Ghanaian,Business Analyst,intern,1,26500,66,Process Mapping; SQL; UAT,96,yes,2024-03-07,Cardiff,Bachelor's,90,Student visa,Company Website,inactive
+9544835,Eva,Ali,Indian,Machine Learning Engineer,junior,1,42500,78,Feature Engineering; Model Evaluation; Scikit-learn; MLOps; TensorFlow,85,yes,2024-10-26,Remote UK,PhD,45,British or Irish citizen,Career Fair,active
+3355779,Daniel,Ahmed,Canadian,AI Research Engineer,junior,3,48000,65,Research Methods; Experiment Tracking; Python; Deep Learning,95,yes,2024-03-25,Dublin,PhD,90,Graduate visa,Job Board,active
+6298766,Rachel,Foster,Argentinian,Technical Support Engineer,mid,5,38500,84,Networking; Troubleshooting; Customer Support,93,no,2025-02-15,Cork,Bachelor's,90,Requires sponsorship,Job Board,under review
+6714515,Oscar,Wright,Kenyan,DevOps Engineer,senior,10,90000,74,Monitoring; CI/CD; Kubernetes; Docker,98,no,2023-05-07,Bristol,Master's,30,British or Irish citizen,Referral,active
+3034260,Victoria,Murphy,Malaysian,Full Stack Developer,entry level,2,34500,50,REST APIs; Node.js; SQL; Docker,64,no,2023-12-13,Newcastle,Master's,45,No sponsorship required,Career Fair,placed
+3122324,Ava,Martin,Mexican,Business Analyst,mid,7,51500,77,Process Mapping; SQL; UAT,84,no,2025-08-11,Derry,Bachelor's,60,No sponsorship required,LinkedIn,placed
+4818067,Jacob,Walker,Italian,Solutions Architect,mid,4,76500,92,Stakeholder Management; Security; Cloud Platforms; Architecture Design,56,yes,2025-11-21,Bristol,PhD,30,No sponsorship required,Referral,placed
+7980184,Freya,Nguyen,Indian,AI Research Engineer,entry level,2,39500,63,Research Methods; NLP; Python; Experiment Tracking; Deep Learning,55,no,2024-11-05,Belfast,Master's,60,EU settled status,Career Fair,under review
+5043352,Ben,Baker,Polish,AI Research Engineer,entry level,1,37000,65,Experiment Tracking; Python; Research Methods; Deep Learning; NLP,97,yes,2024-07-21,Newcastle,Master's,14,No sponsorship required,Job Board,placed
+8995994,Anika,Turner,Dutch,AI Research Engineer,mid,6,69500,84,Python; Deep Learning; Experiment Tracking; NLP,68,yes,2023-07-19,Glasgow,Bachelor's,30,Graduate visa,Job Board,active
+9968796,Leo,Santos,German,Finance Analyst,senior,14,62500,69,Forecasting; SQL; Budgeting; Excel; Variance Analysis,66,no,2024-02-06,Cork,Master's,7,No sponsorship required,Company Website,active
+1488030,Freya,Baker,Sri Lankan,AI Research Engineer,mid,7,64000,80,Experiment Tracking; Python; Deep Learning; NLP; Research Methods,91,no,2025-08-20,Cork,Bachelor's,7,Requires sponsorship,Career Fair,inactive
+2323623,Daniel,Popescu,Moroccan,Cloud Engineer,mid,4,58000,90,Cloud Security; Linux; GCP,87,no,2024-02-12,Edinburgh,Master's,30,No sponsorship required,Career Fair,active
+1191081,Emily,Peterson,South Korean,HR Coordinator,junior,4,28000,63,Onboarding; Recruitment; Employee Records; Compliance,71,yes,2025-10-28,Bristol,Bachelor's,45,British or Irish citizen,Job Board,inactive
+9432234,Aaliyah,Patel,Canadian,QA Engineer,intern,1,19000,61,Selenium; Jira; Test Automation; Manual Testing,85,no,2025-10-03,Bristol,Bachelor's,60,EU settled status,University Partner,active
+2497707,Ruby,McDonald,Sri Lankan,QA Engineer,mid,8,45500,68,Test Automation; Manual Testing; Selenium,90,no,2024-03-21,London,Bachelor's,30,Student visa,Recruiter Outreach,active
+4246700,Zara,Popescu,Kenyan,Solutions Architect,junior,1,60000,79,Stakeholder Management; Integration; Cloud Platforms; Security,89,no,2023-02-16,Bristol,PhD,30,Graduate visa,Recruiter Outreach,inactive
+5428398,Oscar,Sharma,Chinese,Backend Developer,junior,1,45000,69,Python; APIs; SQL; Microservices,58,no,2024-07-14,Cork,Bachelor's,45,Student visa,Company Website,inactive
+7777457,Khadija,Wilson,Indian,UX Designer,junior,4,33500,57,Prototyping; Wireframing; Figma; Accessibility,83,no,2024-07-01,Liverpool,Bachelor's,45,Skilled Worker visa,Career Fair,active
+4220083,Jade,Garcia,Italian,Database Administrator,mid,8,58500,91,Backup Recovery; PostgreSQL; Data Security; Performance Tuning; SQL Server,62,no,2024-12-06,Cork,Master's,14,Student visa,Recruiter Outreach,active
+4998324,Chloe,Jean-Baptiste,Polish,Data Engineer,junior,4,41500,85,ETL; Airflow; Spark; Data Warehousing; SQL,68,yes,2023-12-27,Liverpool,Bachelor's,7,Student visa,Referral,active
+2389179,Leo,Patel,South Korean,Full Stack Developer,junior,2,46500,81,SQL; REST APIs; Docker; TypeScript; React,81,no,2025-12-09,Belfast,Professional Certification,7,British or Irish citizen,Referral,active
+5520573,James,Davies,Malaysian,Data Engineer,entry level,1,38000,86,Airflow; BigQuery; Data Warehousing; Spark,82,no,2023-09-05,Belfast,Bachelor's,0,Requires sponsorship,Recruiter Outreach,placed
+8475844,Jack,O'Connor,Japanese,Finance Analyst,mid,7,42500,93,Variance Analysis; SQL; Budgeting,72,no,2025-05-13,Liverpool,Master's,60,No sponsorship required,Referral,active
+5999813,Ruby,Lopez-Garcia,Indian,UX Designer,junior,3,34500,69,Accessibility; Figma; Prototyping; User Research; Wireframing,75,yes,2025-12-10,Dublin,Professional Certification,60,Graduate visa,LinkedIn,active
+5178566,Arjun,Brown,Vietnamese,Solutions Architect,mid,4,79500,60,Integration; Cloud Platforms; Stakeholder Management,97,no,2023-03-02,Belfast,Master's,7,Student visa,Recruiter Outreach,placed
+2278598,Amara,Zhang,Sri Lankan,Sales Engineer,mid,5,62500,69,CRM; Technical Demos; Discovery; Stakeholder Management,79,yes,2024-08-28,Liverpool,Bachelor's,14,British or Irish citizen,Recruiter Outreach,placed
+6003910,Oscar,Robinson,Malaysian,SOC Analyst,entry level,0,29000,59,Log Analysis; MITRE ATTACK; Incident Response,81,no,2024-06-09,Edinburgh,Professional Certification,14,Skilled Worker visa,Recruiter Outreach,active
+7124164,Nora,Peterson,Chinese,Full Stack Developer,entry level,0,38500,66,SQL; REST APIs; TypeScript,83,yes,2024-05-18,Cork,Diploma,45,British or Irish citizen,Career Fair,inactive
+5182669,Gabriel,Khan,Italian,Network Engineer,junior,3,31500,70,Switching; Network Monitoring; Routing; Firewalls; VPN,72,yes,2025-10-20,Derry,Bachelor's,0,Graduate visa,Recruiter Outreach,active
+3910874,Lucas,O'Connor,Nigerian,Cybersecurity Analyst,entry level,2,33000,74,Threat Detection; Vulnerability Assessment; Security Monitoring,92,no,2024-01-11,Manchester,Bachelor's,30,Student visa,Company Website,active
+9841898,Finn,Murphy,Portuguese,Sales Engineer,entry level,1,35000,74,Technical Demos; Solution Design; CRM,75,no,2025-02-11,Manchester,Professional Certification,60,Requires sponsorship,LinkedIn,placed
+6165739,Amara,Doherty,Italian,Data Engineer,junior,2,44500,59,Python; Spark; Airflow,56,no,2025-04-11,Leeds,PhD,14,Skilled Worker visa,Career Fair,placed
+7189738,Anika,Nakamura,Nepalese,Data Analyst,entry level,0,26000,62,Data Cleaning; Tableau; Qlik Sense; Excel,57,no,2025-05-19,Remote EU,Bachelor's,60,Student visa,Recruiter Outreach,active
+6251757,Fatima,Van-Der-Merwe,Canadian,SOC Analyst,junior,4,38500,86,Incident Response; MITRE ATTACK; Log Analysis; Splunk,96,no,2023-09-19,Birmingham,Professional Certification,0,Student visa,Career Fair,active
+1787118,Freya,Wright,South African,Data Analyst,junior,4,29000,63,Tableau; Qlik Sense; SQL,92,yes,2024-08-05,Belfast,Master's,14,Student visa,Company Website,active
+5268726,Noah,Chen,Spanish,Product Manager,mid,7,70000,80,Stakeholder Management; Agile; Roadmapping; User Research; Analytics,65,no,2025-05-05,Newcastle,Bachelor's,14,Skilled Worker visa,University Partner,active
+1498360,Ava,De-Souza,Spanish,Product Manager,entry level,1,45500,74,Agile; User Research; Roadmapping; Stakeholder Management; Analytics,96,no,2023-03-07,Cork,Professional Certification,0,Student visa,Job Board,active
+4494587,Bethany,Green,German,Cybersecurity Analyst,intern,0,23500,47,Vulnerability Assessment; Incident Response; Threat Detection; Security Monitoring,57,no,2024-03-11,Manchester,Bachelor's,30,Graduate visa,LinkedIn,placed
+3646716,Daniel,Baker,Polish,AI Research Engineer,senior,10,90000,85,Deep Learning; Research Methods; Experiment Tracking; NLP; Python,84,yes,2025-12-18,Glasgow,Bachelor's,30,British or Irish citizen,Job Board,inactive
+3273981,William,McCarthy,Malaysian,Technical Support Engineer,entry level,2,27000,68,Linux; Customer Support; Windows; Networking,76,yes,2025-11-28,Leeds,Master's,7,British or Irish citizen,Career Fair,under review
+4967678,William,Lopez-Garcia,Chinese,Cybersecurity Analyst,entry level,1,36000,62,Threat Detection; Security Monitoring; Vulnerability Assessment,81,no,2024-10-20,Remote UK,Professional Certification,14,No sponsorship required,Career Fair,active
+5987586,Toby,Roberts,Egyptian,Cloud Engineer,mid,4,63000,74,Azure; Terraform; Cloud Security; GCP; Linux,71,yes,2024-08-27,Remote EU,Bachelor's,90,Skilled Worker visa,Job Board,active
+9129222,Sofia,Taylor,Ukrainian,DevOps Engineer,junior,1,49500,87,Terraform; Monitoring; Linux; Kubernetes,63,no,2024-01-25,Edinburgh,Bachelor's,14,EU settled status,LinkedIn,active
+6948110,Priya,Singh,Polish,SOC Analyst,senior,9,59000,68,Splunk; MITRE ATTACK; Incident Response,67,no,2023-01-27,Edinburgh,Bachelor's,60,Graduate visa,University Partner,inactive
+7396623,Jacob,Lewis,Nepalese,Full Stack Developer,entry level,1,33500,63,SQL; React; TypeScript; Docker; Node.js,85,yes,2025-08-12,Remote EU,Bachelor's,60,British or Irish citizen,LinkedIn,inactive
+8854799,Dara,O'Connor,Spanish,Frontend Developer,mid,4,50500,64,Accessibility; React; HTML,95,yes,2024-09-28,Manchester,PhD,0,Skilled Worker visa,Job Board,placed
+7896336,Camila,Campbell,Spanish,Technical Support Engineer,junior,2,29000,75,Linux; Customer Support; Networking; Windows,83,no,2024-05-12,Cardiff,Bachelor's,0,Graduate visa,University Partner,active
+4754709,Khadija,Baker,Vietnamese,AI Research Engineer,mid,4,66000,82,Research Methods; Experiment Tracking; Deep Learning,78,no,2025-02-10,Leeds,Master's,90,EU settled status,Company Website,active
+2401563,Lily,Kumar,Irish,SOC Analyst,intern,1,18000,65,Alert Triage; MITRE ATTACK; Splunk; Incident Response; Log Analysis,100,yes,2024-07-26,Newcastle,Master's,30,Requires sponsorship,Recruiter Outreach,inactive
+5618978,Aaliyah,Robinson,Dutch,SOC Analyst,mid,7,47000,69,MITRE ATTACK; Alert Triage; Splunk; Log Analysis,57,no,2023-01-12,Liverpool,Diploma,45,EU settled status,Career Fair,active
+2673955,Oscar,McCarthy,Polish,Data Engineer,junior,4,40000,62,ETL; Airflow; Spark; Data Warehousing; BigQuery,89,yes,2024-08-25,Derry,Bachelor's,90,Graduate visa,LinkedIn,active
+6690087,Aaliyah,Santos,Polish,Project Manager,junior,2,40500,71,Stakeholder Management; Agile; Planning; Risk Management; Budget Tracking,92,yes,2024-12-19,Birmingham,Bachelor's,14,British or Irish citizen,University Partner,inactive
+6604076,Liam,Garcia,Indonesian,Frontend Developer,mid,8,57500,73,TypeScript; Accessibility; JavaScript; HTML; React,73,yes,2024-12-15,Liverpool,Master's,60,Skilled Worker visa,Recruiter Outreach,inactive
+3802414,Isabella,Ali,Nigerian,Cloud Engineer,intern,1,29500,60,GCP; Cloud Security; Terraform; Azure,83,no,2023-01-21,Bristol,PhD,7,EU settled status,University Partner,active
+5674290,Jacob,Sharma,Pakistani,Product Manager,junior,4,49000,89,Analytics; Agile; Stakeholder Management,97,yes,2023-10-18,Glasgow,High School,7,Skilled Worker visa,Career Fair,placed
+3192114,Eli,Smith-Jones,Canadian,Technical Support Engineer,entry level,1,26500,53,Customer Support; Windows; Networking; Linux,82,no,2025-02-09,Remote EU,PhD,90,Graduate visa,Career Fair,active
+6587700,Theo,Campbell,British,Project Manager,junior,2,44500,68,Stakeholder Management; Agile; Risk Management; Budget Tracking,99,yes,2024-06-21,Belfast,Professional Certification,7,Graduate visa,Recruiter Outreach,under review
+4029750,Finn,Sharma,Nigerian,Product Manager,junior,3,53000,68,Analytics; Stakeholder Management; Agile; User Research; Roadmapping,87,yes,2023-09-21,Cardiff,Professional Certification,45,No sponsorship required,Company Website,active
+2186556,Aaron,Foster,Filipino,Solutions Architect,entry level,1,46500,52,Architecture Design; Cloud Platforms; Stakeholder Management; Security,88,yes,2025-04-19,Liverpool,Master's,7,Student visa,Recruiter Outreach,inactive
+5088573,Eli,Smith,Moroccan,Network Engineer,junior,1,38500,79,Routing; Firewalls; VPN,98,yes,2026-01-31,Manchester,High School,14,Skilled Worker visa,Career Fair,active
+7562568,Victoria,Davies,Malaysian,Product Manager,junior,3,46000,63,Analytics; Agile; Stakeholder Management; User Research,93,yes,2023-10-16,Manchester,Master's,7,Graduate visa,Job Board,active
+5221713,Eleanor,Henderson,Australian,Data Analyst,mid,7,43000,76,Data Cleaning; Power BI; Python,98,yes,2025-11-24,Dublin,Bachelor's,7,Requires sponsorship,University Partner,active
+9422167,Aaron,Khan,Spanish,Product Manager,junior,1,48000,84,User Research; Agile; Stakeholder Management,75,no,2024-02-19,Cardiff,Diploma,90,No sponsorship required,Recruiter Outreach,active
+4457818,Mia,Jean-Baptiste,British,QA Engineer,intern,0,20000,78,Test Automation; Manual Testing; Regression Testing; Jira; Selenium,97,yes,2023-12-07,Dublin,High School,0,Skilled Worker visa,University Partner,inactive
+5967194,Fatima,Hughes,Colombian,AI Research Engineer,entry level,1,38500,56,Python; NLP; Deep Learning; Experiment Tracking,85,yes,2023-10-07,Glasgow,Bachelor's,60,British or Irish citizen,Company Website,inactive
+9196894,Ben,Ahmed,Vietnamese,Project Manager,senior,10,80000,88,Planning; Agile; Risk Management; Stakeholder Management,89,yes,2023-10-06,Leeds,Bachelor's,7,Graduate visa,Career Fair,inactive
+1779039,Fatima,Singh,Chinese,Machine Learning Engineer,mid,4,66500,62,TensorFlow; Feature Engineering; Scikit-learn,60,no,2024-04-29,Newcastle,Bachelor's,0,Graduate visa,University Partner,active
+5113186,Alex,O'Connor,Canadian,AI Research Engineer,entry level,0,41500,63,Research Methods; Deep Learning; Python; Experiment Tracking; NLP,99,no,2025-05-20,Derry,Bachelor's,7,Graduate visa,University Partner,active
+7751013,Toby,Kumar,Nepalese,Cloud Engineer,mid,7,59000,70,Azure; Linux; Terraform; Cloud Security,90,no,2024-06-07,Edinburgh,PhD,7,Requires sponsorship,Referral,active
+9203047,Lucas,Jean-Baptiste,Romanian,IoT Security Engineer,mid,7,64500,79,Network Security; Embedded Systems; Python; Threat Modelling; Firmware Analysis,63,yes,2023-07-01,Glasgow,Master's,30,Student visa,Referral,active
+7380328,Hannah,Wright,Canadian,HR Coordinator,mid,5,37500,72,Compliance; Employee Records; Recruitment; HRIS; Onboarding,98,no,2025-06-20,Leeds,Professional Certification,30,British or Irish citizen,LinkedIn,active
+9014633,Victoria,Jean-Baptiste,Colombian,Database Administrator,mid,6,54000,94,Performance Tuning; Backup Recovery; SQL Server,61,no,2025-03-17,Remote EU,Master's,45,No sponsorship required,Job Board,under review
+8500585,Freya,Wright,Brazilian,Technical Support Engineer,intern,1,18000,70,Customer Support; Troubleshooting; Windows,68,yes,2024-11-19,Dublin,High School,90,British or Irish citizen,Career Fair,placed
+2481517,Arjun,McDonald,Sri Lankan,Sales Engineer,junior,2,41000,59,CRM; Solution Design; Stakeholder Management; Discovery; Technical Demos,83,yes,2023-02-04,Bristol,Master's,90,No sponsorship required,Company Website,placed
+8123760,Chloe,McDonald,Ukrainian,Sales Engineer,mid,5,59500,87,Solution Design; Discovery; Technical Demos,78,no,2024-12-18,Dublin,Bachelor's,7,British or Irish citizen,Recruiter Outreach,active
+7083382,Naomi,Clarke,Portuguese,Full Stack Developer,intern,0,25000,77,Node.js; TypeScript; REST APIs; React; SQL,88,no,2023-10-04,Leeds,Master's,7,Graduate visa,University Partner,active
+7445878,Harriet,McCarthy,Egyptian,Technical Support Engineer,mid,6,36500,72,Customer Support; Linux; Windows; Troubleshooting; Networking,90,no,2025-05-08,Cork,Bachelor's,0,British or Irish citizen,University Partner,placed
+3243391,Emily,Martin,Chinese,UX Designer,entry level,1,31500,69,User Research; Accessibility; Wireframing; Prototyping,59,no,2024-05-27,Bristol,Master's,45,Skilled Worker visa,Company Website,active
+4869504,Jasmine,Ali,Dutch,Data Analyst,senior,22,65000,83,Power BI; Data Cleaning; Python; SQL,84,no,2024-04-20,Glasgow,Bachelor's,90,British or Irish citizen,Recruiter Outreach,active
+4078978,Nora,Ahmed,South African,Sales Engineer,entry level,2,38500,63,Solution Design; CRM; Stakeholder Management; Discovery; Technical Demos,95,yes,2024-10-15,London,Diploma,45,EU settled status,Job Board,placed
+5629316,Sara,Evans,Ukrainian,Cloud Engineer,mid,8,65500,80,AWS; GCP; Linux; Terraform,57,yes,2023-03-05,Birmingham,Master's,45,EU settled status,LinkedIn,active
+6598021,Aaron,Van-Der-Merwe,Portuguese,Data Analyst,entry level,0,20000,68,SQL; Data Cleaning; Excel,55,no,2024-08-14,Remote EU,Bachelor's,7,Graduate visa,Career Fair,active
+6229382,Emily,Davies,Ukrainian,Data Analyst,mid,8,38500,81,Tableau; Power BI; SQL,92,yes,2023-06-10,Glasgow,Professional Certification,90,Requires sponsorship,LinkedIn,placed
+3810696,William,Hughes,French,Database Administrator,entry level,2,31500,58,Backup Recovery; Data Security; Performance Tuning; SQL Server; PostgreSQL,81,yes,2024-12-26,Manchester,Bachelor's,45,EU settled status,Job Board,inactive
+3011976,Anika,Clarke,Chinese,Frontend Developer,intern,1,26000,70,React; CSS; Accessibility,74,no,2025-12-01,Cork,High School,30,British or Irish citizen,Job Board,active
+8310163,David,Johnson,Italian,IoT Security Engineer,mid,5,64000,65,Network Security; Embedded Systems; Python; Threat Modelling; Firmware Analysis,68,yes,2024-08-30,Edinburgh,Master's,0,Skilled Worker visa,University Partner,under review
+8183189,Ibrahim,Popescu,Canadian,Software Engineer,mid,8,57500,90,Unit Testing; Python; Agile,86,no,2024-01-30,Cork,Diploma,30,Skilled Worker visa,Career Fair,active
+7064984,Zara,Santos,Irish,HR Coordinator,entry level,2,26500,60,HRIS; Onboarding; Recruitment; Compliance,97,yes,2024-12-27,Edinburgh,PhD,60,Skilled Worker visa,Referral,active
+5723556,Amara,Davies,Indian,Frontend Developer,entry level,0,26500,59,CSS; React; HTML,72,yes,2026-01-26,Liverpool,Master's,14,Graduate visa,Company Website,active
+3331493,Gabriel,Patel,Japanese,Sales Engineer,junior,4,50000,85,CRM; Discovery; Stakeholder Management,76,yes,2025-03-14,Leeds,Bachelor's,0,No sponsorship required,Recruiter Outreach,placed
+9346470,William,Clarke,Ukrainian,Solutions Architect,entry level,0,53500,79,Cloud Platforms; Security; Stakeholder Management,91,yes,2024-08-13,Cardiff,Master's,0,Requires sponsorship,University Partner,active
+4220328,Camila,Patel,Portuguese,Machine Learning Engineer,junior,4,46000,86,MLOps; Model Evaluation; TensorFlow,89,no,2024-01-31,Cardiff,High School,14,Requires sponsorship,University Partner,placed
+3095984,Rachel,Wilson,French,UX Designer,junior,3,39500,70,Figma; User Research; Wireframing; Accessibility; Prototyping,79,no,2025-02-23,Edinburgh,Master's,7,Graduate visa,LinkedIn,active
+7628210,Jacob,Garcia,Vietnamese,AI Research Engineer,senior,18,95500,92,Experiment Tracking; Deep Learning; Python; NLP,62,yes,2025-10-18,Remote UK,Bachelor's,30,Student visa,Company Website,active
+6462908,Amara,McDonald,Irish,Frontend Developer,mid,6,54500,80,Accessibility; JavaScript; React; HTML,92,no,2024-08-06,Newcastle,Master's,90,Student visa,Career Fair,under review
+5318084,Nora,Anderson,South African,Data Analyst,entry level,1,23000,68,Python; Excel; SQL,99,no,2025-10-16,Liverpool,PhD,45,Requires sponsorship,Job Board,inactive
+7067078,Toby,Anderson,Chinese,Frontend Developer,senior,10,69500,85,TypeScript; Accessibility; CSS; React,66,no,2024-03-13,Birmingham,PhD,0,No sponsorship required,Recruiter Outreach,inactive
+6940102,Naomi,Singh,Dutch,Product Manager,senior,19,97000,82,Roadmapping; User Research; Agile,78,no,2023-11-18,Dublin,Professional Certification,45,Requires sponsorship,Career Fair,active
+9321936,Dara,Popescu,Japanese,Data Analyst,senior,17,59500,78,SQL; Power BI; Data Cleaning,84,yes,2025-03-27,Cork,Professional Certification,0,EU settled status,Career Fair,active
+2207187,Omar,Van-Der-Merwe,Nigerian,Frontend Developer,intern,0,23500,52,Accessibility; React; TypeScript; HTML,88,no,2025-12-06,Dublin,Bachelor's,90,British or Irish citizen,LinkedIn,placed
+9119191,Mohammed,Kowalski,Portuguese,IoT Security Engineer,mid,8,63000,89,Embedded Systems; Firmware Analysis; Network Security,82,no,2023-05-14,Birmingham,Diploma,30,Graduate visa,Referral,active
+3812825,Liam,Taylor,Turkish,UX Designer,mid,7,46000,77,Figma; Prototyping; Wireframing; Accessibility; User Research,71,no,2024-06-28,Bristol,Bachelor's,0,Requires sponsorship,Career Fair,active
+2571738,Ava,Rodriguez,Mexican,Machine Learning Engineer,junior,2,46500,66,MLOps; Scikit-learn; TensorFlow; Model Evaluation; Python,93,yes,2024-01-30,Cork,Bachelor's,7,Skilled Worker visa,Job Board,active
+7167460,Lucas,Hughes,Sri Lankan,Solutions Architect,junior,3,64000,74,Security; Integration; Cloud Platforms; Architecture Design,81,yes,2024-08-25,Manchester,High School,14,Skilled Worker visa,Referral,active
+9874920,Emily,Turner,Brazilian,UX Designer,senior,8,70500,78,Accessibility; User Research; Wireframing; Figma; Prototyping,57,yes,2023-09-09,Manchester,Bachelor's,7,Requires sponsorship,Recruiter Outreach,placed
+2147817,Nora,Jean-Baptiste,Argentinian,Solutions Architect,mid,6,77500,81,Architecture Design; Stakeholder Management; Integration,63,yes,2024-12-30,Cork,Bachelor's,0,Student visa,Job Board,active
+6553066,Ibrahim,Khan,Japanese,Data Engineer,mid,4,51500,71,Data Warehousing; Python; BigQuery; Airflow,72,yes,2023-08-01,Remote UK,Master's,45,British or Irish citizen,Job Board,active
+5555692,Ava,Patel,Spanish,DevOps Engineer,intern,1,27000,58,Linux; Docker; Monitoring,83,no,2023-03-14,London,PhD,90,Skilled Worker visa,Referral,active
+7310831,Rachel,Brown,Indian,Database Administrator,junior,2,42000,78,SQL Server; Data Security; PostgreSQL; Performance Tuning,66,no,2024-03-10,Liverpool,Master's,60,British or Irish citizen,Company Website,inactive
+5733873,Oscar,Williams,Spanish,IoT Security Engineer,senior,15,82000,97,Python; Network Security; Firmware Analysis; Embedded Systems,92,no,2025-09-15,Belfast,Bachelor's,0,Student visa,Recruiter Outreach,placed
+4312565,Liam,Santos,Nepalese,Frontend Developer,senior,22,81500,73,CSS; JavaScript; Accessibility; React,69,yes,2024-02-19,Derry,Bachelor's,7,British or Irish citizen,Company Website,inactive
+2338300,Ibrahim,O'Connor,American,Project Manager,mid,7,59500,92,Planning; Budget Tracking; Stakeholder Management; Agile,88,yes,2025-04-10,Leeds,Master's,14,EU settled status,Referral,placed
+9639421,Kieran,Sharma,Colombian,Solutions Architect,mid,7,84000,61,Integration; Stakeholder Management; Architecture Design,64,no,2023-10-20,Edinburgh,Master's,0,Graduate visa,Career Fair,inactive
+4546046,Aisha,Campbell,Filipino,Cybersecurity Analyst,junior,2,35500,87,Vulnerability Assessment; Security Monitoring; Threat Detection,82,yes,2025-09-12,Edinburgh,Bachelor's,60,No sponsorship required,University Partner,under review
+5146112,Bilal,Johnson,Pakistani,Data Analyst,mid,7,41000,93,Power BI; Data Cleaning; Python; Qlik Sense,72,yes,2024-11-09,London,Professional Certification,90,Student visa,Recruiter Outreach,placed
+6174210,Benjamin,McCarthy,British,Network Engineer,senior,14,73000,74,Firewalls; Cisco; VPN; Network Monitoring; Switching,99,yes,2024-04-08,Dublin,Professional Certification,14,Graduate visa,Company Website,active
+1359369,Anika,Rodriguez,Japanese,SOC Analyst,entry level,2,25500,79,Splunk; Incident Response; Log Analysis,97,no,2023-12-08,Manchester,Master's,90,Requires sponsorship,Recruiter Outreach,placed
+2256403,Abigail,Ali,Vietnamese,Machine Learning Engineer,mid,5,59500,64,Feature Engineering; TensorFlow; MLOps; Python; Scikit-learn,76,yes,2024-08-15,Bristol,Bachelor's,30,Student visa,University Partner,active
+9352724,Rachel,Al-Hassan,Pakistani,Network Engineer,junior,1,30000,79,Firewalls; Routing; Switching; Network Monitoring,67,yes,2024-11-15,Liverpool,Bachelor's,30,Student visa,University Partner,under review
+5070357,Aaliyah,Wilson,Moroccan,Project Manager,intern,1,31500,61,Agile; Budget Tracking; Planning,93,no,2025-06-30,Derry,Bachelor's,14,No sponsorship required,University Partner,under review
+8887828,Abigail,Hughes,Bangladeshi,Full Stack Developer,mid,7,65000,70,SQL; React; TypeScript,57,no,2024-02-09,Newcastle,Bachelor's,0,No sponsorship required,Career Fair,active
+5832216,Kieran,O'Connor,Dutch,Product Manager,junior,2,46000,74,Agile; Roadmapping; User Research; Analytics; Stakeholder Management,69,no,2026-01-04,Bristol,Master's,14,Requires sponsorship,Career Fair,active
+5391899,Dara,Brown,American,Data Analyst,mid,4,37500,71,Python; Excel; Qlik Sense,92,yes,2026-01-10,Edinburgh,Master's,90,Skilled Worker visa,Recruiter Outreach,active
+6786594,Freya,Patel,Irish,IoT Security Engineer,mid,7,58500,76,Python; Network Security; Firmware Analysis,92,yes,2025-01-09,Liverpool,Master's,7,Requires sponsorship,Recruiter Outreach,placed
+7339557,Finn,Ali,Filipino,HR Coordinator,senior,17,57000,83,Compliance; Recruitment; Onboarding,80,yes,2025-10-16,Belfast,Master's,7,Graduate visa,Recruiter Outreach,active
+2381363,Victoria,Green,Mexican,DevOps Engineer,senior,21,103000,66,Terraform; Kubernetes; Monitoring,76,yes,2024-10-09,Manchester,Professional Certification,90,Requires sponsorship,Recruiter Outreach,active
+9553464,Callum,Young,Pakistani,HR Coordinator,senior,11,53000,96,Compliance; Employee Records; Recruitment; Onboarding; HRIS,65,yes,2023-10-04,Belfast,Bachelor's,45,No sponsorship required,Job Board,active
+7996999,Maya,Davies,Polish,Sales Engineer,mid,8,65500,63,CRM; Discovery; Solution Design; Technical Demos,60,yes,2025-10-26,Dublin,Bachelor's,7,No sponsorship required,LinkedIn,placed
+2848330,Bethany,Nguyen,Dutch,Machine Learning Engineer,senior,9,85500,76,TensorFlow; Scikit-learn; Model Evaluation; MLOps; Python,69,yes,2024-03-22,Edinburgh,Professional Certification,0,British or Irish citizen,Referral,active
+6649425,Adam,Green,Dutch,DevOps Engineer,mid,4,63500,85,CI/CD; Linux; Terraform; Docker,88,yes,2024-08-14,Edinburgh,Master's,45,Student visa,Referral,under review
+1635921,Leo,Patel,Sri Lankan,Business Analyst,mid,4,49000,93,Process Mapping; Stakeholder Management; SQL,81,yes,2024-04-26,Dublin,Master's,90,Requires sponsorship,University Partner,active
+7327330,Olivia,Lopez-Garcia,Canadian,Technical Support Engineer,entry level,0,23500,77,Networking; Linux; Windows,99,no,2023-09-16,Cardiff,Bachelor's,0,Requires sponsorship,Referral,active
+8826471,Samuel,Ali,German,Business Analyst,entry level,1,27500,65,SQL; Process Mapping; Stakeholder Management; UAT,59,no,2024-11-23,Manchester,Professional Certification,0,No sponsorship required,LinkedIn,under review
+6395497,Lucas,Ali,Portuguese,Technical Support Engineer,junior,2,29500,67,Customer Support; Linux; Windows; Troubleshooting,77,yes,2024-05-16,Derry,Master's,45,Skilled Worker visa,Company Website,active
+9952874,Aisha,Lewis,Portuguese,Business Analyst,junior,2,35000,89,UAT; Requirements Gathering; SQL; Process Mapping; Stakeholder Management,59,yes,2025-09-01,Newcastle,Professional Certification,90,No sponsorship required,Referral,active
+8973936,Ava,McDonald,Pakistani,Data Engineer,junior,4,45500,84,Data Warehousing; SQL; Python; ETL; Spark,87,yes,2025-11-18,Liverpool,Professional Certification,60,EU settled status,University Partner,active
+2616946,Theo,Campbell,South Korean,Solutions Architect,entry level,1,47500,66,Stakeholder Management; Cloud Platforms; Security,92,no,2025-08-21,London,Bachelor's,45,British or Irish citizen,University Partner,active
+3550836,Aaron,Khan,Colombian,Business Analyst,mid,7,48000,63,Process Mapping; Stakeholder Management; UAT; Requirements Gathering,71,no,2025-06-07,Liverpool,Bachelor's,0,Student visa,LinkedIn,active
+5346935,Nora,Foster,Indonesian,Sales Engineer,mid,4,54500,82,Technical Demos; Discovery; CRM,65,no,2023-11-17,Newcastle,Bachelor's,30,Requires sponsorship,Referral,placed
+4675195,Rachel,Roberts,Chinese,IoT Security Engineer,junior,4,50000,60,Python; Embedded Systems; Firmware Analysis; Network Security,60,no,2023-06-04,Bristol,Master's,60,Graduate visa,Referral,active
+8693377,Alex,Smith-Jones,Turkish,Finance Analyst,senior,21,75000,71,Variance Analysis; Forecasting; SQL; Budgeting,78,no,2023-07-12,Liverpool,Master's,30,EU settled status,Job Board,placed
+8849034,Nora,Rodriguez,Mexican,Network Engineer,mid,5,50500,64,Network Monitoring; Routing; Cisco; Firewalls,64,yes,2023-07-04,Manchester,Bachelor's,45,Graduate visa,Job Board,active
+3438219,Aisha,Walker,Pakistani,Full Stack Developer,intern,0,30500,77,Node.js; TypeScript; SQL; REST APIs; React,82,no,2024-02-18,Dublin,Master's,45,Student visa,Referral,active
+9338514,Priya,Hughes,Colombian,Data Analyst,mid,7,43500,82,Excel; Qlik Sense; Data Cleaning,87,no,2025-12-26,Birmingham,Master's,7,EU settled status,Company Website,active
+7098004,Sara,Doherty,Indian,SOC Analyst,mid,7,45500,72,Alert Triage; Incident Response; Splunk; MITRE ATTACK; Log Analysis,70,yes,2024-12-30,Bristol,Bachelor's,0,No sponsorship required,Career Fair,active
+5611157,Lily,O'Neill,Portuguese,Technical Support Engineer,junior,1,25000,80,Troubleshooting; Windows; Linux; Networking; Customer Support,56,yes,2024-11-09,Edinburgh,Master's,7,No sponsorship required,Recruiter Outreach,active
+7231127,Ben,McCarthy,Dutch,Cybersecurity Analyst,mid,8,58000,83,SIEM; Threat Detection; Incident Response,81,no,2023-03-22,Edinburgh,Bachelor's,30,Requires sponsorship,Referral,active
+6117022,Noah,Turner,Spanish,Business Analyst,mid,4,43000,66,UAT; Process Mapping; Stakeholder Management,79,no,2024-03-11,Manchester,Bachelor's,60,Graduate visa,LinkedIn,active
+6932130,Amir,Baker,Italian,Data Engineer,intern,0,21000,50,Airflow; ETL; Data Warehousing,86,yes,2023-01-18,Remote UK,Master's,90,Student visa,Job Board,active
+4540075,Theo,Ali,Indian,Backend Developer,senior,9,81500,96,Python; Microservices; Node.js,88,no,2023-04-09,Leeds,Master's,30,British or Irish citizen,LinkedIn,active
+9879211,Ava,Young,Filipino,Frontend Developer,mid,7,49500,90,JavaScript; Accessibility; CSS; React; TypeScript,82,no,2023-10-30,Newcastle,Bachelor's,30,Student visa,Career Fair,inactive
+9275053,Mia,Garcia,Canadian,AI Research Engineer,mid,8,65500,60,Deep Learning; Research Methods; NLP; Python; Experiment Tracking,93,yes,2023-08-09,Remote EU,PhD,60,EU settled status,University Partner,inactive
+6497966,Harriet,Smith,French,Sales Engineer,junior,3,46000,58,Technical Demos; Solution Design; CRM; Stakeholder Management,58,yes,2023-12-10,Birmingham,Master's,90,Requires sponsorship,Recruiter Outreach,placed
+4624051,Samuel,Baker,Vietnamese,Machine Learning Engineer,mid,7,69500,95,Feature Engineering; Scikit-learn; TensorFlow; Python,82,yes,2025-12-08,Edinburgh,Diploma,0,British or Irish citizen,Career Fair,active
+2692793,Adam,O'Connor,Indonesian,QA Engineer,entry level,2,32500,72,Jira; Selenium; Regression Testing; Test Automation; Manual Testing,88,yes,2026-01-21,Cardiff,Diploma,0,Student visa,Recruiter Outreach,active
+5172922,Oscar,Evans,British,Full Stack Developer,intern,0,30500,82,React; TypeScript; Docker,85,no,2024-02-03,Edinburgh,Professional Certification,45,Requires sponsorship,Recruiter Outreach,placed
+9744059,Toby,McCarthy,Bangladeshi,Cloud Engineer,entry level,0,35500,79,Cloud Security; Azure; GCP; AWS; Terraform,79,yes,2023-12-31,Cork,Bachelor's,45,EU settled status,Company Website,active
+5592762,Fatima,Zhang,Brazilian,Frontend Developer,mid,6,54000,81,CSS; JavaScript; Accessibility; HTML,94,no,2024-04-09,Remote UK,Bachelor's,7,British or Irish citizen,University Partner,active
+5877442,Victoria,O'Connor,British,Marketing Analyst,entry level,1,28000,86,A/B Testing; Campaign Analysis; SQL; GA4,99,no,2024-10-31,Glasgow,PhD,90,EU settled status,Recruiter Outreach,active
+1191623,Benjamin,Smith,Indonesian,Cloud Engineer,mid,4,61500,68,GCP; AWS; Cloud Security; Linux; Terraform,67,no,2023-05-13,Manchester,Diploma,14,British or Irish citizen,Company Website,placed
+6102738,Ruby,Roberts,South African,Data Analyst,senior,17,65500,90,Data Cleaning; SQL; Qlik Sense; Tableau; Power BI,94,no,2025-05-11,Bristol,Professional Certification,60,No sponsorship required,Recruiter Outreach,under review
+9193174,Thomas,Al-Hassan,Malaysian,Network Engineer,mid,6,53500,70,VPN; Switching; Network Monitoring; Cisco; Firewalls,93,yes,2026-01-21,Edinburgh,Master's,30,No sponsorship required,University Partner,active
+5377758,Elena,Martin,South African,Data Engineer,junior,2,45500,68,ETL; Python; Spark; BigQuery; SQL,97,no,2025-01-07,Derry,Bachelor's,7,EU settled status,Company Website,placed
+2961128,Harriet,Taylor,Japanese,Marketing Analyst,senior,21,66000,98,Campaign Analysis; SQL; Looker Studio,73,no,2024-04-26,Newcastle,Diploma,0,Requires sponsorship,Job Board,active
+1484520,Khadija,McDonald,Polish,Machine Learning Engineer,senior,14,96000,84,Scikit-learn; Feature Engineering; TensorFlow; Model Evaluation; MLOps,85,no,2025-10-10,Dublin,Master's,90,Skilled Worker visa,Recruiter Outreach,active
+4927210,Joseph,Ali,Malaysian,Marketing Analyst,entry level,2,26500,52,SQL; GA4; A/B Testing; Looker Studio,57,no,2023-02-27,Liverpool,Professional Certification,90,British or Irish citizen,Career Fair,active
+4189932,Freya,Van-Der-Merwe,Sri Lankan,Project Manager,junior,3,45000,77,Agile; Risk Management; Stakeholder Management; Budget Tracking; Planning,78,yes,2025-10-01,Remote EU,Diploma,0,Graduate visa,Referral,active
+1335036,Victoria,O'Neill,Nigerian,Solutions Architect,mid,5,76500,91,Security; Stakeholder Management; Architecture Design,83,no,2025-04-21,London,Bachelor's,0,Graduate visa,Company Website,active
+4065022,Noah,Khan,Malaysian,AI Research Engineer,entry level,0,41000,69,NLP; Experiment Tracking; Python; Research Methods; Deep Learning,94,no,2025-10-19,Dublin,Diploma,90,Requires sponsorship,Referral,active
+1099526,Noah,Young,Pakistani,Marketing Analyst,mid,4,40000,63,A/B Testing; GA4; SQL; Campaign Analysis; Looker Studio,69,yes,2025-09-03,Newcastle,Bachelor's,45,Student visa,Job Board,active
+8474376,Isabella,Kumar,Brazilian,Project Manager,junior,2,40500,64,Budget Tracking; Agile; Planning; Risk Management; Stakeholder Management,83,yes,2024-03-18,Remote EU,Master's,60,Graduate visa,LinkedIn,placed
+6409994,Toby,Peterson,Dutch,HR Coordinator,junior,1,27000,73,Recruitment; Onboarding; Compliance; Employee Records; HRIS,80,no,2025-08-01,Dublin,Bachelor's,45,Graduate visa,Recruiter Outreach,inactive
+5144340,Liam,Smith-Jones,Romanian,Project Manager,mid,4,59500,77,Stakeholder Management; Risk Management; Agile,58,no,2024-08-15,Cork,Bachelor's,30,British or Irish citizen,Company Website,active
+7612182,Joseph,Lewis,Ghanaian,SOC Analyst,mid,8,48000,71,Incident Response; Log Analysis; Alert Triage,82,no,2023-07-02,Glasgow,Bachelor's,60,Student visa,Referral,active
+4269851,Bilal,Nakamura,German,Business Analyst,mid,6,47500,85,SQL; Stakeholder Management; UAT,90,no,2024-08-01,Liverpool,Master's,14,No sponsorship required,Recruiter Outreach,active
+8509220,Ben,Wilson,Romanian,Machine Learning Engineer,entry level,1,35500,66,Scikit-learn; Feature Engineering; Python,88,yes,2025-10-18,Glasgow,Master's,45,Skilled Worker visa,Recruiter Outreach,placed
+7386921,Mia,Kumar,South African,Solutions Architect,entry level,2,55500,70,Architecture Design; Integration; Security,90,no,2025-06-12,Remote EU,Professional Certification,14,No sponsorship required,University Partner,active
+2209582,Chloe,Popescu,Egyptian,Data Engineer,junior,3,43500,70,Airflow; ETL; SQL; Python,55,no,2024-10-09,Leeds,Master's,45,EU settled status,Referral,active
+2627384,Mia,McCarthy,Argentinian,AI Research Engineer,entry level,0,39000,54,Research Methods; Deep Learning; Experiment Tracking,94,yes,2024-09-02,Belfast,Diploma,7,Graduate visa,Referral,under review
+6340410,David,Popescu,Ghanaian,Data Analyst,senior,14,58000,99,Data Cleaning; SQL; Python,100,yes,2024-12-17,Bristol,Master's,14,British or Irish citizen,Recruiter Outreach,under review
+8050494,Amir,McCarthy,Ghanaian,QA Engineer,mid,8,45000,65,Manual Testing; Selenium; Test Automation,84,yes,2024-03-08,Liverpool,Bachelor's,30,Student visa,Career Fair,active
+9766720,Jade,Sharma,Japanese,Frontend Developer,intern,0,23500,82,React; HTML; TypeScript; Accessibility; JavaScript,79,no,2023-01-31,Remote UK,Master's,90,No sponsorship required,LinkedIn,under review
+3962688,Liam,Kumar,South Korean,DevOps Engineer,entry level,0,39000,67,Linux; CI/CD; Terraform; Docker,58,yes,2024-12-02,Cork,Bachelor's,14,British or Irish citizen,LinkedIn,inactive
+4622148,Daniel,Robinson,Indian,Solutions Architect,senior,11,115500,75,Cloud Platforms; Architecture Design; Stakeholder Management; Integration,62,yes,2024-09-13,Cork,Master's,0,EU settled status,University Partner,placed
+9031492,Joseph,Clarke,Chinese,Full Stack Developer,junior,3,45000,73,Docker; TypeScript; Node.js; REST APIs; React,64,no,2024-06-06,Cardiff,Professional Certification,90,Requires sponsorship,University Partner,active
+7417673,Aisha,Smith-Jones,American,Product Manager,mid,5,66500,83,User Research; Analytics; Roadmapping; Stakeholder Management; Agile,97,no,2024-07-10,Glasgow,Bachelor's,60,EU settled status,Recruiter Outreach,placed
+1498953,Ben,O'Neill,South Korean,Product Manager,junior,3,51500,87,Roadmapping; Stakeholder Management; Agile,94,no,2023-10-27,Cork,Bachelor's,0,EU settled status,LinkedIn,under review
+9250634,Ethan,McDonald,Indonesian,IoT Security Engineer,junior,2,41500,61,Embedded Systems; Firmware Analysis; Network Security,83,no,2024-07-07,Derry,Master's,45,Requires sponsorship,Job Board,under review
+6178639,Alex,Santos,Ghanaian,Project Manager,junior,2,40000,67,Risk Management; Budget Tracking; Stakeholder Management; Agile,91,no,2023-05-14,Derry,Bachelor's,30,British or Irish citizen,LinkedIn,active
+7321424,Samuel,Zhang,Pakistani,Software Engineer,entry level,0,35000,58,REST APIs; Python; Unit Testing,76,yes,2025-06-17,Glasgow,Master's,45,British or Irish citizen,Company Website,active
+1347412,Elena,Davies,American,Full Stack Developer,entry level,0,32000,68,React; SQL; REST APIs; Docker; TypeScript,93,yes,2025-08-31,Remote EU,Bachelor's,14,No sponsorship required,Job Board,placed
+6354776,Bethany,Anderson,Kenyan,Sales Engineer,senior,22,89000,90,Discovery; Technical Demos; Solution Design; Stakeholder Management,92,no,2023-02-26,Bristol,High School,14,Requires sponsorship,Referral,active
+9377628,David,Kowalski,British,SOC Analyst,entry level,1,24000,60,Alert Triage; Splunk; MITRE ATTACK,88,no,2024-06-02,Newcastle,Bachelor's,7,Requires sponsorship,Referral,active
+5334879,Sienna,Murphy,Ghanaian,AI Research Engineer,intern,1,35000,65,Deep Learning; NLP; Experiment Tracking; Research Methods; Python,87,yes,2024-03-28,Birmingham,Bachelor's,30,British or Irish citizen,Career Fair,active
+1920871,Sofia,McCarthy,Moroccan,Data Engineer,entry level,0,32000,74,Data Warehousing; Spark; BigQuery; SQL; Python,55,yes,2024-03-05,Bristol,Bachelor's,90,Requires sponsorship,University Partner,placed
+1863528,Abigail,Brown,Ghanaian,Marketing Analyst,senior,8,56500,70,A/B Testing; Campaign Analysis; Looker Studio; SQL; GA4,100,no,2025-07-10,Liverpool,Bachelor's,60,Skilled Worker visa,LinkedIn,active
+1851254,Ava,Walker,Turkish,Business Analyst,mid,5,44000,61,UAT; Requirements Gathering; Stakeholder Management,84,no,2025-08-28,Liverpool,Master's,0,No sponsorship required,Referral,active
+2310009,Eli,Van-Der-Merwe,Irish,Network Engineer,mid,5,51000,72,Switching; Routing; Cisco; VPN; Firewalls,92,no,2023-06-09,Glasgow,Master's,7,Requires sponsorship,Career Fair,active
+3118972,Samuel,Rodriguez,Romanian,DevOps Engineer,entry level,2,44500,68,CI/CD; Monitoring; Kubernetes; Terraform,60,no,2023-10-15,Remote UK,Diploma,45,Requires sponsorship,University Partner,placed
+1449859,Harriet,Baker,Pakistani,Cloud Engineer,senior,10,85500,74,Azure; AWS; Terraform; GCP; Linux,80,yes,2024-05-24,Belfast,Bachelor's,14,Skilled Worker visa,Career Fair,active
+3202951,Isabella,De-Souza,French,Cybersecurity Analyst,mid,5,50500,95,Security Monitoring; Threat Detection; SIEM,57,no,2024-09-03,Remote UK,Bachelor's,60,No sponsorship required,Career Fair,active
+8531847,Eleanor,Anderson,Pakistani,Cybersecurity Analyst,entry level,2,36000,83,Vulnerability Assessment; Incident Response; Threat Detection; Security Monitoring; SIEM,64,no,2025-02-19,Derry,Master's,7,Student visa,LinkedIn,active
+1597321,Grace,Foster,Ukrainian,AI Research Engineer,junior,2,45500,88,Deep Learning; NLP; Experiment Tracking; Python,61,yes,2023-11-07,Remote EU,Bachelor's,90,No sponsorship required,Recruiter Outreach,placed
+3225479,Ibrahim,Anderson,Polish,Business Analyst,senior,12,68000,95,UAT; Process Mapping; Requirements Gathering; Stakeholder Management,90,yes,2025-07-24,Remote UK,Master's,14,No sponsorship required,LinkedIn,active
+9475980,Eleanor,Turner,Dutch,QA Engineer,senior,11,64000,91,Selenium; Regression Testing; Jira; Manual Testing; Test Automation,66,yes,2024-12-17,Cardiff,Diploma,7,Requires sponsorship,Job Board,active
+3041173,Nora,Smith,Malaysian,AI Research Engineer,entry level,0,44500,52,Experiment Tracking; Research Methods; NLP; Python; Deep Learning,95,yes,2025-02-15,Liverpool,Bachelor's,30,No sponsorship required,Recruiter Outreach,active
+6113173,Sophia,Johnson,Vietnamese,Technical Support Engineer,mid,4,35500,79,Troubleshooting; Customer Support; Windows; Linux,63,yes,2025-10-19,Newcastle,Bachelor's,14,No sponsorship required,Referral,active
+2031518,Maya,Clarke,Indian,UX Designer,entry level,1,31000,73,Figma; Prototyping; User Research; Accessibility,87,no,2025-04-05,Remote EU,Professional Certification,0,Graduate visa,University Partner,placed
+3624863,Sara,Kowalski,Moroccan,QA Engineer,mid,4,43000,88,Regression Testing; Jira; Test Automation; Selenium; Manual Testing,56,no,2023-09-07,Liverpool,Bachelor's,45,Requires sponsorship,Company Website,placed
+4163487,Liam,Robinson,Vietnamese,Data Engineer,mid,4,50000,91,BigQuery; Python; Data Warehousing; Spark; SQL,87,no,2023-06-18,London,Bachelor's,0,Requires sponsorship,Recruiter Outreach,active
+8095652,Bethany,Murphy,Chinese,SOC Analyst,entry level,1,25500,84,Alert Triage; Log Analysis; Incident Response,61,no,2025-10-07,Manchester,Bachelor's,90,EU settled status,Career Fair,placed
+7280550,Aaliyah,Zhang,Vietnamese,UX Designer,mid,8,53500,81,Accessibility; Prototyping; Wireframing; Figma; User Research,82,yes,2026-01-29,Glasgow,Bachelor's,45,Skilled Worker visa,Job Board,active
+7573416,Mohammed,Ali,Vietnamese,Machine Learning Engineer,senior,13,86500,69,Scikit-learn; Python; TensorFlow; Model Evaluation; Feature Engineering,73,yes,2024-12-05,Cork,Master's,7,No sponsorship required,University Partner,active
+4917165,Leo,Nakamura,Vietnamese,QA Engineer,mid,5,41500,93,Regression Testing; Jira; Test Automation,87,yes,2024-06-19,Cardiff,Master's,7,No sponsorship required,Job Board,active
+6580142,Holly,Wright,Indonesian,QA Engineer,mid,8,49500,83,Test Automation; Regression Testing; Selenium; Jira; Manual Testing,56,yes,2024-07-19,Newcastle,Bachelor's,7,No sponsorship required,Company Website,active
+7563182,William,Santos,Malaysian,Project Manager,entry level,0,40500,60,Planning; Risk Management; Agile,57,no,2024-06-13,Cork,Professional Certification,14,Graduate visa,LinkedIn,inactive
+6062012,Kieran,Thompson,Polish,Product Manager,junior,1,53000,75,User Research; Stakeholder Management; Analytics; Agile,58,yes,2024-06-02,Birmingham,Bachelor's,14,Student visa,LinkedIn,under review
+7493581,Finn,Van-Der-Merwe,Japanese,Machine Learning Engineer,entry level,1,42500,62,Feature Engineering; Python; Model Evaluation; TensorFlow,78,no,2024-03-11,London,High School,7,British or Irish citizen,Recruiter Outreach,active
+6234064,Kieran,Clarke,South Korean,DevOps Engineer,mid,5,62500,77,Linux; Kubernetes; CI/CD; Docker,55,no,2023-07-12,Cork,Bachelor's,30,No sponsorship required,Recruiter Outreach,placed
+5781458,Bilal,Peterson,Dutch,Network Engineer,mid,4,49000,68,Cisco; VPN; Routing,61,no,2024-04-21,Cork,Bachelor's,90,No sponsorship required,Recruiter Outreach,placed
+5306326,Layla,Zhang,Vietnamese,Sales Engineer,mid,7,58500,68,CRM; Stakeholder Management; Technical Demos,75,yes,2026-01-19,Belfast,Bachelor's,14,EU settled status,Job Board,active
+5789663,Olivia,Doherty,Ukrainian,Project Manager,intern,0,29500,63,Risk Management; Planning; Budget Tracking; Stakeholder Management,88,yes,2024-09-17,Remote EU,Master's,30,Student visa,Recruiter Outreach,active
+6379488,Thomas,Evans,Canadian,Project Manager,intern,0,25000,70,Stakeholder Management; Agile; Budget Tracking,88,yes,2023-08-30,Belfast,Master's,0,EU settled status,Company Website,active
+5281770,Sofia,O'Neill,Portuguese,QA Engineer,senior,20,76000,98,Jira; Test Automation; Selenium; Regression Testing,94,yes,2025-02-22,Glasgow,Master's,14,EU settled status,University Partner,active
+5984241,Oscar,Evans,Sri Lankan,Backend Developer,mid,7,60000,85,Python; Docker; Node.js; APIs,76,no,2025-01-30,Leeds,Master's,14,British or Irish citizen,Job Board,inactive
+1873915,Abigail,Johnson,Egyptian,Marketing Analyst,senior,11,64500,98,GA4; Looker Studio; SQL,63,yes,2023-10-27,Liverpool,PhD,0,Skilled Worker visa,LinkedIn,active
+5257212,Yasmin,Khan,Moroccan,Software Engineer,mid,7,59000,61,Unit Testing; Java; Python; Agile,73,yes,2025-07-16,Belfast,Master's,30,Skilled Worker visa,Referral,active
+1097725,Emily,Taylor,Polish,Marketing Analyst,senior,9,61000,91,GA4; Looker Studio; A/B Testing,74,no,2023-02-20,London,Bachelor's,30,Skilled Worker visa,Company Website,active
