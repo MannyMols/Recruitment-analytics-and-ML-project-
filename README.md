@@ -143,6 +143,7 @@ reported scores reflect genuine generalisation rather than test set luck.
 | scikit-learn | ML models, scaling, evaluation |
 | matplotlib / seaborn | Visualisation |
 | JupyterLab | Development environment |
+| AI assistance | Code development, debugging, and documentation supported by AI language models. All analytical decisions and interpretations are the author's own. |
 
 ---
 
