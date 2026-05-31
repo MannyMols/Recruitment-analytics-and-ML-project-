@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Recruitment_dashboard_ready.csv
+candidate_profiles.csv
+placement_outcomes.csv
+hire_hangar_master.csv
+hire_hangar_ml_ready.csv
