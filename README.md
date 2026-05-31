@@ -41,6 +41,8 @@ Two synthetic CSV files:
 
 Overall placement rate: **74%** (370 of 500 candidates placed)
 
+> **Synthetic Data Disclosure:** This dataset was fully generated using AI (ChatGPT) from a structured prompt designed by the author. No real candidate, company, or placement data was used at any point. It is intended solely for portfolio and educational purposes. For full details, see [DATASET_DISCLOSURE.md](DATASET_DISCLOSURE.md).
+
 ---
 
 ## Key Findings
