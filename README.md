@@ -1,10 +1,8 @@
 # Recruitment Analytics & ML Project
 
-A full end-to-end data science project built on a synthetic recruitment 
-dataset for a fictional staffing agency. The project covers 
-data cleaning, exploratory data analysis, feature engineering, and two 
-machine learning pipelines — a placement classifier and a satisfaction 
-regression model.
+A full end-to-end data science project built on a synthetic recruitment dataset for a fictional staffing agency. The project covers
+data cleaning, EDA, feature engineering, ML modelling (XGBoost, Stacking Ensemble), model evaluation with SHAP,
+funnel analysis, revenue impact modelling, and an interactive Plotly Dash dashboard.
 
 Built entirely in Python using JupyterLab.
 
@@ -19,6 +17,12 @@ Built entirely in Python using JupyterLab.
 | `03_feature_engineering.ipynb` | Feature creation, leakage removal, encode categoricals |
 | `04_ml_placement_prediction.ipynb` | Binary classification — predict placement outcome |
 | `05_ml_satisfaction_regression.ipynb` | Regression — predict client satisfaction score |
+| `06_advanced_models.ipynb` | Advanced ML — XGBoost & Stacking Ensemble classifier, ROC-AUC evaluation |
+| `07_model_evaluation.ipynb` | Deep model evaluation — SHAP explainability, cross-validation, ROC curves, confusion matrices |
+| `08_dashboard_export.ipynb` | Export dashboard-ready CSV with ML predictions, placement probability & risk tier labels |
+| `09_funnel_analysis.ipynb` | Recruitment funnel analysis — stage drop-off rates, seniority breakdown, revenue impact estimation |
+| `10_dashboard_app.ipynb` | Interactive Plotly Dash dashboard — KPI cards, risk donut chart, seniority bar, at-risk candidate table |
+| `10_dashboard_app.py` | Standalone Python script to run the Dash dashboard app locally on localhost:8050 |
 
 ---
 
