@@ -6,6 +6,8 @@ funnel analysis, revenue impact modelling, and an interactive Plotly Dash dashbo
 
 Built entirely in Python using JupyterLab.
 
+> **Not a technical reader?** If you're a recruiter or interested in the data story, head straight to the [Business Insights & Stakeholder Summary](BUSINESS_INSIGHTS.md).
+
 ---
 
 ## Project Structure
